@@ -1,0 +1,2446 @@
+Initialized Ares version: 20.333.289
+Ares requires a CPU with SSE support. Available.
+Set Process Affinity: 1 (1)
+Optimizing list of CD drives for NoCD mode.
+[Phobos] Initialized version: Special merge Build #45+3_3
+[Phobos] Modules presumably injected by Syringe:
+Module cncnet5.dll  base address : 0x6BBC0000.
+Module Ares.dll  base address : 0x5D990000.
+Module Phobos.dll  base address : 0x57320000.
+Module SIWinterIsComing.dll  base address : 0x52DC0000.
+Module Phobos.dll  base address : 0x68020000.
+Other modules:
+Module "AcGenral.dll"  base address : 0x77DA0000.
+Module msvcrt.dll  base address : 0x75C20000.
+Module sechost.dll.mui  base address : 0x76700000.
+Module Win32u.DLL  base address : 0x752E0000.
+Module gdi32  base address : 0x74EC0000.
+Module gdi32  base address : 0x74DD0000.
+Module msvcp_win.dll  base address : 0x76C80000.
+Module ucrtbase.dll  base address : 0x76460000.
+Module OLEAUT32.DLL  base address : 0x75990000.
+Module SAMCLI.DLL  base address : 0x79C00000.
+Module VERSION.DLL  base address : 0x749E0000.
+Module security.dll  base address : 0x73290000.
+Module SRVCLI.DLL  base address : 0x6D0F0000.
+Module NETUTILS.DLL  base address : 0x74100000.
+Module imm32  base address : 0x76E00000.
+Module ddraw.dll  base address : 0x67E10000.
+Module DBGHELP.DLL  base address : 0x73500000.
+Module DBGCORE.DLL  base address : 0x69ED0000.
+Module mscoree.dll  base address : 0x6CA20000.
+Module msvcp140.dll  base address : 0x703C0000.
+Module vcruntime140.dll  base address : 0x70630000.
+[Phobos] Detected Ares 3.0.
+Checking available disk space
+Using GetDiskFreeSpaceEx
+Free disk space is 38854 Mb
+Init Encryption Keys.
+Init_Keys - declarations
+Init_Keys - Load
+Init_Keys - Init fast key
+ EXPANDMG99.MIX EXPANDMG93.MIX EXPANDMG92.MIX EXPANDMG69.MIX EXPANDMG68.MIX EXPANDMG67.MIX EXPANDMG66.MIX EXPANDMG65.MIX EXPANDMG64.MIX EXPANDMG63.MIX EXPANDMG62.MIX EXPANDMG61.MIX EXPANDMG60.MIX EXPANDMG06.MIX EXPANDMG04.MIX EXPANDMG03.MIX CACHE.MIX CACHE.MIX CACHE.MIX LOCAL.MIXMaxLabelLen = 31
+Language: US
+[Phobos] Applying AppIcon from "RESOURCES/CLIENTICON.ICO"
+Focus_Restore()
+Focus_Restore(): _MouseCaptured = false
+Focus gained
+Default
+Default
+Prep direct draw.
+Prep direct draw.
+SetDisplayMode: 1366x768x16
+Checking hardware region fill capability...OK
+Checking overlapped blit capability...Failed!
+Display mode set
+DSurface::Create_Primary
+DSurface::AllowStretchBlits = true
+DSurface::AllowHWFill = true
+DSurface::Create_Primary - Creating surface
+CreateSurface OK
+DSurface::Create_Primary done
+Allocating new surfaces
+CompositeSurface (1198x768) VRAM ENABLE_3D
+TileSurface (1198x768) VRAM ENABLE_3D
+SidebarSurface (168x768) VRAM
+HiddenSurface (1366x768) VRAM
+AlternateSurface (1366x768) VRAM
+Calc_Confining_Rect(0,0,1366,768)
+Profile: CPU:1 (2716Mhz Pentium Pro)
+Profile: RAM:10 (2048Mb)
+Profile: VRAM:9 (16Mb)
+Profile: VRAM speed:5 (0 blits per second)
+Overall performance profile = 1
+Main_Game
+Init Game
+Bootstrap.....LOADED NTRLMD.MIXLOADED NEUTRAL.MIX
+event mempool size = 192000
+ ...OK
+Init Mouse
+Init CDROM
+Calling Force_CD_Available
+Init Secondary Mixfiles....
+ CONQMD.MIX CONQUER.MIX CAMEOMD.MIX CAMEO.MIX mapsmd03.mixMULTIMD.MIX THEME.MIX movmd03.mix ...OK
+Init Campaigns
+Init Heaps
+Init Threads
+Reading Game Settings
+-------- Loading RA2MD.INI settings --------
+GameSpeed = 1
+Difficulty = 1
+CampDifficulty = 0
+ScrollMethod = 0
+ScrollRate = 0
+AutoScroll is ON
+DetailLevel = 2
+SideBar on RIGHT
+Sidebar Text is ON
+ActionLines are ON
+ShowHidden is ON
+ToolTips are ON
+Resolution = 1366 X 768
+StretchMovies is OFF
+AllowHiRes is OFF
+SoundVolume = 0.300000
+VoiceVolume = 0.300000
+ScoreVolume = 0.300000
+ScoreRepeat is OFF
+ScoreShuffle is ON
+Emulated sound card latency default = 9
+--------- Loading Ares global settings -----------
+QuickExit is OFF
+AllowMultiEngineer is OFF
+CampaignList is OFF
+ShowDebugCampaigns is OFF
+Color count is 16
+Mod is The Moment of Genesis (1.0.0) with FABCD527
+--------- Complete -------------------------------
+Init Anim System
+Init Color Remap Tables
+Creating TacticalMap
+Reading SOUNDMD.INI
+Reading EVAMD.INI
+Reading THEMEMD.INI
+Reading MOVIEMD.INI
+Init Bulk Data
+RadarClass::One_Time()
+Set_View_Dimensions(0,0,1198,736)
+Deleting ZBuffer
+Allocating ZBuffer (1198x736)
+Deleting ABuffer
+Allocating ABuffer (1198x736)
+MessageListClass::Init(Width: 1184)
+MessageListClass::Set_Width(1190)
+Set_View_Dimensions(exit)
+Checking available disk space
+Using GetDiskFreeSpaceEx
+Free disk space is 38854 Mb
+Session one time init. UniqueID is d6eedb7d
+Init Rules
+[Developer warning]An INI section inherits from section 'DisplaySD', which doesn't exist or has not been parsed yet.
+Init random number
+Seed is 580cca62
+Init Commands
+Game Init Completed.
+ExceptionReturnStack = 0019D474
+ExceptionReturnAddress = 0048CDA8
+Init random number
+Seed is 580ccafe
+WinsockInterface constructed
+WinsockInterface init.
+About to call WSAStartup
+Winsock initialised OK
+Winsock version is 1.1
+Found protocol Vmbus, max frame size is 0
+Found protocol afunix, max frame size is 0
+Found protocol UDP/IP, max frame size is 65527
+Found protocol UDP/IPv6, max frame size is 65527
+Found protocol UDP/IP, max frame size is 65527
+Found protocol UDP/IP, max frame size is 65527
+About to open primary UDP socket
+About to bind the UDP socket to port 0
+Socket option SO_RCVBUF set OK
+Socket option SO_SNDBUF set OK
+Primary UDP Socket init complete
+IPX Manager: RetryDelta = 60
+MaxAhead is 15
+**** IPXManagerClass::Init ***
+About to open primary UDP socket
+About to bind the UDP socket to port 1234
+Socket option SO_RCVBUF set OK
+Socket option SO_SNDBUF set OK
+Primary UDP Socket init complete
+About to query the host name
+About to call gethostbyname
+Found local address: 26.251.59.195
+Found local address: 192.168.0.114
+About to open alternate UDP socket
+About to bind the UDP socket
+Socket option SO_RCVBUF set OK
+Socket option SO_SNDBUF set OK
+Alternate UDP Socket init complete
+Processing sides.
+Side 0: GDI 
+  Americans
+  Entente
+Side 1: Nod 
+  Russia
+  China
+  ASEAN
+Side 2: ThirdSide 
+  Confusion
+  Defense
+  Spread
+Side 3: TraceRL 
+  Rylade
+Side 4: Civilian 
+  Neutral
+Side 5: Mutant 
+  Special
+
+----- Starting scnenario: spawnmap.ini -----
+Player Count: 1
+Reading scenario: spawnmap.ini
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Scen->IsRandom = false
+ loadmd.MIXRead_Scenario_INI - Filename is spawnmap.ini
+Clearing old scenario
+Map.Init_Clear()
+MapClass::Init_Clear entry
+MapClass::Init_Clear done
+RadarClass::Init_Clear
+RadarClass::Init_Clear done
+Logic.Init()
+CurrentObjects.Clear()
+Scen->Clear_All_Waypoints()
+Init_Campaigns()
+[Phobos] Multiplayer start waypoint found at cell 13753,4916
+[Phobos] Multiplayer start waypoint found at cell 13753,4916
+[Phobos] Multiplayer start waypoint found at cell 0,0
+[Phobos] Multiplayer start waypoint found at cell 0,0
+Assigning Starting Points for house 1 (Americans)
+Starting cell taken: 1 (112,65)
+Converting 0 nodes.
+Init theater TEMPERATE
+Processing sides.
+Side 0: GDI 
+  Americans
+  Entente
+Side 1: Nod 
+  Russia
+  China
+  ASEAN
+Side 2: ThirdSide 
+  Confusion
+  Defense
+  Spread
+Side 3: TraceRL 
+  Rylade
+Side 4: Civilian 
+  Neutral
+Side 5: Mutant 
+  Special
+[Developer warning]Failed to parse INI file content: [PhaseShift]Armor=pstk2
+[Phobos] Failed to parse INI file content: [PhaseShift]IdleAnim=NUEKANIM
+[Developer warning]Failed to parse INI file content: [IronParclose]Armor=parclose
+[Phobos] Failed to parse INI file content: [godtankShield]HitAnim=PLSMRING1
+[Phobos] Failed to parse INI file content: [FLYGONTrailUAV02]Color=280,150,80 (Expected a valid R,G,B color)
+[Phobos] Failed to parse INI file content: [FLAMEOYTrailUAV02]Color=280,150,80 (Expected a valid R,G,B color)
+[Phobos] Failed to parse INI file content: [FLAMEOYTrailUAV22]Color=280,150,80 (Expected a valid R,G,B color)
+[Phobos] Failed to parse INI file content: [HEADERTrailUAV02]Color=20,20,280 (Expected a valid R,G,B color)
+[Phobos] Failed to parse INI file content: [HEADERTrailUAV22]Color=20,20,280 (Expected a valid R,G,B color)
+[Phobos] Failed to parse INI file content: [ERDRLaser]Color=256,30,30 (Expected a valid R,G,B color)
+[Phobos] Failed to parse INI file content: [BlimpTrailUAV22]Color=280,150,80 (Expected a valid R,G,B color)
+[Phobos] Failed to parse INI file content: [ERDRLaser2]Color=286,10,10 (Expected a valid R,G,B color)
+[Phobos] Failed to parse INI file content: [ELINAMedLaser2]Color=200,40,286 (Expected a valid R,G,B color)
+[Phobos] Failed to parse INI file content: [ZEP2TrailUAV02]Color=280,150,80 (Expected a valid R,G,B color)
+[Developer warning]An INI section inherits from section 'DisplaySD', which doesn't exist or has not been parsed yet.
+[Developer warning]Failed to parse INI file content: [IronCurtainSpecial]SW.Designators=20
+[Phobos] Failed to parse INI file content: [IronCurtainSpecial]SW.Designators=20
+[Developer warning]Failed to parse INI file content: [ParaDropSpecial]Cursor=AmerParaDrop
+[Developer warning]Failed to parse INI file content: [UniversalParaDropSpecial]Cursor=AmerParaDrop
+[Developer warning]Failed to parse INI file content: [EnergyBarrierSpecial]Cursor=Glacial
+[Developer warning]Failed to parse INI file content: [BenignGuidanceSpecial]Cursor=Glacial
+[Developer warning]Failed to parse INI file content: [MalignantPulseSpecial]Cursor=Glacial
+[Developer warning]Failed to parse INI file content: [IronParcloseSpecial]Cursor=Glacial
+[Developer warning]Failed to parse INI file content: [IronParcloseSpecial]SidebarPCX=icon.pcx (PCX file not found.)
+[Phobos] Failed to parse INI file content: [IronParcloseSpecial]SidebarPCX=icon.pcx (PCX file not found.)
+[Developer warning]Failed to parse INI file content: [IronCurtainSpecial02]SW.Designators=20
+[Phobos] Failed to parse INI file content: [IronCurtainSpecial02]SW.Designators=20
+[Developer warning]Failed to parse INI file content: [GAREFNAnimSpecial]SW.Warhead=Special2
+[Phobos] Failed to parse INI file content: [MagneticGlory]SW.Next=MagneticGlory2
+[Developer warning]Failed to parse INI file content: [TENTACLE1]Weapon=TentacleWeapon
+[Developer warning]Failed to parse INI file content: [GATECH]SuperWeapons=EnergyEnhanceSpecial
+[Phobos] Failed to parse INI file content: [GATECH]SuperWeapons=EnergyEnhanceSpecial
+[Developer warning]Failed to parse INI file content: [NACLON]DamageParticleSystems=SmallGreySmokeSys
+[Developer warning]Failed to parse INI file content: [CACITY02]Foundation=5x4
+[Developer warning]Failed to parse INI file content: [CACITY02]Foundation=5x4
+[Developer warning]Failed to parse INI file content: [YAGRND]DamageParticleSystems=SmallGreySmokeSys
+[Developer warning]Failed to parse INI file content: [GAZBDL]FactoryOwners=Arbitration
+[Developer warning]Failed to parse INI file content: [GABHMI]Insignia.Veteran=dummy (File could not be found)
+[Developer warning]Failed to parse INI file content: [GABHMI]Insignia.Elite=dummy (File could not be found)
+[Phobos] Failed to find file dummy.shp referenced by [GABHMI]Insignia.Veteran=dummy
+[Phobos] Failed to find file dummy.shp referenced by [GABHMI]Insignia.Elite=dummy
+[SIWIC] 在 [GABHMI] 中 , 属性 [Insignia.Veteran] 中存在无法载入的 shp 文件 : [dummy]
+[SIWIC] 在 [GABHMI] 中 , 属性 [Insignia.Elite] 中存在无法载入的 shp 文件 : [dummy]
+[Phobos] Failed to parse INI file content: [NAINDPCN]Grinding.AllowTypes=DTNK
+[Phobos] Failed to parse INI file content: [NAINDPCN]Grinding.AllowTypes=MEDUSA
+[Developer warning]Failed to parse INI file content: [TEBOLT]SuperWeapons=MagneticFallSpecial
+[Phobos] Failed to parse INI file content: [TEBOLT]SuperWeapons=MagneticFallSpecial
+[Developer warning]Failed to parse INI file content: [NASIOR]SuperWeapons=VehicleOverloadSpecial
+[Phobos] Failed to parse INI file content: [NASIOR]SuperWeapons=VehicleOverloadSpecial
+[Developer warning]Failed to parse INI file content: [YACLON]DamageParticleSystems=SmallGreySmokeSys
+[Developer warning]Failed to parse INI file content: [ENTTER]CameoPCX=.pcx (PCX file not found.)
+[Phobos] Failed to parse INI file content: [ENTTER]CameoPCX=.pcx (PCX file not found.)
+[SIWIC] ENTTER
+[Developer warning]Failed to parse INI file content: [SOVPALACE]CameoPCX=.pcx (PCX file not found.)
+[Phobos] Failed to parse INI file content: [SOVPALACE]CameoPCX=.pcx (PCX file not found.)
+[SIWIC] SOVPALACE
+[Phobos] [Developer warning] [CAFSJ] has Palette=newbuild set but no palette file was loaded (missing file or wrong filename). Missing palettes cause issues with lighting recalculations.
+[Developer warning]Failed to parse INI file content: [AILOCK]Armor=special
+[Developer warning]Failed to parse INI file content: [MagneticBSG]SuperWeapons=MagneticGlory2
+[Phobos] Failed to parse INI file content: [MagneticBSG]SuperWeapons=MagneticGlory2
+[Developer warning]Failed to parse INI file content: [CABYCA]Foundation=4x1
+[Developer warning]Failed to parse INI file content: [CABYCA]Foundation=4x1
+[Developer warning]Failed to parse INI file content: [CABYCB]Foundation=4x1
+[Developer warning]Failed to parse INI file content: [CABYCB]Foundation=4x1
+[Developer warning]Failed to parse INI file content: [CABYCC]Foundation=4x1
+[Developer warning]Failed to parse INI file content: [CABYCC]Foundation=4x1
+[Developer warning]Failed to parse INI file content: [CABYCD]Foundation=4x1
+[Developer warning]Failed to parse INI file content: [CABYCD]Foundation=4x1
+[Developer warning]Failed to parse INI file content: [CABYCE]Foundation=4x1
+[Developer warning]Failed to parse INI file content: [CABYCE]Foundation=4x1
+[Developer warning]Failed to parse INI file content: [CABYCF]Foundation=4x1
+[Developer warning]Failed to parse INI file content: [CABYCF]Foundation=4x1
+[Developer warning]Failed to parse INI file content: [CABYCG]Foundation=4x1
+[Developer warning]Failed to parse INI file content: [CABYCG]Foundation=4x1
+[Developer warning]Failed to parse INI file content: [CABYCH]Foundation=4x1
+[Developer warning]Failed to parse INI file content: [CABYCH]Foundation=4x1
+[Developer warning]Failed to parse INI file content: [CABYCI]Foundation=4x1
+[Developer warning]Failed to parse INI file content: [CABYCI]Foundation=4x1
+[Developer warning]Failed to parse INI file content: [CABYCJ]Foundation=4x1
+[Developer warning]Failed to parse INI file content: [CABYCJ]Foundation=4x1
+[Developer warning]Failed to parse INI file content: [CABYCK]Foundation=4x1
+[Developer warning]Failed to parse INI file content: [CABYCK]Foundation=4x1
+[Developer warning]Failed to parse INI file content: [CABYCL]Foundation=4x1
+[Developer warning]Failed to parse INI file content: [CABYCL]Foundation=4x1
+[Developer warning]Failed to parse INI file content: [CABYCM]Foundation=4x1
+[Developer warning]Failed to parse INI file content: [CABYCM]Foundation=4x1
+[Developer warning]Failed to parse INI file content: [CABYCN]Foundation=4x1
+[Developer warning]Failed to parse INI file content: [CABYCN]Foundation=4x1
+[Developer warning]Failed to parse INI file content: [CABYCO]Foundation=4x1
+[Developer warning]Failed to parse INI file content: [CABYCO]Foundation=4x1
+[Developer warning]Failed to parse INI file content: [BDRONE]Smoke.Anim=NOANIM
+[Developer warning]Failed to parse INI file content: [CORTER_A]Armor=f_light
+[Developer warning]Failed to parse INI file content: [FREEDOM_A]Armor=f_heavy
+[Developer warning]Failed to parse INI file content: [A10_A]Armor=f_medium
+[Developer warning]Failed to parse INI file content: [FLYGON_A]Armor=f_light
+[Developer warning]Failed to parse INI file content: [Rubbish1]Armor=inviso
+[Developer warning]Failed to parse INI file content: [Rubbish2]Armor=inviso
+[Developer warning]Failed to parse INI file content: [Rubbish3]Armor=inviso
+[Developer warning]Failed to parse INI file content: [Rubbish4]Armor=inviso
+[Developer warning]Failed to parse INI file content: [Rubbish5]Armor=inviso
+[Developer warning]Failed to parse INI file content: [FHZJ]Smoke.Anim=NOANIM
+[Developer warning]Failed to parse INI file content: [HUNTERUAV]Armor=f_light
+[Developer warning]Failed to parse INI file content: [HUNTERUAV]DamageParticleSystems=SmallIceSSys
+[Developer warning]Failed to parse INI file content: [TENGER]DamageParticleSystems=SmallIceSSys
+[Developer warning]Failed to parse INI file content: [UAV]Armor=f_light
+[Developer warning]Failed to parse INI file content: [UAV2]Armor=f_light
+[Developer warning]Failed to parse INI file content: [CNV3ROCKET]Missile.Weapon=V3Demobomb
+[Developer warning]Failed to parse INI file content: [CNV3ROCKET]Missile.EliteWeapon=V3DemobombE
+[Phobos] Replacing image for BEEFK with HTNK.
+[Phobos] Replacing image for BEEFK with HTNK.
+[Phobos] Replacing image for ROBO with ROBO.
+[Developer warning]Failed to parse INI file content: [ABRT]Insignia.Veteran=dummy (File could not be found)
+[Developer warning]Failed to parse INI file content: [ABRT]Insignia.Elite=dummy (File could not be found)
+[Developer warning]Failed to parse INI file content: [ABRT]FactoryOwners=Arbitration
+[Phobos] Failed to find file dummy.shp referenced by [ABRT]Insignia.Veteran=dummy
+[Phobos] Failed to find file dummy.shp referenced by [ABRT]Insignia.Elite=dummy
+[SIWIC] 在 [ABRT] 中 , 属性 [Insignia.Veteran] 中存在无法载入的 shp 文件 : [dummy]
+[SIWIC] 在 [ABRT] 中 , 属性 [Insignia.Elite] 中存在无法载入的 shp 文件 : [dummy]
+[Developer warning]Failed to parse INI file content: [SREF2]CameoPCX=.pcx (PCX file not found.)
+[Developer warning]Failed to parse INI file content: [SREF2]AltCameoPCX=.pcx (PCX file not found.)
+[Phobos] Failed to parse INI file content: [SREF2]CameoPCX=.pcx (PCX file not found.)
+[SIWIC] SREF2
+[Developer warning]Failed to parse INI file content: [BHRB]Insignia.Veteran=dummy (File could not be found)
+[Developer warning]Failed to parse INI file content: [BHRB]Insignia.Elite=dummy (File could not be found)
+[Developer warning]Failed to parse INI file content: [BHRB]Parachute.Anim=PARACHTD
+[Phobos] Failed to find file dummy.shp referenced by [BHRB]Insignia.Veteran=dummy
+[Phobos] Failed to find file dummy.shp referenced by [BHRB]Insignia.Elite=dummy
+[SIWIC] 在 [BHRB] 中 , 属性 [Insignia.Veteran] 中存在无法载入的 shp 文件 : [dummy]
+[SIWIC] 在 [BHRB] 中 , 属性 [Insignia.Elite] 中存在无法载入的 shp 文件 : [dummy]
+[Developer warning]Failed to parse INI file content: [HYAENAD]CameoPCX=.pcx (PCX file not found.)
+[Developer warning]Failed to parse INI file content: [HYAENAD]AltCameoPCX=.pcx (PCX file not found.)
+[Phobos] Failed to parse INI file content: [HYAENAD]CameoPCX=.pcx (PCX file not found.)
+[SIWIC] HYAENAD
+[Developer warning]Failed to parse INI file content: [SUTNTK]AltCameoPCX=sutntk2.pcx (PCX file not found.)
+[Developer warning]Failed to parse INI file content: [YMIN]DamageParticleSystems=YellowSmallSys
+[Developer warning]Failed to parse INI file content: [YMON]DamageParticleSystems=YellowSmallSys
+[Developer warning]Failed to parse INI file content: [YMON]CameoPCX=.pcx (PCX file not found.)
+[Developer warning]Failed to parse INI file content: [YMON]AltCameoPCX=.pcx (PCX file not found.)
+[Phobos] Failed to parse INI file content: [YMON]CameoPCX=.pcx (PCX file not found.)
+[SIWIC] YMON
+[Developer warning]Failed to parse INI file content: [RCMTC]AltCameoPCX=zcwrjicona,pcx (PCX file not found.)
+[Developer warning]Failed to parse INI file content: [MIND]WaterImage=MINDWR
+[Developer warning]Failed to parse INI file content: [YMCVE]AltCameoPCX=pcx.pcx (PCX file not found.)
+[Developer warning]Failed to parse INI file content: [SADS]Armor=n_heavy
+[Phobos] Replacing image for ROBO with ROBO.
+[Phobos] Replacing image for BEEFK with HTNK.
+[Phobos] Replacing image for BEEFK with HTNK.
+[Phobos] Replacing image for BEEFK with HTNK.
+[Developer warning]Failed to parse INI file content: [SREF2]CameoPCX=.pcx (PCX file not found.)
+[Developer warning]Failed to parse INI file content: [SREF2]AltCameoPCX=.pcx (PCX file not found.)
+[Phobos] Failed to parse INI file content: [SREF2]CameoPCX=.pcx (PCX file not found.)
+[SIWIC] SREF2
+[Developer warning]Failed to parse INI file content: [GGIFIX]CameoPCX=gdgiicon.pcx (PCX file not found.)
+[Developer warning]Failed to parse INI file content: [GGIFIX]AltCameoPCX=gdgiuico.pcx (PCX file not found.)
+[Phobos] Failed to parse INI file content: [GGIFIX]CameoPCX=gdgiicon.pcx (PCX file not found.)
+[SIWIC] GGIFIX
+[Phobos] Failed to parse INI file content: [ASTARTE]PipWrap=red (Expected a valid number)
+[Phobos] Failed to parse INI file content: [ASTARTEX]PipWrap=red (Expected a valid number)
+[Developer warning]Failed to parse INI file content: [E2]Armor=garrison
+[Phobos] Replacing image for SDOG with DOG.
+[Developer warning]Failed to parse INI file content: [LUNR]Prerequisite=NAPILE
+[Phobos] Replacing image for LUNR with LUNR.
+[Developer warning]Failed to parse INI file content: [MOBSTER_1]CameoPCX=jam.pcx (PCX file not found.)
+[Developer warning]Failed to parse INI file content: [MOBSTER_1]AltCameoPCX=jam.pcx (PCX file not found.)
+[Phobos] Failed to parse INI file content: [MOBSTER_1]CameoPCX=jam.pcx (PCX file not found.)
+[SIWIC] MOBSTER_1
+[Developer warning]Failed to parse INI file content: [MOUSE]CameoPCX=.pcx (PCX file not found.)
+[Developer warning]Failed to parse INI file content: [MOUSE]AltCameoPCX=.pcx (PCX file not found.)
+[Phobos] Failed to parse INI file content: [MOUSE]CameoPCX=.pcx (PCX file not found.)
+[SIWIC] MOUSE
+[Developer warning]Failed to parse INI file content: [SCOIONX]Armor=white
+[Developer warning]Failed to parse INI file content: [MOBSTER_1]CameoPCX=jam.pcx (PCX file not found.)
+[Developer warning]Failed to parse INI file content: [MOBSTER_1]AltCameoPCX=jam.pcx (PCX file not found.)
+[Phobos] Failed to parse INI file content: [MOBSTER_1]CameoPCX=jam.pcx (PCX file not found.)
+[SIWIC] MOBSTER_1
+[Developer warning]Failed to parse INI file content: [MOBSTER_1]CameoPCX=jam.pcx (PCX file not found.)
+[Developer warning]Failed to parse INI file content: [MOBSTER_1]AltCameoPCX=jam.pcx (PCX file not found.)
+[Phobos] Failed to parse INI file content: [MOBSTER_1]CameoPCX=jam.pcx (PCX file not found.)
+[SIWIC] MOBSTER_1
+[Developer warning]Failed to parse INI file content: [MEDIC]AltCameoPCX=.pcx (PCX file not found.)
+[Developer warning]Failed to parse INI file content: [E2union]Armor=garrison
+[Phobos] Replacing image for CAML with JOSH.
+[Phobos] Replacing image for DNOB with DNOB.
+[Phobos] Failed to parse INI file content: [HUISDEN]ExtraWarheads=HUISD554
+[Phobos] Failed to parse INI file content: [HUISDCment]ExtraWarheads=HUISD554
+[Developer warning]Failed to parse INI file content: [105mmBishopSpeedE]Anim=VEMUZZLE
+[Developer warning]Failed to parse INI file content: [105mmBishopE]Anim=VEMUZZLE
+[Developer warning]Failed to parse INI file content: [NGEMPW]Anim=STDMUZZ
+[Developer warning]Failed to parse INI file content: [MammothMissileStrike]Anim=REDFIRE
+[Developer warning]Failed to parse INI file content: [MammothMissileStrikeE]Anim=REDFIRE
+[Developer warning]Failed to parse INI file content: [RaiderAttack]Anim=RAIDERKILL
+[Developer warning]Failed to parse INI file content: [RaiderAttackAA]Anim=RAIDERKILL
+[Phobos] Failed to parse INI file content: [VortexPayload]ExtraWarheads=GAMNUKE02
+[Phobos] Failed to parse INI file content: [ATFGDTBomber2]ExtraWarheads=ATFGDTBuildFixWH
+[Developer warning]Failed to parse INI file content: [Sapper3]IvanBomb.Warhead=Mechanical1
+[Developer warning]Failed to parse INI file content: [NeutronRifle]Beam.Color=130,200150 (Expected a valid R,G,B color)
+[Phobos] Failed to parse INI file content: [NeutronRifle]Beam.Color=130,200150 (Expected a valid R,G,B color)
+[Developer warning]Failed to parse INI file content: [Sapper1]IvanBomb.Warhead=Mechanical1
+[Developer warning]Failed to parse INI file content: [OnaSapper]IvanBomb.Warhead=TeamkllWH
+[Developer warning]Failed to parse INI file content: [ShockerSapper]IvanBomb.Warhead=TeamkllWH
+[Phobos] [Developer warning] [InvisibleHighLI] has Trajectory set together with ROT value other than 0. ROT has been set to 0.
+[Phobos] [Developer warning] [CorruptorMissileProj] has Trajectory set together with ROT value other than 0. ROT has been set to 0.
+[Phobos] [Developer warning] [FlyDragonMissileProj] has Trajectory set together with ROT value other than 0. ROT has been set to 0.
+[Phobos] [Developer warning] [PlotevmaMissileProj] has Trajectory set together with ROT value other than 0. ROT has been set to 0.
+[Phobos] Failed to parse INI file content: [HellArcShipCannonProj]SubjectToCliffs=uo (Expected a valid boolean value [1, true, yes, 0, false, no])
+[Phobos] Failed to parse INI file content: [ArmorMissileProj]Cluster=yes (Expected a valid number)
+[Phobos] [Developer warning] [PlotevmaMissileAAProj] has Trajectory set together with ROT value other than 0. ROT has been set to 0.
+[Phobos] [Developer warning] [EADERGMissileProj] has Trajectory set together with Vertical. Vertical has been set to false.
+[Developer warning]Failed to parse INI file content: [CRNUKEWH]AnimList=MININUKE - added 11/30
+[Phobos] Failed to parse INI file content: [ULLTBFlame3]Shield.ReplaceOnly=LLTTKShield (Expected a valid boolean value [1, true, yes, 0, false, no])
+[Developer warning]Failed to parse INI file content: [OverloadDisableWH]EMP.Sparkles=EMP_FX02
+[Developer warning]Failed to parse INI file content: [AsuraDeathWH]DamageAirThreshold=yes (Expected a valid number)
+[Developer warning]Failed to parse INI file content: [ACVGunWH]AnimList=PIFPIF
+[Developer warning]Failed to parse INI file content: [ScorpionChelaWH]AnimList=ACIDBOOM
+[Developer warning]Failed to parse INI file content: [CryoBeam2WH]InfDeathAnim=FREEZE
+[Phobos] Failed to parse INI file content: [ULLTBFlame220]Shield.ReplaceOnly=LLTTKShield02 (Expected a valid boolean value [1, true, yes, 0, false, no])
+[Phobos] Failed to parse INI file content: [ULLTBFlame]Shield.ReplaceOnly=PhaseShift,ImmolateShield2,ThorAddition,EnergyBarrier,IronParclose,godtankShield,BasaltShield,LLTTKShield02 (Expected a valid boolean value [1, true, yes, 0, false, no])
+[Developer warning]Failed to parse INI file content: [ScorpionChelaXEWH]AnimList=ACIDBOOM
+[Phobos] Failed to parse INI file content: [ULLTBSECD02Flame]Shield.ReplaceOnly=PhaseShift,ImmolateShield2,ThorAddition,EnergyBarrier,IronParclose,godtankShield,BasaltShield,LLTTKShield (Expected a valid boolean value [1, true, yes, 0, false, no])
+[Developer warning]Failed to parse INI file content: [ScorpionBombXEWH]AnimList=ACIDBOOM
+[Developer warning]Failed to parse INI file content: [105mmBishopSpeedE]Anim=VEMUZZLE
+[Developer warning]Failed to parse INI file content: [105mmBishopE]Anim=VEMUZZLE
+[Developer warning]Failed to parse INI file content: [NGEMPW]Anim=STDMUZZ
+[Developer warning]Failed to parse INI file content: [MammothMissileStrike]Anim=REDFIRE
+[Developer warning]Failed to parse INI file content: [MammothMissileStrikeE]Anim=REDFIRE
+[Developer warning]Failed to parse INI file content: [RaiderAttack]Anim=RAIDERKILL
+[Developer warning]Failed to parse INI file content: [RaiderAttackAA]Anim=RAIDERKILL
+[Phobos] Failed to parse INI file content: [VortexPayload]ExtraWarheads=GAMNUKE02
+[Phobos] Failed to parse INI file content: [ATFGDTBomber2]ExtraWarheads=ATFGDTBuildFixWH
+[Developer warning]Failed to parse INI file content: [Sapper3]IvanBomb.Warhead=Mechanical1
+[Developer warning]Failed to parse INI file content: [NeutronRifle]Beam.Color=130,200150 (Expected a valid R,G,B color)
+[Phobos] Failed to parse INI file content: [NeutronRifle]Beam.Color=130,200150 (Expected a valid R,G,B color)
+[Developer warning]Failed to parse INI file content: [Sapper1]IvanBomb.Warhead=Mechanical1
+[Developer warning]Failed to parse INI file content: [OnaSapper]IvanBomb.Warhead=TeamkllWH
+[Developer warning]Failed to parse INI file content: [ShockerSapper]IvanBomb.Warhead=TeamkllWH
+[SIWIC] Buff [ASDOWNUP] 的属性 [Active.Auto.CheckFail.Type] 的值 "Reset" 是无效的 , 此处使用默认值
+[Developer warning]Failed to parse INI file content: [CRNUKEWH]AnimList=MININUKE - added 11/30
+[Phobos] Failed to parse INI file content: [ULLTBFlame3]Shield.ReplaceOnly=LLTTKShield (Expected a valid boolean value [1, true, yes, 0, false, no])
+[Developer warning]Failed to parse INI file content: [OverloadDisableWH]EMP.Sparkles=EMP_FX02
+[Developer warning]Failed to parse INI file content: [AsuraDeathWH]DamageAirThreshold=yes (Expected a valid number)
+[Developer warning]Failed to parse INI file content: [ACVGunWH]AnimList=PIFPIF
+[Developer warning]Failed to parse INI file content: [ScorpionChelaWH]AnimList=ACIDBOOM
+[Developer warning]Failed to parse INI file content: [CryoBeam2WH]InfDeathAnim=FREEZE
+[Phobos] Failed to parse INI file content: [ULLTBFlame220]Shield.ReplaceOnly=LLTTKShield02 (Expected a valid boolean value [1, true, yes, 0, false, no])
+[Phobos] Failed to parse INI file content: [ULLTBFlame]Shield.ReplaceOnly=PhaseShift,ImmolateShield2,ThorAddition,EnergyBarrier,IronParclose,godtankShield,BasaltShield,LLTTKShield02 (Expected a valid boolean value [1, true, yes, 0, false, no])
+[Developer warning]Failed to parse INI file content: [ScorpionChelaXEWH]AnimList=ACIDBOOM
+[Phobos] Failed to parse INI file content: [ULLTBSECD02Flame]Shield.ReplaceOnly=PhaseShift,ImmolateShield2,ThorAddition,EnergyBarrier,IronParclose,godtankShield,BasaltShield,LLTTKShield (Expected a valid boolean value [1, true, yes, 0, false, no])
+[Developer warning]Failed to parse INI file content: [ScorpionBombXEWH]AnimList=ACIDBOOM
+Processing sides.
+[Phobos] Failed to parse INI file content: [FLYGONTrailUAV02]Color=280,150,80 (Expected a valid R,G,B color)
+[Phobos] Failed to parse INI file content: [FLAMEOYTrailUAV02]Color=280,150,80 (Expected a valid R,G,B color)
+[Phobos] Failed to parse INI file content: [FLAMEOYTrailUAV22]Color=280,150,80 (Expected a valid R,G,B color)
+[Phobos] Failed to parse INI file content: [HEADERTrailUAV02]Color=20,20,280 (Expected a valid R,G,B color)
+[Phobos] Failed to parse INI file content: [HEADERTrailUAV22]Color=20,20,280 (Expected a valid R,G,B color)
+[Phobos] Failed to parse INI file content: [ERDRLaser]Color=256,30,30 (Expected a valid R,G,B color)
+[Phobos] Failed to parse INI file content: [BlimpTrailUAV22]Color=280,150,80 (Expected a valid R,G,B color)
+[Phobos] Failed to parse INI file content: [ERDRLaser2]Color=286,10,10 (Expected a valid R,G,B color)
+[Phobos] Failed to parse INI file content: [ELINAMedLaser2]Color=200,40,286 (Expected a valid R,G,B color)
+[Phobos] Failed to parse INI file content: [ZEP2TrailUAV02]Color=280,150,80 (Expected a valid R,G,B color)
+Processing sides.
+[Phobos] Failed to parse INI file content: [FLYGONTrailUAV02]Color=280,150,80 (Expected a valid R,G,B color)
+[Phobos] Failed to parse INI file content: [FLAMEOYTrailUAV02]Color=280,150,80 (Expected a valid R,G,B color)
+[Phobos] Failed to parse INI file content: [FLAMEOYTrailUAV22]Color=280,150,80 (Expected a valid R,G,B color)
+[Phobos] Failed to parse INI file content: [HEADERTrailUAV02]Color=20,20,280 (Expected a valid R,G,B color)
+[Phobos] Failed to parse INI file content: [HEADERTrailUAV22]Color=20,20,280 (Expected a valid R,G,B color)
+[Phobos] Failed to parse INI file content: [ERDRLaser]Color=256,30,30 (Expected a valid R,G,B color)
+[Phobos] Failed to parse INI file content: [BlimpTrailUAV22]Color=280,150,80 (Expected a valid R,G,B color)
+[Phobos] Failed to parse INI file content: [ERDRLaser2]Color=286,10,10 (Expected a valid R,G,B color)
+[Phobos] Failed to parse INI file content: [ELINAMedLaser2]Color=200,40,286 (Expected a valid R,G,B color)
+[Phobos] Failed to parse INI file content: [ZEP2TrailUAV02]Color=280,150,80 (Expected a valid R,G,B color)
+Preparing Mixfiles for Side 02.
+     Initilizing SIDEC03MD.MIX
+     Initilizing SIDEC03.MIX
+     Initilizing SIDENC03.MIX
+RadarClass::Init_For_House()
+[Developer notice]Counter attempted to overflow (given count of 583 exceeds maximum allowed count of 512).
+[Developer notice]Counter attempted to overflow (given count of 732 exceeds maximum allowed count of 512).
+[Developer notice]Counter attempted to overflow (given count of 583 exceeds maximum allowed count of 512).
+[Developer notice]Counter attempted to overflow (given count of 732 exceeds maximum allowed count of 512).
+[Developer notice]Counter attempted to overflow (given count of 732 exceeds maximum allowed count of 512).
+[Developer notice]Counter attempted to overflow (given count of 583 exceeds maximum allowed count of 512).
+[Developer notice]Counter attempted to overflow (given count of 732 exceeds maximum allowed count of 512).
+[Developer notice]Counter attempted to overflow (given count of 583 exceeds maximum allowed count of 512).
+[Developer notice]Counter attempted to overflow (given count of 732 exceeds maximum allowed count of 512).
+[Developer notice]Counter attempted to overflow (given count of 732 exceeds maximum allowed count of 512).
+[Developer notice]Counter attempted to overflow (given count of 583 exceeds maximum allowed count of 512).
+[Developer notice]Counter attempted to overflow (given count of 732 exceeds maximum allowed count of 512).
+[Developer notice]Counter attempted to overflow (given count of 583 exceeds maximum allowed count of 512).
+[Developer notice]Counter attempted to overflow (given count of 732 exceeds maximum allowed count of 512).
+[Developer notice]Counter attempted to overflow (given count of 732 exceeds maximum allowed count of 512).
+[Developer notice]Counter attempted to overflow (given count of 583 exceeds maximum allowed count of 512).
+[Developer notice]Counter attempted to overflow (given count of 732 exceeds maximum allowed count of 512).
+[Developer notice]Counter attempted to overflow (given count of 583 exceeds maximum allowed count of 512).
+[Developer notice]Counter attempted to overflow (given count of 732 exceeds maximum allowed count of 512).
+[Developer notice]Counter attempted to overflow (given count of 732 exceeds maximum allowed count of 512).
+MapClass::Init_Clear entry
+MapClass::Init_Clear done
+RadarClass::Init_Clear
+RadarClass::Init_Clear done
+Loaded 293 isometric tiles consuming 1986 Kb
+[Phobos] Multiplayer start waypoint found at cell -9124,131
+[Phobos] Multiplayer start waypoint found at cell -9124,131
+Finished unit generation. Random number is 28822
+Converting 0 nodes.
+[Developer error][YDUM]SpeedType is invalid!
+[Developer error][TRTNK_1]SpeedType is invalid!
+[Developer error][TRTNK_2]SpeedType is invalid!
+[Developer error][LZCHK]Passengers=2 and SizeLimit=0!
+[Developer error][TENGOS]SpeedType is invalid!
+[Developer error][CAOS,]SpeedType is invalid!
+[Developer error][train1]SpeedType is invalid!
+[Developer error][train2]SpeedType is invalid!
+[Developer error][LZCHKunion]Passengers=2 and SizeLimit=0!
+[Developer error]ShadowIndex on [BoltZEP]'s image is 1, but the HVA only has 1 sections.
+[Developer error][VISC_LRG]SpeedType is invalid!
+[Developer error][VISC_SML]SpeedType is invalid!
+[Developer warning]Building Type [UFO] does not have a valid BuildCat set!
+It was reset to Infrastructure, but you should really specify it explicitly.
+[Developer error]Weapon[UltrasonicResonanceGunE] has no Warhead! This usually indicates one of two things:
+- The weapon was created too late and its rules weren't read (see WEEDGUY hack);
+- The weapon's name was misspelled.
+[Developer error]Weapon[UltrasonicResonanceGunE] has no Projectile! This usually indicates one of two things:
+- The weapon was created too late and its rules weren't read (see WEEDGUY hack);
+- The weapon's name was misspelled.
+[Developer error]Weapon[HEADERMissile03] has no Warhead! This usually indicates one of two things:
+- The weapon was created too late and its rules weren't read (see WEEDGUY hack);
+- The weapon's name was misspelled.
+[Developer error]Weapon[HEADERMissile03] has no Projectile! This usually indicates one of two things:
+- The weapon was created too late and its rules weren't read (see WEEDGUY hack);
+- The weapon's name was misspelled.
+[Developer error]Weapon[PEBTJab2] has no Warhead! This usually indicates one of two things:
+- The weapon was created too late and its rules weren't read (see WEEDGUY hack);
+- The weapon's name was misspelled.
+[Developer error]Weapon[PEBTJab2] has no Projectile! This usually indicates one of two things:
+- The weapon was created too late and its rules weren't read (see WEEDGUY hack);
+- The weapon's name was misspelled.
+[Developer error]Weapon[TentacleWeapon] has no Warhead! This usually indicates one of two things:
+- The weapon was created too late and its rules weren't read (see WEEDGUY hack);
+- The weapon's name was misspelled.
+[Developer error]Weapon[TentacleWeapon] has no Projectile! This usually indicates one of two things:
+- The weapon was created too late and its rules weren't read (see WEEDGUY hack);
+- The weapon's name was misspelled.
+[Developer warning]The [BuildingTypes] list contains more than 512 entries. This might result in unexpected behaviour and crashes.
+[Developer warning]The [VehicleTypes] list contains more than 512 entries. This might result in unexpected behaviour and crashes.
+MessageListClass::Init(Width: 1184)
+     Releasing NEUTRAL.MIX
+     Releasing NTRLMD.MIX
+SoundVolume = 0.300000
+VoiceVolume = 0.300000
+ScoreVolume = 0.300000
+ScoreRepeat is OFF
+ScoreShuffle is ON
+Theme::Stop(41) - Fading
+Entering Create_Connections
+IPX Manager: RetryDelta = 60
+MaxAhead is 24
+FD_WRITE - No OutBuffers left - nothing to do
+FD_WRITE - No AltOutBuffers left - nothing to do
+Tooltips are on.
+Capture_Mouse()
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Adding event DEPLOY
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Adding event PRODUCE
+Create_One_Of...
+Creating a new team named 'USA T1 A 1'.
+Create_One_Of...
+Creating a new team named 'USA T1 A 2'.
+Adding event PLACE
+Adding event PRODUCE
+Create_One_Of...
+Creating a new team named 'USA T1 B 1'.
+Create_One_Of...
+Creating a new team named 'USA T1 B 2'.
+Adding event PLACE
+Adding event PRODUCE
+Create_One_Of...
+Creating a new team named 'USA T1 D 1'.
+Create_One_Of...
+Creating a new team named 'USA T1 D 2'.
+Adding event PLACE
+Adding event PRODUCE
+Adding event PLACE
+Adding event PLACE
+Adding event PLACE
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Adding event PLACE
+Adding event PLACE
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Adding event PRODUCE
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[LAUNCH] GlobalDeploymentSpecial
+Adding event PRODUCE
+Create_One_Of...
+Creating a new team named 'USA T1 C 1'.
+Create_One_Of...
+Creating a new team named 'USA T1 C 2'.
+Adding event PLACE
+Create_One_Of...
+Creating a new team named 'USA T1 C 1'.
+Create_One_Of...
+Creating a new team named 'USA T1 C 2'.
+Adding event PRODUCE
+Adding event PRODUCE
+Adding event PRODUCE
+Adding event PLACE
+Adding event PLACE
+Adding event PLACE
+Adding event PLACE
+Adding event PRODUCE
+[LAUNCH] GlobalDeploymentSpecial
+Create_One_Of...
+Creating a new team named 'USA T1 D 1'.
+Create_One_Of...
+Creating a new team named 'USA T1 D 2'.
+Create_One_Of...
+Creating a new team named 'USA T1 A 1'.
+Create_One_Of...
+Creating a new team named 'USA T1 A 2'.
+Adding event PLACE
+Radar: TacticalMap availability is on
+Radar: ACTIVATING
+Adding event PRODUCE
+Adding event PRODUCE
+Adding event PRODUCE
+Adding event PRODUCE
+Adding event SUSPEND
+Adding event ABANDON_ALL
+(006abbda) : <human player> is abandoning production of Yuri Virus[VIRUS]
+Create_One_Of...
+Creating a new team named 'USA T1 C 1'.
+Create_One_Of...
+Creating a new team named 'USA T1 C 2'.
+Adding event PRODUCE
+Adding event PRODUCE
+Adding event PRODUCE
+Adding event PRODUCE
+Adding event PLACE
+Adding event ABANDON_ALL
+Adding event PRODUCE
+Adding event PRODUCE
+Adding event PLACE
+Adding event PLACE
+[LAUNCH] GlobalDeploymentSpecial
+Adding event PLACE
+Adding event PLACE
+Adding event PLACE
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Adding event PLACE
+Adding event PLACE
+Adding event PRODUCE
+Adding event PRODUCE
+Adding event PLACE
+Create_One_Of...
+Creating a new team named 'USA T1 D 1'.
+Create_One_Of...
+Creating a new team named 'USA T1 D 2'.
+Create_One_Of...
+Creating a new team named 'USA T1 C 1'.
+Create_One_Of...
+Creating a new team named 'USA T1 C 2'.
+Adding event PLACE
+Adding event PLACE
+[LAUNCH] GlobalDeploymentSpecial
+Create_One_Of...
+Creating a new team named 'USA T1 B 1'.
+Create_One_Of...
+Creating a new team named 'USA T1 B 2'.
+Adding event PLACE
+Adding event PRODUCE
+Adding event PLACE
+Adding event PLACE
+Adding event PRODUCE
+Create_One_Of...
+Creating a new team named 'USA T1 TK C 1'.
+Create_One_Of...
+Creating a new team named 'USA T1 TK C 2'.
+Adding event PLACE
+Adding event PLACE
+Weapons factory bib clear - kicking out unit
+Adding event PLACE
+Weapons factory bib clear - kicking out unit
+Adding event PRODUCE
+Adding event PLACE
+(0045022c) : Computer is abandoning production of Navy Shipyard[GAYARD]
+Create_One_Of...
+Creating a new team named 'USA T1 TK B 1'.
+Create_One_Of...
+Creating a new team named 'USA T1 TK B 2'.
+Adding event PRODUCE
+Adding event PRODUCE
+Adding event PLACE
+[LAUNCH] GlobalDeploymentSpecial
+Weapons factory bib clear - kicking out unit
+Adding event PLACE
+Adding event PRODUCE
+Adding event SPECIAL_PLACE
+[LAUNCH] PsychicRevealSpecial
+Adding event PLACE
+Adding event PLACE
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Adding event PLACE
+Create_One_Of...
+Creating a new team named 'USA T1 TK D 1'.
+Create_One_Of...
+Creating a new team named 'USA T1 TK D 2'.
+Adding event PRODUCE
+Adding event PLACE
+Weapons factory bib clear - kicking out unit
+Adding event PLACE
+Weapons factory bib clear - kicking out unit
+Adding event PLACE
+Weapons factory bib clear - kicking out unit
+Adding event PLACE
+Weapons factory bib clear - kicking out unit
+[LAUNCH] GlobalDeploymentSpecial
+Weapons factory bib clear - kicking out unit
+Create_One_Of...
+Creating a new team named 'USA T1 D 1'.
+Create_One_Of...
+Creating a new team named 'USA T1 D 2'.
+A USA T1 TK C 1 Team has chosen ( 57, 82) for its GatherAtEnemy cell.
+Create_One_Of...
+Creating a new team named 'USA T1 TK A 1'.
+Create_One_Of...
+Creating a new team named 'USA T1 TK A 2'.
+Adding event PLACE
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Adding event PLACE
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Create_One_Of...
+Creating a new team named 'USA T1 TK B 1'.
+Create_One_Of...
+Creating a new team named 'USA T1 TK B 2'.
+Adding event PRODUCE
+Weapons factory bib clear - kicking out unit
+Adding event PLACE
+Adding event PLACE
+Weapons factory bib clear - kicking out unit
+Adding event PRODUCE
+[LAUNCH] GlobalDeploymentSpecial
+Adding event PRODUCE
+Adding event PLACE
+Adding event PLACE
+Weapons factory bib clear - kicking out unit
+Adding event PLACE
+Adding event PLACE
+Adding event PLACE
+Weapons factory bib clear - kicking out unit
+Adding event PLACE
+Adding event PLACE
+Weapons factory bib clear - kicking out unit
+Adding event PRODUCE
+Adding event PLACE
+Weapons factory bib clear - kicking out unit
+Adding event PLACE
+Create_One_Of...
+Creating a new team named 'USA T1 TK C 1'.
+Create_One_Of...
+Creating a new team named 'USA T1 TK C 2'.
+Adding event PLACE
+Adding event PLACE
+Adding event PLACE
+Adding event PRODUCE
+Weapons factory bib clear - kicking out unit
+Adding event PLACE
+Weapons factory bib clear - kicking out unit
+Adding event PRODUCE
+[LAUNCH] GlobalDeploymentSpecial
+Weapons factory bib clear - kicking out unit
+Adding event SPECIAL_PLACE
+[LAUNCH] PsychicRevealSpecial
+Create_One_Of...
+Creating a new team named 'USA T1 TK D 1'.
+Create_One_Of...
+Creating a new team named 'USA T1 TK D 2'.
+Weapons factory bib clear - kicking out unit
+Create_One_Of...
+Creating a new team named 'USA T1 B 1'.
+Create_One_Of...
+Creating a new team named 'USA T1 B 2'.
+Adding event PLACE
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Adding event PLACE
+Create_One_Of...
+Creating a new team named 'USA T1 D 1'.
+Create_One_Of...
+Creating a new team named 'USA T1 D 2'.
+Weapons factory bib clear - kicking out unit
+Adding event PLACE
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+[LAUNCH] GlobalDeploymentSpecial
+Weapons factory bib clear - kicking out unit
+Create_One_Of...
+Creating a new team named 'USA T1 TK B 1'.
+Create_One_Of...
+Creating a new team named 'USA T1 TK B 2'.
+Adding event PLACE
+Create_One_Of...
+Creating a new team named 'USA T1 C 1'.
+Create_One_Of...
+Creating a new team named 'USA T1 C 2'.
+Weapons factory bib clear - kicking out unit
+Adding event PRODUCE
+Adding event PRODUCE
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Adding event PRODUCE
+Adding event PRODUCE
+Create_One_Of...
+Creating a new team named 'USA T1 D 1'.
+Create_One_Of...
+Creating a new team named 'USA T1 D 2'.
+Adding event PRODUCE
+[LAUNCH] GlobalDeploymentSpecial
+[LAUNCH] SpySatelliteSpecial
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Weapons factory bib clear - kicking out unit
+Create_One_Of...
+Creating a new team named 'USA T1 TK A 1'.
+Create_One_Of...
+Creating a new team named 'USA T1 TK A 2'.
+Adding event PLACE
+Weapons factory bib clear - kicking out unit
+Adding event PRODUCE
+Adding event SPECIAL_PLACE
+[LAUNCH] PsychicRevealSpecial
+Weapons factory bib clear - kicking out unit
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Weapons factory clearing FV from bib
+Weapons factory clearing FV from bib area
+Weapons factory clearing GAPILL from bib area
+Weapons factory clearing GAPILL from bib area
+Weapons factory clearing GGI from bib area
+Weapons factory clearing FV from bib
+Weapons factory clearing GAPILL from bib area
+Weapons factory clearing GAPILL from bib area
+Weapons factory clearing GGI from bib area
+Weapons factory bib clear - kicking out unit
+Adding event PLACE
+Weapons factory bib clear - kicking out unit
+Adding event PRODUCE
+Create_One_Of...
+Creating a new team named 'USA T3 D 1'.
+Create_One_Of...
+Creating a new team named 'USA T3 D 2'.
+Adding event PLACE
+Weapons factory bib clear - kicking out unit
+[LAUNCH] GlobalDeploymentSpecial
+Adding event PLACE
+Weapons factory bib clear - kicking out unit
+Adding event PLACE
+Adding event PRODUCE
+Adding event PRODUCE
+Adding event PRODUCE
+Weapons factory clearing GTNK from bib
+Weapons factory clearing FV from bib area
+Weapons factory clearing GAPILL from bib area
+Weapons factory clearing GAPILL from bib area
+Adding event PRODUCE
+Adding event PLACE
+Weapons factory bib clear - kicking out unit
+Adding event PLACE
+Adding event PLACE
+Create_One_Of...
+Creating a new team named 'USA T3 H 1'.
+Create_One_Of...
+Creating a new team named 'USA T3 H 2'.
+Adding event PLACE
+Adding event PLACE
+Adding event PLACE
+Adding event PLACE
+[LAUNCH] WarChestSpecial
+Adding event PLACE
+Weapons factory clearing GTNK from bib
+Weapons factory clearing FV from bib area
+Weapons factory clearing GAPILL from bib area
+Weapons factory clearing GAPILL from bib area
+Weapons factory clearing GTNK from bib area
+Adding event PLACE
+Weapons factory bib clear - kicking out unit
+Adding event PLACE
+Adding event PLACE
+Adding event PRODUCE
+Adding event PRODUCE
+Adding event PRODUCE
+Adding event DEPLOY
+Adding event ABANDON_ALL
+Adding event PRODUCE
+Weapons factory bib clear - kicking out unit
+Create_One_Of...
+Creating a new team named 'USA T3 H 1'.
+Create_One_Of...
+Creating a new team named 'USA T3 H 2'.
+[LAUNCH] GlobalDeploymentSpecial
+Adding event PLACE
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+[LAUNCH] SpySatelliteSpecial
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Create_One_Of...
+Creating a new team named 'USA T3 E 1'.
+Create_One_Of...
+Creating a new team named 'USA T3 E 2'.
+[LAUNCH] StewingSpecial
+[LAUNCH] WarChestSpecial
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Weapons factory bib clear - kicking out unit
+Create_One_Of...
+Creating a new team named 'USA F T2 A 1'.
+Create_One_Of...
+Creating a new team named 'USA F T2 A 2'.
+Adding event DEPLOY
+Adding event PRODUCE
+Weapons factory bib clear - kicking out unit
+Create_One_Of...
+Creating a new team named 'USA T3 F 1'.
+Create_One_Of...
+Creating a new team named 'USA T3 F 2'.
+Weapons factory bib clear - kicking out unit
+[LAUNCH] GlobalDeploymentSpecial
+Adding event PLACE
+Adding event PLACE
+Weapons factory bib clear - kicking out unit
+Adding event PLACE
+Adding event PRODUCE
+Request to Begin_Production of 'plotevma Fighter' was rejected. Factory was unable to create the requested object
+Adding event PRODUCE
+Weapons factory bib clear - kicking out unit
+Create_One_Of...
+Creating a new team named 'USA T3 C 1'.
+Create_One_Of...
+Creating a new team named 'USA T3 C 2'.
+Adding event PLACE
+Adding event PLACE
+Weapons factory bib clear - kicking out unit
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+[LAUNCH] ParaDropSpecial
+Weapons factory bib clear - kicking out unit
+Create_One_Of...
+Creating a new team named 'USA F T2 A 1'.
+Create_One_Of...
+Creating a new team named 'USA F T2 A 2'.
+Adding event PLACE
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[LAUNCH] WarChestSpecial
+[LAUNCH] GlobalDeploymentSpecial
+Adding event DEPLOY
+Adding event PLACE
+Creating survivor type 'Yuri Initiate' from building type 'Yuri Barracks'
+Survivor unlimbo OK
+Adding event ABANDON_ALL
+Adding event ABANDON_ALL
+Adding event ABANDON_ALL
+Adding event ABANDON_ALL
+Adding event ABANDON_ALL
+Weapons factory bib clear - kicking out unit
+Adding event PLACE
+Create_One_Of...
+Creating a new team named 'USA T1 TK D 1'.
+Create_One_Of...
+Creating a new team named 'USA T1 TK D 2'.
+Weapons factory bib clear - kicking out unit
+Adding event DEPLOY
+Create_One_Of...
+Creating a new team named 'USA T1 TK A 1'.
+Create_One_Of...
+Creating a new team named 'USA T1 TK A 2'.
+Adding event PLACE
+Adding event DEPLOY
+Adding event PLACE
+Weapons factory bib clear - kicking out unit
+[LAUNCH] SpySatelliteSpecial
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Adding event DEPLOY
+Create_One_Of...
+Creating a new team named 'USA T3 G 1'.
+Create_One_Of...
+Creating a new team named 'USA T3 G 2'.
+[LAUNCH] StewingSpecial
+[LAUNCH] WarChestSpecial
+Weapons factory bib clear - kicking out unit
+Adding event DEPLOY
+Weapons factory bib clear - kicking out unit
+Create_One_Of...
+Creating a new team named 'USA T1 C 1'.
+Create_One_Of...
+Creating a new team named 'USA T1 C 2'.
+Adding event PLACE
+Adding event PRODUCE
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Weapons factory bib clear - kicking out unit
+[LAUNCH] GlobalDeploymentSpecial
+Adding event PLACE
+Weapons factory bib clear - kicking out unit
+Adding event PLACE
+Adding event DEPLOY
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Weapons factory clearing FV from bib
+Weapons factory clearing BFRT from bib area
+Weapons factory clearing GAPILL from bib area
+Weapons factory clearing GAPILL from bib area
+Weapons factory clearing BFRT from bib area
+Weapons factory clearing FV from bib
+Weapons factory clearing BFRT from bib area
+Weapons factory clearing GAPILL from bib area
+Weapons factory clearing GAPILL from bib area
+Weapons factory clearing BFRT from bib area
+Weapons factory bib clear - kicking out unit
+Adding event DEPLOY
+Weapons factory bib clear - kicking out unit
+Weapons factory clearing FV from bib
+Weapons factory clearing BFRT from bib area
+Weapons factory clearing GAPILL from bib area
+Weapons factory clearing GAPILL from bib area
+Weapons factory bib clear - kicking out unit
+Adding event PRODUCE
+Adding event PLACE
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Warning.  A* without HS: (41,99) to (41, 98)
+Create_One_Of...
+Creating a new team named 'USA T3 B 1'.
+Create_One_Of...
+Creating a new team named 'USA T3 B 2'.
+Adding event SPECIAL_PLACE
+[LAUNCH] PsychicRevealSpecial
+Weapons factory clearing FV from bib
+Weapons factory clearing BFRT from bib area
+Weapons factory clearing GAPILL from bib area
+Weapons factory clearing GAPILL from bib area
+Weapons factory clearing FV from bib area
+Weapons factory clearing FV from bib
+Weapons factory clearing BFRT from bib area
+Weapons factory clearing GAPILL from bib area
+Weapons factory clearing GAPILL from bib area
+Weapons factory clearing FV from bib area
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Weapons factory bib clear - kicking out unit
+[LAUNCH] GlobalDeploymentSpecial
+[LAUNCH] ParaDropSpecial
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Weapons factory bib clear - kicking out unit
+[LAUNCH] WarChestSpecial
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 49 94, 单位类型 ALPLANE
+Weapons factory bib clear - kicking out unit
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Create_One_Of...
+Creating a new team named 'USA T1 TK C 1'.
+Create_One_Of...
+Creating a new team named 'USA T1 TK C 2'.
+Adding event PLACE
+Weapons factory bib clear - kicking out unit
+Adding event PLACE
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Regular findpath failure: (51,110) to (87, 91)
+[LAUNCH] SpySatelliteSpecial
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+[LAUNCH] StewingSpecial
+[LAUNCH] WarChestSpecial
+[LAUNCH] GlobalDeploymentSpecial
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+A USA T1 TK C 1 Team has chosen ( 57, 78) for its GatherAtEnemy cell.
+Regular findpath failure: (50,86) to (87, 91)
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Warning.  A* without HS: (105,77) to (106, 76)
+Weapons factory bib clear - kicking out unit
+Create_One_Of...
+Creating a new team named 'USA T3 G 1'.
+Create_One_Of...
+Creating a new team named 'USA T3 G 2'.
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Regular findpath failure: (42,62) to (34, 69)
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Creating survivor type 'Yuri Initiate' from building type 'Ackville Airforce Command Headquarters'
+Survivor unlimbo OK
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 32 68, 单位类型 PLOTER
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 32 69, 单位类型 PLOTER
+Create_One_Of...
+Creating a new team named 'USA T1 B 1'.
+Create_One_Of...
+Creating a new team named 'USA T1 B 2'.
+Adding event PRODUCE
+Adding event PRODUCE
+Adding event PRODUCE
+Adding event PRODUCE
+Adding event PRODUCE
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Adding event PRODUCE
+Weapons factory bib clear - kicking out unit
+Adding event PLACE
+[LAUNCH] GlobalDeploymentSpecial
+Adding event PRODUCE
+Request to Begin_Production of 'Fierce Wind Bomber' was rejected. Factory was unable to create the requested object
+A Transport just recieved orders to go home after unloading
+Adding event PLACE
+Weapons factory bib clear - kicking out unit
+Adding event PLACE
+Weapons factory bib clear - kicking out unit
+[LAUNCH] ParaDropSpecial
+Adding event PLACE
+[LAUNCH] WarChestSpecial
+Adding event PLACE
+Weapons factory bib clear - kicking out unit
+Adding event PRODUCE
+Adding event DEPLOY
+Adding event PLACE
+Create_One_Of...
+Creating a new team named 'USA T3 H 1'.
+Create_One_Of...
+Creating a new team named 'USA T3 H 2'.
+Create_One_Of...
+Creating a new team named 'USA T1 C 1'.
+Create_One_Of...
+Creating a new team named 'USA T1 C 2'.
+Adding event PLACE
+Weapons factory bib clear - kicking out unit
+[LAUNCH] GlobalDeploymentSpecial
+Adding event PLACE
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Create_One_Of...
+Creating a new team named 'USA T3 B 1'.
+Create_One_Of...
+Creating a new team named 'USA T3 B 2'.
+[LAUNCH] SpySatelliteSpecial
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[LAUNCH] StewingSpecial
+[LAUNCH] WarChestSpecial
+Adding event PLACE
+A Transport just recieved orders to go home after unloading
+A Transport just recieved orders to go home after unloading
+Regular findpath failure: (107,72) to (113, 66)
+Regular findpath failure: (107,72) to (113, 66)
+Regular findpath failure: (107,72) to (113, 66)
+Regular findpath failure: (107,72) to (113, 66)
+Regular findpath failure: (107,72) to (113, 66)
+Regular findpath failure: (107,72) to (113, 66)
+Regular findpath failure: (107,72) to (113, 66)
+Regular findpath failure: (107,72) to (113, 66)
+Regular findpath failure: (107,72) to (113, 66)
+Regular findpath failure: (107,72) to (113, 66)
+Regular findpath failure: (112,72) to (113, 66)
+Regular findpath failure: (108,72) to (113, 66)
+Regular findpath failure: (108,72) to (113, 66)
+Regular findpath failure: (108,72) to (113, 66)
+Regular findpath failure: (108,72) to (113, 66)
+Regular findpath failure: (108,72) to (113, 66)
+Adding event PLACE
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Create_One_Of...
+Creating a new team named 'USA T3 D 1'.
+Create_One_Of...
+Creating a new team named 'USA T3 D 2'.
+Adding event PLACE
+Adding event DEPLOY
+Adding event PLACE
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Adding event PRODUCE
+[LAUNCH] GlobalDeploymentSpecial
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Adding event PLACE
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Create_One_Of...
+Creating a new team named 'USA T3 F 1'.
+Create_One_Of...
+Creating a new team named 'USA T3 F 2'.
+[LAUNCH] ParaDropSpecial
+Adding event PLACE
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Adding event DEPLOY
+Adding event DEPLOY
+Adding event DEPLOY
+[LAUNCH] WarChestSpecial
+Create_One_Of...
+Creating a new team named 'USA T3 E 1'.
+Create_One_Of...
+Creating a new team named 'USA T3 E 2'.
+[LAUNCH] GlobalDeploymentSpecial
+Adding event PLACE
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 46 70, 单位类型 APACHE
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 38 73, 单位类型 APACHE
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 35 71, 单位类型 APACHE
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 39 73, 单位类型 APACHE
+Adding event PLACE
+[LAUNCH] SpySatelliteSpecial
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Weapons factory bib clear - kicking out unit
+Adding event PRODUCE
+Create_One_Of...
+Creating a new team named 'USA T1 TK D 1'.
+Create_One_Of...
+Creating a new team named 'USA T1 TK D 2'.
+Adding event PRODUCE
+Adding event PRODUCE
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[LAUNCH] StewingSpecial
+[LAUNCH] WarChestSpecial
+Warning.  A* without HS: (108,73) to (107, 72)
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Weapons factory clearing SREF from bib
+Weapons factory clearing GAPILL from bib area
+Weapons factory clearing GAPILL from bib area
+Weapons factory clearing SREF from bib area
+Weapons factory clearing SREF from bib
+Weapons factory clearing GAPILL from bib area
+Weapons factory clearing GAPILL from bib area
+Weapons factory clearing SREF from bib area
+Weapons factory bib clear - kicking out unit
+Adding event PLACE
+Adding event PLACE
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Weapons factory bib clear - kicking out unit
+Create_One_Of...
+Creating a new team named 'USA T1 C 1'.
+Create_One_Of...
+Creating a new team named 'USA T1 C 2'.
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Adding event PRODUCE
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[LAUNCH] GlobalDeploymentSpecial
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Adding event PLACE
+Adding event DEPLOY
+Adding event DEPLOY
+Adding event DEPLOY
+Adding event DEPLOY
+Warning.  A* without HS: (33,66) to (33, 65)
+Adding event PLACE
+Weapons factory bib clear - kicking out unit
+Adding event PLACE
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Adding event PLACE
+Adding event DEPLOY
+Adding event DEPLOY
+Adding event DEPLOY
+Adding event DEPLOY
+Adding event PLACE
+Adding event PLACE
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+[LAUNCH] ParaDropSpecial
+Adding event PLACE
+[Phobos] CreateUnit: Using stored turret facing 166
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+[LAUNCH] GlobalDeploymentSpecial
+[LAUNCH] WarChestSpecial
+Adding event DEPLOY
+Adding event DEPLOY
+Adding event DEPLOY
+Adding event PLACE
+Weapons factory bib clear - kicking out unit
+Adding event PLACE
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Create_One_Of...
+Creating a new team named 'USA F T2 A 1'.
+Create_One_Of...
+Creating a new team named 'USA F T2 A 2'.
+A Transport just recieved orders to go home after unloading
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Adding event DEPLOY
+Adding event DEPLOY
+Adding event PLACE
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 55 61, 单位类型 APACHE
+A Transport just recieved orders to go home after unloading
+A Transport just recieved orders to go home after unloading
+Regular findpath failure: (107,72) to (113, 66)
+Regular findpath failure: (107,72) to (113, 66)
+Regular findpath failure: (107,72) to (113, 66)
+Regular findpath failure: (107,72) to (113, 66)
+Regular findpath failure: (107,72) to (113, 66)
+Regular findpath failure: (107,72) to (113, 66)
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 51 69, 单位类型 APACHE
+Regular findpath failure: (107,74) to (113, 66)
+Regular findpath failure: (107,74) to (113, 66)
+Adding event PLACE
+Weapons factory bib clear - kicking out unit
+Create_One_Of...
+Creating a new team named 'USA F T2 A 1'.
+Create_One_Of...
+Creating a new team named 'USA F T2 A 2'.
+Adding event DEPLOY
+Adding event DEPLOY
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 50 69, 单位类型 APACHE
+Adding event SUSPEND
+Adding event ABANDON_ALL
+(006abbda) : <human player> is abandoning production of Styx Ferryman[STYXMAN]
+Adding event PLACE
+[LAUNCH] SpySatelliteSpecial
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+[LAUNCH] StewingSpecial
+[LAUNCH] WarChestSpecial
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Adding event PRODUCE
+Adding event PLACE
+[LAUNCH] GlobalDeploymentSpecial
+Adding event PLACE
+Adding event PLACE
+Adding event PLACE
+Adding event PLACE
+Adding event PLACE
+Weapons factory bib clear - kicking out unit
+Adding event PLACE
+Adding event PLACE
+Adding event PLACE
+Adding event PLACE
+Adding event PLACE
+Adding event PLACE
+Adding event PLACE
+Adding event PLACE
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Adding event PRODUCE
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+[Phobos] CreateUnit: Using stored turret facing 141
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Create_One_Of...
+Creating a new team named 'USA T3 B 1'.
+Create_One_Of...
+Creating a new team named 'USA T3 B 2'.
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 52 90, 单位类型 CORTER
+Adding event PLACE
+Create_One_Of...
+Creating a new team named 'USA T1 TK B 1'.
+Create_One_Of...
+Creating a new team named 'USA T1 TK B 2'.
+Adding event DEPLOY
+Adding event DEPLOY
+Adding event PLACE
+[LAUNCH] GlobalDeploymentSpecial
+Adding event PLACE
+[LAUNCH] ParaDropSpecial
+Adding event SPECIAL_PLACE
+[LAUNCH] LEVIATHANment
+[LAUNCH] WarChestSpecial
+Adding event PLACE
+Create_One_Of...
+Creating a new team named 'USA T1 A 1'.
+Create_One_Of...
+Creating a new team named 'USA T1 A 2'.
+Adding event PLACE
+Adding event PLACE
+Adding event PLACE
+Adding event PRODUCE
+Adding event PLACE
+Adding event PLACE
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Create_One_Of...
+Creating a new team named 'USA T3 G 1'.
+Create_One_Of...
+Creating a new team named 'USA T3 G 2'.
+[LAUNCH] GlobalDeploymentSpecial
+[LAUNCH] SpySatelliteSpecial
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+[LAUNCH] StewingSpecial
+[LAUNCH] WarChestSpecial
+Adding event DEPLOY
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Adding event DEPLOY
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 69 67, 单位类型 UAV
+Adding event PRODUCE
+Adding event PRODUCE
+Adding event PRODUCE
+Adding event PRODUCE
+Adding event PRODUCE
+Create_One_Of...
+Creating a new team named 'USA T3 A 1'.
+Create_One_Of...
+Creating a new team named 'USA T3 A 2'.
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+[LAUNCH] GlobalDeploymentSpecial
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Adding event SPECIAL_PLACE
+[LAUNCH] PsychicRevealSpecial
+Adding event PLACE
+Weapons factory bib clear - kicking out unit
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 69 67, 单位类型 UAV
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 69 67, 单位类型 UAV
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 69 67, 单位类型 UAV
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 69 67, 单位类型 UAV
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 69 67, 单位类型 UAV
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 69 67, 单位类型 UAV
+[LAUNCH] ParaDropSpecial
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 54 91, 单位类型 ALPLANE
+[LAUNCH] WarChestSpecial
+Adding event PLACE
+Weapons factory bib clear - kicking out unit
+Create_One_Of...
+Creating a new team named 'USA T1 A 1'.
+Create_One_Of...
+Creating a new team named 'USA T1 A 2'.
+Adding event PLACE
+Weapons factory bib clear - kicking out unit
+[LAUNCH] GlobalDeploymentSpecial
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Create_One_Of...
+Creating a new team named 'USA T3 D 1'.
+Create_One_Of...
+Creating a new team named 'USA T3 D 2'.
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 76 67, 单位类型 UAV
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 76 67, 单位类型 UAV
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 76 67, 单位类型 UAV
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 76 67, 单位类型 UAV
+[LAUNCH] SpySatelliteSpecial
+[LAUNCH] StewingSpecial
+[LAUNCH] WarChestSpecial
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Adding event PLACE
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 76 67, 单位类型 UAV
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 76 67, 单位类型 UAV
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 76 67, 单位类型 UAV
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 76 67, 单位类型 UAV
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 76 67, 单位类型 UAV
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Create_One_Of...
+Creating a new team named 'USA T3 G 1'.
+Create_One_Of...
+Creating a new team named 'USA T3 G 2'.
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 78 69, 单位类型 UAV
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 79 70, 单位类型 UAV
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Adding event PLACE
+Weapons factory bib clear - kicking out unit
+Adding event PRIMARY
+[LAUNCH] GlobalDeploymentSpecial
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Adding event ARCHIVE
+Adding event SELL
+Adding event PRODUCE
+Adding event PLACE
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Adding event PLACE
+Adding event PRODUCE
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 76 65, 单位类型 UAV
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 76 65, 单位类型 UAV
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 76 65, 单位类型 UAV
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 76 65, 单位类型 UAV
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 76 65, 单位类型 UAV
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 76 65, 单位类型 UAV
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 82 70, 单位类型 APACHE
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 81 57, 单位类型 APACHE
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 76 71, 单位类型 APACHE
+Adding event PLACE
+Weapons factory bib clear - kicking out unit
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 79 69, 单位类型 APACHE
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 81 70, 单位类型 APACHE
+[LAUNCH] ParaDropSpecial
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 75 64, 单位类型 UAV
+Adding event DEPLOY
+Create_One_Of...
+Creating a new team named 'USA T1 TK A 1'.
+Create_One_Of...
+Creating a new team named 'USA T1 TK A 2'.
+Adding event PLACE
+Adding event PRODUCE
+Adding event PRODUCE
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Adding event PLACE
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 53 93, 单位类型 ALPLANE
+[LAUNCH] WarChestSpecial
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Adding event PLACE
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 75 64, 单位类型 UAV
+Adding event PLACE
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 75 64, 单位类型 UAV
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 75 64, 单位类型 UAV
+Adding event PLACE
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Adding event PLACE
+Create_One_Of...
+Creating a new team named 'USA T1 B 1'.
+Create_One_Of...
+Creating a new team named 'USA T1 B 2'.
+[LAUNCH] GlobalDeploymentSpecial
+Adding event PLACE
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 74 64, 单位类型 UAV
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Adding event PLACE
+Adding event PLACE
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Adding event PLACE
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Adding event PLACE
+Adding event PLACE
+Weapons factory bib clear - kicking out unit
+Weapons factory clearing FV from bib
+Weapons factory clearing GAPILL from bib area
+Weapons factory clearing GAPILL from bib area
+Weapons factory clearing FV from bib area
+Weapons factory bib clear - kicking out unit
+Weapons factory clearing FV from bib
+Weapons factory clearing GAPILL from bib area
+Weapons factory clearing GAPILL from bib area
+Weapons factory clearing FV from bib area
+Weapons factory bib clear - kicking out unit
+Warning.  A* without HS: (108,73) to (109, 74)
+Adding event SUSPEND
+Adding event ABANDON_ALL
+(006abbda) : <human player> is abandoning production of AXLSUFO[AXLSUFO]
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Adding event PRODUCE
+Adding event PRODUCE
+Adding event PRODUCE
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 73 64, 单位类型 UAV
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 73 64, 单位类型 UAV
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 72 64, 单位类型 UAV
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Warning.  A* without HS: (113,61) to (113, 62)
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 72 64, 单位类型 UAV
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 72 64, 单位类型 UAV
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 72 64, 单位类型 UAV
+[LAUNCH] SpySatelliteSpecial
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 76 61, 单位类型 UAV
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 76 62, 单位类型 UAV
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[LAUNCH] StewingSpecial
+[LAUNCH] WarChestSpecial
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Adding event PRODUCE
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 77 64, 单位类型 UAV
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 77 64, 单位类型 UAV
+Adding event PLACE
+Weapons factory bib clear - kicking out unit
+Create_One_Of...
+Creating a new team named 'USA T1 C 1'.
+Create_One_Of...
+Creating a new team named 'USA T1 C 2'.
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 77 67, 单位类型 UAV
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 77 67, 单位类型 UAV
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 77 67, 单位类型 UAV
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+[LAUNCH] GlobalDeploymentSpecial
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Create_One_Of...
+Creating a new team named 'USA T1 D 1'.
+Create_One_Of...
+Creating a new team named 'USA T1 D 2'.
+Adding event PLACE
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 80 70, 单位类型 UAV
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 80 68, 单位类型 UAV
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 80 70, 单位类型 UAV
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 80 70, 单位类型 UAV
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 80 70, 单位类型 UAV
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 80 70, 单位类型 UAV
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Creating survivor type 'GI' from building type 'Allied Airforce Command Headquarters'
+Survivor unlimbo OK
+Adding event PLACE
+Weapons factory bib clear - kicking out unit
+Create_One_Of...
+Creating a new team named 'USA T3 A 1'.
+Create_One_Of...
+Creating a new team named 'USA T3 A 2'.
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 90 82, 单位类型 UAV
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 91 82, 单位类型 UAV
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 91 82, 单位类型 UAV
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Adding event PLACE
+Weapons factory bib clear - kicking out unit
+[LAUNCH] ParaDropSpecial
+[LAUNCH] GlobalDeploymentSpecial
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 102 77, 单位类型 SHAD
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 52 101, 单位类型 ALPLANE
+Creating survivor type 'GI' from building type 'Allied Power Plant'
+Survivor unlimbo OK
+[LAUNCH] WarChestSpecial
+Creating survivor type 'GI' from building type 'Allied Power Plant'
+Survivor unlimbo OK
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Creating survivor type 'GI' from building type 'Allied Power Plant'
+Survivor unlimbo OK
+Regular findpath failure: (107,70) to (108, 72)
+Regular findpath failure: (107,70) to (95, 56)
+Regular findpath failure: (107,70) to (105, 68)
+Regular findpath failure: (107,70) to (105, 72)
+Regular findpath failure: (107,70) to (106, 68)
+Regular findpath failure: (107,70) to (106, 72)
+Regular findpath failure: (107,70) to (107, 68)
+Regular findpath failure: (107,70) to (107, 72)
+Regular findpath failure: (107,70) to (108, 68)
+Regular findpath failure: (107,70) to (108, 72)
+Regular findpath failure: (107,70) to (109, 72)
+Regular findpath failure: (107,70) to (105, 68)
+Regular findpath failure: (107,70) to (105, 72)
+Regular findpath failure: (107,70) to (106, 68)
+Regular findpath failure: (107,70) to (106, 72)
+Regular findpath failure: (107,70) to (107, 68)
+Regular findpath failure: (107,70) to (107, 72)
+Regular findpath failure: (107,70) to (108, 68)
+Regular findpath failure: (107,70) to (108, 72)
+Regular findpath failure: (107,70) to (109, 72)
+Regular findpath failure: (107,70) to (105, 68)
+Regular findpath failure: (107,70) to (105, 72)
+Regular findpath failure: (107,70) to (106, 68)
+Regular findpath failure: (107,70) to (106, 72)
+Regular findpath failure: (107,70) to (107, 68)
+Regular findpath failure: (107,70) to (107, 72)
+Regular findpath failure: (107,70) to (108, 68)
+Adding event PLACE
+Regular findpath failure: (107,70) to (108, 72)
+Regular findpath failure: (107,70) to (109, 72)
+Regular findpath failure: (107,70) to (105, 68)
+Regular findpath failure: (107,70) to (105, 72)
+Regular findpath failure: (107,70) to (106, 68)
+Regular findpath failure: (107,70) to (106, 72)
+Regular findpath failure: (107,70) to (107, 68)
+Regular findpath failure: (107,70) to (107, 72)
+Regular findpath failure: (107,70) to (108, 68)
+Regular findpath failure: (107,70) to (108, 72)
+Regular findpath failure: (107,70) to (109, 72)
+Regular findpath failure: (107,70) to (105, 68)
+Regular findpath failure: (107,70) to (105, 72)
+Regular findpath failure: (107,70) to (106, 68)
+Regular findpath failure: (107,70) to (106, 72)
+Weapons factory bib clear - kicking out unit
+Regular findpath failure: (107,70) to (107, 68)
+Regular findpath failure: (107,70) to (107, 72)
+Regular findpath failure: (107,70) to (108, 68)
+Regular findpath failure: (107,70) to (108, 72)
+Regular findpath failure: (107,70) to (109, 72)
+Regular findpath failure: (107,70) to (105, 68)
+Create_One_Of...
+Creating a new team named 'USA T1 B 1'.
+Create_One_Of...
+Creating a new team named 'USA T1 B 2'.
+Regular findpath failure: (107,70) to (105, 72)
+Regular findpath failure: (107,70) to (106, 68)
+Regular findpath failure: (107,70) to (106, 72)
+Regular findpath failure: (107,70) to (107, 68)
+Regular findpath failure: (107,70) to (107, 72)
+Regular findpath failure: (107,70) to (108, 68)
+Regular findpath failure: (107,70) to (108, 72)
+Regular findpath failure: (107,70) to (109, 72)
+Regular findpath failure: (107,70) to (105, 68)
+Regular findpath failure: (107,70) to (105, 72)
+Regular findpath failure: (107,70) to (106, 68)
+Regular findpath failure: (107,70) to (106, 72)
+Regular findpath failure: (107,70) to (107, 68)
+Regular findpath failure: (107,70) to (107, 72)
+Regular findpath failure: (107,70) to (108, 68)
+Regular findpath failure: (107,70) to (108, 72)
+Regular findpath failure: (107,70) to (109, 72)
+Regular findpath failure: (107,70) to (105, 68)
+Regular findpath failure: (107,70) to (105, 72)
+Regular findpath failure: (107,70) to (106, 68)
+Regular findpath failure: (107,70) to (106, 72)
+Regular findpath failure: (107,70) to (107, 68)
+Regular findpath failure: (107,70) to (107, 72)
+Regular findpath failure: (107,70) to (108, 68)
+Regular findpath failure: (107,70) to (108, 72)
+Regular findpath failure: (107,70) to (109, 72)
+Regular findpath failure: (107,70) to (105, 68)
+Regular findpath failure: (107,70) to (105, 72)
+Regular findpath failure: (107,70) to (106, 68)
+Regular findpath failure: (107,70) to (106, 72)
+Regular findpath failure: (107,70) to (107, 68)
+Regular findpath failure: (107,70) to (107, 72)
+Regular findpath failure: (107,70) to (108, 68)
+Regular findpath failure: (107,70) to (108, 72)
+Regular findpath failure: (107,70) to (109, 72)
+Regular findpath failure: (107,70) to (105, 68)
+Regular findpath failure: (107,70) to (105, 72)
+Regular findpath failure: (107,70) to (106, 68)
+Regular findpath failure: (107,70) to (106, 72)
+Regular findpath failure: (107,70) to (107, 68)
+Regular findpath failure: (107,70) to (107, 72)
+Regular findpath failure: (107,70) to (108, 68)
+Regular findpath failure: (107,70) to (108, 72)
+Regular findpath failure: (107,70) to (109, 72)
+Regular findpath failure: (107,70) to (105, 68)
+Regular findpath failure: (107,70) to (105, 72)
+Regular findpath failure: (107,70) to (106, 68)
+Regular findpath failure: (107,70) to (106, 72)
+Regular findpath failure: (107,70) to (107, 68)
+Regular findpath failure: (107,70) to (107, 72)
+Regular findpath failure: (107,70) to (108, 68)
+Regular findpath failure: (107,70) to (108, 72)
+Regular findpath failure: (107,70) to (109, 72)
+Regular findpath failure: (107,70) to (105, 68)
+Regular findpath failure: (107,70) to (105, 72)
+Regular findpath failure: (107,70) to (106, 68)
+Regular findpath failure: (107,70) to (106, 72)
+Regular findpath failure: (107,70) to (107, 68)
+Regular findpath failure: (107,70) to (107, 72)
+Regular findpath failure: (107,70) to (108, 68)
+Regular findpath failure: (107,70) to (108, 72)
+Regular findpath failure: (107,70) to (109, 72)
+Regular findpath failure: (107,70) to (105, 68)
+Regular findpath failure: (107,70) to (105, 72)
+Regular findpath failure: (107,70) to (106, 68)
+Regular findpath failure: (107,70) to (106, 72)
+Regular findpath failure: (107,70) to (107, 68)
+Regular findpath failure: (107,70) to (107, 72)
+Regular findpath failure: (107,70) to (108, 68)
+Regular findpath failure: (107,70) to (108, 72)
+Regular findpath failure: (107,70) to (109, 72)
+Regular findpath failure: (107,70) to (105, 68)
+Regular findpath failure: (107,70) to (105, 72)
+Regular findpath failure: (107,70) to (106, 68)
+Regular findpath failure: (107,70) to (106, 72)
+Regular findpath failure: (107,70) to (107, 68)
+Regular findpath failure: (107,70) to (107, 72)
+Regular findpath failure: (107,70) to (108, 68)
+Regular findpath failure: (107,70) to (108, 72)
+Regular findpath failure: (107,70) to (109, 72)
+Regular findpath failure: (107,70) to (105, 68)
+Regular findpath failure: (107,70) to (105, 72)
+Regular findpath failure: (107,70) to (106, 68)
+Regular findpath failure: (107,70) to (106, 72)
+Regular findpath failure: (107,70) to (107, 68)
+Regular findpath failure: (107,70) to (107, 72)
+Regular findpath failure: (107,70) to (108, 68)
+Regular findpath failure: (107,70) to (108, 72)
+Regular findpath failure: (107,70) to (109, 72)
+Regular findpath failure: (107,70) to (105, 68)
+Regular findpath failure: (107,70) to (105, 72)
+Regular findpath failure: (107,70) to (106, 68)
+Regular findpath failure: (107,70) to (106, 72)
+Regular findpath failure: (107,70) to (107, 68)
+Regular findpath failure: (107,70) to (107, 72)
+Regular findpath failure: (107,70) to (108, 68)
+Regular findpath failure: (107,70) to (108, 72)
+Regular findpath failure: (107,70) to (105, 72)
+Regular findpath failure: (107,70) to (106, 68)
+Regular findpath failure: (107,70) to (106, 72)
+Regular findpath failure: (107,70) to (107, 68)
+Regular findpath failure: (107,70) to (107, 72)
+Regular findpath failure: (107,70) to (108, 68)
+Regular findpath failure: (107,70) to (108, 72)
+Regular findpath failure: (107,70) to (105, 68)
+Regular findpath failure: (107,70) to (105, 72)
+Regular findpath failure: (107,70) to (106, 68)
+Regular findpath failure: (107,70) to (106, 72)
+Regular findpath failure: (107,70) to (107, 68)
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Adding event PLACE
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Create_One_Of...
+Creating a new team named 'USA T3 A 1'.
+Create_One_Of...
+Creating a new team named 'USA T3 A 2'.
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+[LAUNCH] StewingSpecial
+[LAUNCH] WarChestSpecial
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 119 69, 单位类型 UAV
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 121 78, 单位类型 UAV
+[LAUNCH] GlobalDeploymentSpecial
+Adding event PLACE
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Adding event PRODUCE
+Adding event SUSPEND
+Adding event ABANDON
+(006abbda) : <human player> is abandoning production of YAPUP[YAPUP]
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 114 72, 单位类型 UAV
+Adding event PRODUCE
+Regular findpath failure: (107,65) to (113, 66)
+Creating survivor type 'GI' from building type 'Allied Power Plant'
+Survivor unlimbo OK
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Adding event PLACE
+Weapons factory bib clear - kicking out unit
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 102 85, 单位类型 UAV
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 102 85, 单位类型 UAV
+[LAUNCH] SpySatelliteSpecial
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Creating survivor type 'GI' from building type 'Allied Power Plant'
+Survivor unlimbo OK
+Regular findpath failure: (110,60) to (111, 68)
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Create_One_Of...
+Creating a new team named 'USA T1 TK B 1'.
+Create_One_Of...
+Creating a new team named 'USA T1 TK B 2'.
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Creating survivor type 'GI' from building type 'Allied War Factory'
+Survivor unlimbo OK
+Creating survivor type 'GI' from building type 'Allied War Factory'
+Survivor unlimbo OK
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Creating survivor type 'GI' from building type 'Allied Power Plant'
+Survivor unlimbo OK
+Adding event PLACE
+Weapons factory bib clear - kicking out unit
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 107 65, 单位类型 APACHE
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 99 77, 单位类型 UAV
+(0044ec0b) : Computer is abandoning production of Rocketeer[JUMPJET]
+Creating survivor type 'GI' from building type 'Allied Barracks'
+Survivor unlimbo OK
+[LAUNCH] GlobalDeploymentSpecial
+Creating survivor type 'GI' from building type 'Allied Power Plant'
+Survivor unlimbo OK
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Adding event PLACE
+Weapons factory bib clear - kicking out unit
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 99 74, 单位类型 UAV
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 99 74, 单位类型 UAV
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 99 74, 单位类型 UAV
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 100 74, 单位类型 UAV
+Creating survivor type 'GI' from building type 'Allied Ore Refinery'
+Survivor unlimbo OK
+Regular findpath failure: (112,70) to (113, 72)
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0044ec0b) : Computer is abandoning production of Allied Wall[GAWALL]
+Creating survivor type 'Engineer' from building type 'Allied Construction Yard'
+Survivor unlimbo OK
+Creating survivor type 'Engineer' from building type 'Allied Construction Yard'
+Survivor unlimbo OK
+Regular findpath failure: (112,64) to (110, 64)
+Regular findpath failure: (112,64) to (110, 64)
+Creating survivor type 'GI' from building type 'Allied Construction Yard'
+Survivor unlimbo OK
+Regular findpath failure: (114,64) to (116, 66)
+Warning.  A* without HS: (114,64) to (116, 66)
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 102 74, 单位类型 UAV
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 102 74, 单位类型 UAV
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 102 74, 单位类型 UAV
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 102 74, 单位类型 UAV
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Creating survivor type 'GI' from building type 'Allied Strategic Command Center'
+Survivor unlimbo OK
+Creating survivor type 'GI' from building type 'Allied Strategic Command Center'
+Survivor unlimbo OK
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[LAUNCH] WarChestSpecial
+Create_One_Of...
+Creating a new team named 'USA F T2 A 1'.
+Create_One_Of...
+Creating a new team named 'USA F T2 A 2'.
+Adding event PLACE
+Creating survivor type 'GI' from building type 'Allied Power Plant'
+Survivor unlimbo OK
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Creating survivor type 'GI' from building type 'Allied Power Plant'
+Survivor unlimbo OK
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Creating survivor type 'GI' from building type 'Allied Power Plant'
+Survivor unlimbo OK
+Create_One_Of...
+Creating a new team named 'USA T3 B 1'.
+Create_One_Of...
+Creating a new team named 'USA T3 B 2'.
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Creating survivor type 'GI' from building type 'Allied Power Plant'
+Survivor unlimbo OK
+Creating survivor type 'GI' from building type 'American Battle Lab'
+Survivor unlimbo OK
+Creating survivor type 'GI' from building type 'American Battle Lab'
+Survivor unlimbo OK
+Regular findpath failure: (119,72) to (119, 74)
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 106 71, 单位类型 UAV
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 107 72, 单位类型 UAV
+Create_One_Of...
+Creating a new team named 'USA T1 D 1'.
+Create_One_Of...
+Creating a new team named 'USA T1 D 2'.
+(0044ec0b) : Computer is abandoning production of BlackHawk Transport[SHAD]
+Creating survivor type 'GI' from building type 'Allied War Factory'
+Survivor unlimbo OK
+Creating survivor type 'GI' from building type 'Allied War Factory'
+Survivor unlimbo OK
+Regular findpath failure: (122,69) to (120, 67)
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Adding event PLACE
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Adding event PLACE
+Weapons factory bib clear - kicking out unit
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 108 74, 单位类型 UAV
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 108 74, 单位类型 UAV
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 108 74, 单位类型 UAV
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 108 74, 单位类型 UAV
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 108 74, 单位类型 UAV
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 108 74, 单位类型 UAV
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[LAUNCH] GlobalDeploymentSpecial
+Creating survivor type 'GI' from building type 'Allied Power Plant'
+Survivor unlimbo OK
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 111 51, 单位类型 SHAD
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 114 60, 单位类型 UAV
+(0044ec0b) : Computer is abandoning production of BlackHawk Transport[SHAD]
+Creating survivor type 'GI' from building type 'Allied War Factory'
+Survivor unlimbo OK
+Creating survivor type 'GI' from building type 'Allied War Factory'
+Survivor unlimbo OK
+Regular findpath failure: (112,51) to (111, 49)
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 108 63, 单位类型 UAV
+Creating survivor type 'GI' from building type 'Allied Ore Refinery'
+Survivor unlimbo OK
+Regular findpath failure: (110,58) to (109, 60)
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Adding event PLACE
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Adding event OPTIONS
+Paused ElapsedTimer = 61252
+Tooltips are off.
+Release_Mouse()
+Default
+Default
+Capture_Mouse()
+Resume ElapsedTimer = 61252
+Tooltips are on.
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+(0044ec0b) : Computer is abandoning production of GI[E1]
+Creating survivor type 'GI' from building type 'Allied Barracks'
+Survivor unlimbo OK
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Creating survivor type 'GI' from building type 'Allied Airforce Command Headquarters'
+Survivor unlimbo OK
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 112 61, 单位类型 UAV
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 112 61, 单位类型 UAV
+Creating survivor type 'GI' from building type 'Allied Airforce Command Headquarters'
+Survivor unlimbo OK
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 112 61, 单位类型 UAV
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 112 59, 单位类型 UAV
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 112 59, 单位类型 UAV
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Adding event PLACE
+Weapons factory bib clear - kicking out unit
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+(0044ec0b) : Computer is abandoning production of GI[E1]
+Creating survivor type 'GI' from building type 'Allied Barracks'
+Survivor unlimbo OK
+Creating survivor type 'GI' from building type 'Allied Ore Refinery'
+Survivor unlimbo OK
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Adding event PLACE
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+MPlayer_Defeated: frame 57995, house id 1, MapIsClear set to true
+MPlayer_Defeated() - Opponent Computer has been defeated
+MPlayer_Defeated() - Alive = 1, Humans = 1
+Saw game completion due to player defeat
+MPlayer_Defeated() - All remaining players are allied
+MPlayer_Defeated() - Flag_To_Win
+Frame 57995, BorrowedTime == 90
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Tooltips are off.
+Sending game results.  SawCompletion=1
+LOADED NTRLMD.MIXLOADED NEUTRAL.MIX
+Release_Mouse()
+a1234567: Winner
+ Scheme: 29
+ Lost = 105
+ Kills = 935
+ Built = 171
+ Score = 1113601
+Default
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Default
+Tooltips are on.
+     Releasing NEUTRAL.MIX
+     Releasing NTRLMD.MIX
+LOADED NTRLMD.MIXLOADED NEUTRAL.MIX
+Game loop finished. Average FPS = 55
+     Releasing NEUTRAL.MIX
+     Releasing NTRLMD.MIX
+Closing log file on request 111

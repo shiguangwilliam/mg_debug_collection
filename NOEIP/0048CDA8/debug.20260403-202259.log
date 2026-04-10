@@ -1,0 +1,4830 @@
+Initialized Ares version: 20.333.289
+Ares requires a CPU with SSE support. Available.
+Set Process Affinity: 1 (1)
+Optimizing list of CD drives for NoCD mode.
+[Phobos] Initialized version: Special merge Build #45+3_3
+[Phobos] Modules presumably injected by Syringe:
+Module cncnet5.dll  base address : 0x6BBC0000.
+Module Ares.dll  base address : 0x5C950000.
+Module Phobos.dll  base address : 0x5C4F0000.
+Module SIWinterIsComing.dll  base address : 0x5C350000.
+Module Phobos.dll  base address : 0x69F20000.
+Other modules:
+Module "AcGenral.dll"  base address : 0x5C630000.
+Module msvcrt.dll  base address : 0x75C20000.
+Module sechost.dll.mui  base address : 0x76700000.
+Module Win32u.DLL  base address : 0x752E0000.
+Module gdi32  base address : 0x74EC0000.
+Module gdi32  base address : 0x74DD0000.
+Module msvcp_win.dll  base address : 0x76C80000.
+Module ucrtbase.dll  base address : 0x76460000.
+Module OLEAUT32.DLL  base address : 0x75990000.
+Module SAMCLI.DLL  base address : 0x6F830000.
+Module VERSION.DLL  base address : 0x749E0000.
+Module security.dll  base address : 0x73290000.
+Module SRVCLI.DLL  base address : 0x6D0F0000.
+Module NETUTILS.DLL  base address : 0x74100000.
+Module imm32  base address : 0x76E00000.
+Module ddraw.dll  base address : 0x69D40000.
+Module DBGHELP.DLL  base address : 0x73500000.
+Module DBGCORE.DLL  base address : 0x69ED0000.
+Module mscoree.dll  base address : 0x6CA20000.
+Module msvcp140.dll  base address : 0x52F60000.
+Module vcruntime140.dll  base address : 0x543D0000.
+[Phobos] Detected Ares 3.0.
+Checking available disk space
+Using GetDiskFreeSpaceEx
+Free disk space is 38859 Mb
+Init Encryption Keys.
+Init_Keys - declarations
+Init_Keys - Load
+Init_Keys - Init fast key
+ EXPANDMG99.MIX EXPANDMG93.MIX EXPANDMG92.MIX EXPANDMG69.MIX EXPANDMG68.MIX EXPANDMG67.MIX EXPANDMG66.MIX EXPANDMG65.MIX EXPANDMG64.MIX EXPANDMG63.MIX EXPANDMG62.MIX EXPANDMG61.MIX EXPANDMG60.MIX EXPANDMG06.MIX EXPANDMG04.MIX EXPANDMG03.MIX CACHE.MIX CACHE.MIX CACHE.MIX LOCAL.MIXMaxLabelLen = 31
+Language: US
+[Phobos] Applying AppIcon from "RESOURCES/CLIENTICON.ICO"
+Focus_Restore()
+Focus_Restore(): _MouseCaptured = false
+Focus gained
+Default
+Default
+Prep direct draw.
+Prep direct draw.
+SetDisplayMode: 1366x768x16
+Checking hardware region fill capability...OK
+Checking overlapped blit capability...Failed!
+Display mode set
+DSurface::Create_Primary
+DSurface::AllowStretchBlits = true
+DSurface::AllowHWFill = true
+DSurface::Create_Primary - Creating surface
+CreateSurface OK
+DSurface::Create_Primary done
+Allocating new surfaces
+CompositeSurface (1198x768) VRAM ENABLE_3D
+TileSurface (1198x768) VRAM ENABLE_3D
+SidebarSurface (168x768) VRAM
+HiddenSurface (1366x768) VRAM
+AlternateSurface (1366x768) VRAM
+Calc_Confining_Rect(0,0,1366,768)
+Profile: CPU:1 (2713Mhz Pentium Pro)
+Profile: RAM:10 (2048Mb)
+Profile: VRAM:9 (16Mb)
+Profile: VRAM speed:5 (0 blits per second)
+Overall performance profile = 1
+Main_Game
+Init Game
+Bootstrap.....LOADED NTRLMD.MIXLOADED NEUTRAL.MIX
+event mempool size = 192000
+ ...OK
+Init Mouse
+Init CDROM
+Calling Force_CD_Available
+Init Secondary Mixfiles....
+ CONQMD.MIX CONQUER.MIX CAMEOMD.MIX CAMEO.MIX mapsmd03.mixMULTIMD.MIX THEME.MIX movmd03.mix ...OK
+Init Campaigns
+Init Heaps
+Init Threads
+Reading Game Settings
+-------- Loading RA2MD.INI settings --------
+GameSpeed = 1
+Difficulty = 1
+CampDifficulty = 0
+ScrollMethod = 0
+ScrollRate = 0
+AutoScroll is ON
+DetailLevel = 2
+SideBar on RIGHT
+Sidebar Text is ON
+ActionLines are ON
+ShowHidden is ON
+ToolTips are ON
+Resolution = 1366 X 768
+StretchMovies is OFF
+AllowHiRes is OFF
+SoundVolume = 0.300000
+VoiceVolume = 0.300000
+ScoreVolume = 0.300000
+ScoreRepeat is OFF
+ScoreShuffle is ON
+Emulated sound card latency default = 9
+--------- Loading Ares global settings -----------
+QuickExit is OFF
+AllowMultiEngineer is OFF
+CampaignList is OFF
+ShowDebugCampaigns is OFF
+Color count is 16
+Mod is The Moment of Genesis (1.0.0) with FABCD527
+--------- Complete -------------------------------
+Init Anim System
+Init Color Remap Tables
+Creating TacticalMap
+Reading SOUNDMD.INI
+Reading EVAMD.INI
+Reading THEMEMD.INI
+Reading MOVIEMD.INI
+Init Bulk Data
+RadarClass::One_Time()
+Set_View_Dimensions(0,0,1198,736)
+Deleting ZBuffer
+Allocating ZBuffer (1198x736)
+Deleting ABuffer
+Allocating ABuffer (1198x736)
+MessageListClass::Init(Width: 1184)
+MessageListClass::Set_Width(1190)
+Set_View_Dimensions(exit)
+Checking available disk space
+Using GetDiskFreeSpaceEx
+Free disk space is 38859 Mb
+Session one time init. UniqueID is 1ce4917e
+Init Rules
+[Developer warning]An INI section inherits from section 'DisplaySD', which doesn't exist or has not been parsed yet.
+Init random number
+Seed is 52e7c007
+Init Commands
+Game Init Completed.
+ExceptionReturnStack = 0019D474
+ExceptionReturnAddress = 0048CDA8
+Init random number
+Seed is 52e7c084
+WinsockInterface constructed
+WinsockInterface init.
+About to call WSAStartup
+Winsock initialised OK
+Winsock version is 1.1
+Found protocol Vmbus, max frame size is 0
+Found protocol afunix, max frame size is 0
+Found protocol UDP/IP, max frame size is 65527
+Found protocol UDP/IPv6, max frame size is 65527
+Found protocol UDP/IP, max frame size is 65527
+Found protocol UDP/IP, max frame size is 65527
+About to open primary UDP socket
+About to bind the UDP socket to port 0
+Socket option SO_RCVBUF set OK
+Socket option SO_SNDBUF set OK
+Primary UDP Socket init complete
+IPX Manager: RetryDelta = 60
+MaxAhead is 15
+**** IPXManagerClass::Init ***
+About to open primary UDP socket
+About to bind the UDP socket to port 1234
+Socket option SO_RCVBUF set OK
+Socket option SO_SNDBUF set OK
+Primary UDP Socket init complete
+About to query the host name
+About to call gethostbyname
+Found local address: 26.251.59.195
+Found local address: 192.168.0.114
+About to open alternate UDP socket
+About to bind the UDP socket
+Socket option SO_RCVBUF set OK
+Socket option SO_SNDBUF set OK
+Alternate UDP Socket init complete
+FD_WRITE - No OutBuffers left - nothing to do
+FD_WRITE - No AltOutBuffers left - nothing to do
+Processing sides.
+Side 0: GDI 
+  Americans
+  Entente
+Side 1: Nod 
+  Russia
+  China
+  ASEAN
+Side 2: ThirdSide 
+  Confusion
+  Defense
+  Spread
+Side 3: TraceRL 
+  Rylade
+Side 4: Civilian 
+  Neutral
+Side 5: Mutant 
+  Special
+
+----- Starting scnenario: spawnmap.ini -----
+Player Count: 1
+Reading scenario: spawnmap.ini
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Scen->IsRandom = false
+ loadmd.MIXRead_Scenario_INI - Filename is spawnmap.ini
+Clearing old scenario
+Map.Init_Clear()
+MapClass::Init_Clear entry
+MapClass::Init_Clear done
+RadarClass::Init_Clear
+RadarClass::Init_Clear done
+Logic.Init()
+CurrentObjects.Clear()
+Scen->Clear_All_Waypoints()
+Init_Campaigns()
+[Phobos] Multiplayer start waypoint found at cell 13753,4917
+[Phobos] Multiplayer start waypoint found at cell 13753,4917
+[Phobos] Multiplayer start waypoint found at cell 0,0
+[Phobos] Multiplayer start waypoint found at cell 0,0
+Assigning Starting Points for house 1 (Spread)
+Starting cell taken: 1 (86,54)
+Converting 0 nodes.
+Init theater TEMPERATE
+Processing sides.
+Side 0: GDI 
+  Americans
+  Entente
+Side 1: Nod 
+  Russia
+  China
+  ASEAN
+Side 2: ThirdSide 
+  Confusion
+  Defense
+  Spread
+Side 3: TraceRL 
+  Rylade
+Side 4: Civilian 
+  Neutral
+Side 5: Mutant 
+  Special
+[Developer warning]Failed to parse INI file content: [PhaseShift]Armor=pstk2
+[Phobos] Failed to parse INI file content: [PhaseShift]IdleAnim=NUEKANIM
+[Developer warning]Failed to parse INI file content: [IronParclose]Armor=parclose
+[Phobos] Failed to parse INI file content: [godtankShield]HitAnim=PLSMRING1
+[Phobos] Failed to parse INI file content: [FLYGONTrailUAV02]Color=280,150,80 (Expected a valid R,G,B color)
+[Phobos] Failed to parse INI file content: [FLAMEOYTrailUAV02]Color=280,150,80 (Expected a valid R,G,B color)
+[Phobos] Failed to parse INI file content: [FLAMEOYTrailUAV22]Color=280,150,80 (Expected a valid R,G,B color)
+[Phobos] Failed to parse INI file content: [HEADERTrailUAV02]Color=20,20,280 (Expected a valid R,G,B color)
+[Phobos] Failed to parse INI file content: [HEADERTrailUAV22]Color=20,20,280 (Expected a valid R,G,B color)
+[Phobos] Failed to parse INI file content: [ERDRLaser]Color=256,30,30 (Expected a valid R,G,B color)
+[Phobos] Failed to parse INI file content: [BlimpTrailUAV22]Color=280,150,80 (Expected a valid R,G,B color)
+[Phobos] Failed to parse INI file content: [ERDRLaser2]Color=286,10,10 (Expected a valid R,G,B color)
+[Phobos] Failed to parse INI file content: [ELINAMedLaser2]Color=200,40,286 (Expected a valid R,G,B color)
+[Phobos] Failed to parse INI file content: [ZEP2TrailUAV02]Color=280,150,80 (Expected a valid R,G,B color)
+[Developer warning]An INI section inherits from section 'DisplaySD', which doesn't exist or has not been parsed yet.
+[Developer warning]Failed to parse INI file content: [IronCurtainSpecial]SW.Designators=20
+[Phobos] Failed to parse INI file content: [IronCurtainSpecial]SW.Designators=20
+[Developer warning]Failed to parse INI file content: [ParaDropSpecial]Cursor=AmerParaDrop
+[Developer warning]Failed to parse INI file content: [UniversalParaDropSpecial]Cursor=AmerParaDrop
+[Developer warning]Failed to parse INI file content: [EnergyBarrierSpecial]Cursor=Glacial
+[Developer warning]Failed to parse INI file content: [BenignGuidanceSpecial]Cursor=Glacial
+[Developer warning]Failed to parse INI file content: [MalignantPulseSpecial]Cursor=Glacial
+[Developer warning]Failed to parse INI file content: [IronParcloseSpecial]Cursor=Glacial
+[Developer warning]Failed to parse INI file content: [IronParcloseSpecial]SidebarPCX=icon.pcx (PCX file not found.)
+[Phobos] Failed to parse INI file content: [IronParcloseSpecial]SidebarPCX=icon.pcx (PCX file not found.)
+[Developer warning]Failed to parse INI file content: [IronCurtainSpecial02]SW.Designators=20
+[Phobos] Failed to parse INI file content: [IronCurtainSpecial02]SW.Designators=20
+[Developer warning]Failed to parse INI file content: [GAREFNAnimSpecial]SW.Warhead=Special2
+[Phobos] Failed to parse INI file content: [MagneticGlory]SW.Next=MagneticGlory2
+[Developer warning]Failed to parse INI file content: [TENTACLE1]Weapon=TentacleWeapon
+[Developer warning]Failed to parse INI file content: [GATECH]SuperWeapons=EnergyEnhanceSpecial
+[Phobos] Failed to parse INI file content: [GATECH]SuperWeapons=EnergyEnhanceSpecial
+[Developer warning]Failed to parse INI file content: [NACLON]DamageParticleSystems=SmallGreySmokeSys
+[Developer warning]Failed to parse INI file content: [CACITY02]Foundation=5x4
+[Developer warning]Failed to parse INI file content: [CACITY02]Foundation=5x4
+[Developer warning]Failed to parse INI file content: [YAGRND]DamageParticleSystems=SmallGreySmokeSys
+[Developer warning]Failed to parse INI file content: [GAZBDL]FactoryOwners=Arbitration
+[Developer warning]Failed to parse INI file content: [GABHMI]Insignia.Veteran=dummy (File could not be found)
+[Developer warning]Failed to parse INI file content: [GABHMI]Insignia.Elite=dummy (File could not be found)
+[Phobos] Failed to find file dummy.shp referenced by [GABHMI]Insignia.Veteran=dummy
+[Phobos] Failed to find file dummy.shp referenced by [GABHMI]Insignia.Elite=dummy
+[SIWIC] 在 [GABHMI] 中 , 属性 [Insignia.Veteran] 中存在无法载入的 shp 文件 : [dummy]
+[SIWIC] 在 [GABHMI] 中 , 属性 [Insignia.Elite] 中存在无法载入的 shp 文件 : [dummy]
+[Phobos] Failed to parse INI file content: [NAINDPCN]Grinding.AllowTypes=DTNK
+[Phobos] Failed to parse INI file content: [NAINDPCN]Grinding.AllowTypes=MEDUSA
+[Developer warning]Failed to parse INI file content: [TEBOLT]SuperWeapons=MagneticFallSpecial
+[Phobos] Failed to parse INI file content: [TEBOLT]SuperWeapons=MagneticFallSpecial
+[Developer warning]Failed to parse INI file content: [NASIOR]SuperWeapons=VehicleOverloadSpecial
+[Phobos] Failed to parse INI file content: [NASIOR]SuperWeapons=VehicleOverloadSpecial
+[Developer warning]Failed to parse INI file content: [YACLON]DamageParticleSystems=SmallGreySmokeSys
+[Developer warning]Failed to parse INI file content: [ENTTER]CameoPCX=.pcx (PCX file not found.)
+[Phobos] Failed to parse INI file content: [ENTTER]CameoPCX=.pcx (PCX file not found.)
+[SIWIC] ENTTER
+[Developer warning]Failed to parse INI file content: [SOVPALACE]CameoPCX=.pcx (PCX file not found.)
+[Phobos] Failed to parse INI file content: [SOVPALACE]CameoPCX=.pcx (PCX file not found.)
+[SIWIC] SOVPALACE
+[Phobos] [Developer warning] [CAFSJ] has Palette=newbuild set but no palette file was loaded (missing file or wrong filename). Missing palettes cause issues with lighting recalculations.
+[Developer warning]Failed to parse INI file content: [AILOCK]Armor=special
+[Developer warning]Failed to parse INI file content: [MagneticBSG]SuperWeapons=MagneticGlory2
+[Phobos] Failed to parse INI file content: [MagneticBSG]SuperWeapons=MagneticGlory2
+[Developer warning]Failed to parse INI file content: [CABYCA]Foundation=4x1
+[Developer warning]Failed to parse INI file content: [CABYCA]Foundation=4x1
+[Developer warning]Failed to parse INI file content: [CABYCB]Foundation=4x1
+[Developer warning]Failed to parse INI file content: [CABYCB]Foundation=4x1
+[Developer warning]Failed to parse INI file content: [CABYCC]Foundation=4x1
+[Developer warning]Failed to parse INI file content: [CABYCC]Foundation=4x1
+[Developer warning]Failed to parse INI file content: [CABYCD]Foundation=4x1
+[Developer warning]Failed to parse INI file content: [CABYCD]Foundation=4x1
+[Developer warning]Failed to parse INI file content: [CABYCE]Foundation=4x1
+[Developer warning]Failed to parse INI file content: [CABYCE]Foundation=4x1
+[Developer warning]Failed to parse INI file content: [CABYCF]Foundation=4x1
+[Developer warning]Failed to parse INI file content: [CABYCF]Foundation=4x1
+[Developer warning]Failed to parse INI file content: [CABYCG]Foundation=4x1
+[Developer warning]Failed to parse INI file content: [CABYCG]Foundation=4x1
+[Developer warning]Failed to parse INI file content: [CABYCH]Foundation=4x1
+[Developer warning]Failed to parse INI file content: [CABYCH]Foundation=4x1
+[Developer warning]Failed to parse INI file content: [CABYCI]Foundation=4x1
+[Developer warning]Failed to parse INI file content: [CABYCI]Foundation=4x1
+[Developer warning]Failed to parse INI file content: [CABYCJ]Foundation=4x1
+[Developer warning]Failed to parse INI file content: [CABYCJ]Foundation=4x1
+[Developer warning]Failed to parse INI file content: [CABYCK]Foundation=4x1
+[Developer warning]Failed to parse INI file content: [CABYCK]Foundation=4x1
+[Developer warning]Failed to parse INI file content: [CABYCL]Foundation=4x1
+[Developer warning]Failed to parse INI file content: [CABYCL]Foundation=4x1
+[Developer warning]Failed to parse INI file content: [CABYCM]Foundation=4x1
+[Developer warning]Failed to parse INI file content: [CABYCM]Foundation=4x1
+[Developer warning]Failed to parse INI file content: [CABYCN]Foundation=4x1
+[Developer warning]Failed to parse INI file content: [CABYCN]Foundation=4x1
+[Developer warning]Failed to parse INI file content: [CABYCO]Foundation=4x1
+[Developer warning]Failed to parse INI file content: [CABYCO]Foundation=4x1
+[Developer warning]Failed to parse INI file content: [BDRONE]Smoke.Anim=NOANIM
+[Developer warning]Failed to parse INI file content: [CORTER_A]Armor=f_light
+[Developer warning]Failed to parse INI file content: [FREEDOM_A]Armor=f_heavy
+[Developer warning]Failed to parse INI file content: [A10_A]Armor=f_medium
+[Developer warning]Failed to parse INI file content: [FLYGON_A]Armor=f_light
+[Developer warning]Failed to parse INI file content: [Rubbish1]Armor=inviso
+[Developer warning]Failed to parse INI file content: [Rubbish2]Armor=inviso
+[Developer warning]Failed to parse INI file content: [Rubbish3]Armor=inviso
+[Developer warning]Failed to parse INI file content: [Rubbish4]Armor=inviso
+[Developer warning]Failed to parse INI file content: [Rubbish5]Armor=inviso
+[Developer warning]Failed to parse INI file content: [FHZJ]Smoke.Anim=NOANIM
+[Developer warning]Failed to parse INI file content: [HUNTERUAV]Armor=f_light
+[Developer warning]Failed to parse INI file content: [HUNTERUAV]DamageParticleSystems=SmallIceSSys
+[Developer warning]Failed to parse INI file content: [TENGER]DamageParticleSystems=SmallIceSSys
+[Developer warning]Failed to parse INI file content: [UAV]Armor=f_light
+[Developer warning]Failed to parse INI file content: [UAV2]Armor=f_light
+[Developer warning]Failed to parse INI file content: [CNV3ROCKET]Missile.Weapon=V3Demobomb
+[Developer warning]Failed to parse INI file content: [CNV3ROCKET]Missile.EliteWeapon=V3DemobombE
+[Phobos] Replacing image for BEEFK with HTNK.
+[Phobos] Replacing image for BEEFK with HTNK.
+[Phobos] Replacing image for ROBO with ROBO.
+[Developer warning]Failed to parse INI file content: [ABRT]Insignia.Veteran=dummy (File could not be found)
+[Developer warning]Failed to parse INI file content: [ABRT]Insignia.Elite=dummy (File could not be found)
+[Developer warning]Failed to parse INI file content: [ABRT]FactoryOwners=Arbitration
+[Phobos] Failed to find file dummy.shp referenced by [ABRT]Insignia.Veteran=dummy
+[Phobos] Failed to find file dummy.shp referenced by [ABRT]Insignia.Elite=dummy
+[SIWIC] 在 [ABRT] 中 , 属性 [Insignia.Veteran] 中存在无法载入的 shp 文件 : [dummy]
+[SIWIC] 在 [ABRT] 中 , 属性 [Insignia.Elite] 中存在无法载入的 shp 文件 : [dummy]
+[Developer warning]Failed to parse INI file content: [SREF2]CameoPCX=.pcx (PCX file not found.)
+[Developer warning]Failed to parse INI file content: [SREF2]AltCameoPCX=.pcx (PCX file not found.)
+[Phobos] Failed to parse INI file content: [SREF2]CameoPCX=.pcx (PCX file not found.)
+[SIWIC] SREF2
+[Developer warning]Failed to parse INI file content: [BHRB]Insignia.Veteran=dummy (File could not be found)
+[Developer warning]Failed to parse INI file content: [BHRB]Insignia.Elite=dummy (File could not be found)
+[Developer warning]Failed to parse INI file content: [BHRB]Parachute.Anim=PARACHTD
+[Phobos] Failed to find file dummy.shp referenced by [BHRB]Insignia.Veteran=dummy
+[Phobos] Failed to find file dummy.shp referenced by [BHRB]Insignia.Elite=dummy
+[SIWIC] 在 [BHRB] 中 , 属性 [Insignia.Veteran] 中存在无法载入的 shp 文件 : [dummy]
+[SIWIC] 在 [BHRB] 中 , 属性 [Insignia.Elite] 中存在无法载入的 shp 文件 : [dummy]
+[Developer warning]Failed to parse INI file content: [HYAENAD]CameoPCX=.pcx (PCX file not found.)
+[Developer warning]Failed to parse INI file content: [HYAENAD]AltCameoPCX=.pcx (PCX file not found.)
+[Phobos] Failed to parse INI file content: [HYAENAD]CameoPCX=.pcx (PCX file not found.)
+[SIWIC] HYAENAD
+[Developer warning]Failed to parse INI file content: [SUTNTK]AltCameoPCX=sutntk2.pcx (PCX file not found.)
+[Developer warning]Failed to parse INI file content: [YMIN]DamageParticleSystems=YellowSmallSys
+[Developer warning]Failed to parse INI file content: [YMON]DamageParticleSystems=YellowSmallSys
+[Developer warning]Failed to parse INI file content: [YMON]CameoPCX=.pcx (PCX file not found.)
+[Developer warning]Failed to parse INI file content: [YMON]AltCameoPCX=.pcx (PCX file not found.)
+[Phobos] Failed to parse INI file content: [YMON]CameoPCX=.pcx (PCX file not found.)
+[SIWIC] YMON
+[Developer warning]Failed to parse INI file content: [RCMTC]AltCameoPCX=zcwrjicona,pcx (PCX file not found.)
+[Developer warning]Failed to parse INI file content: [MIND]WaterImage=MINDWR
+[Developer warning]Failed to parse INI file content: [YMCVE]AltCameoPCX=pcx.pcx (PCX file not found.)
+[Developer warning]Failed to parse INI file content: [SADS]Armor=n_heavy
+[Phobos] Replacing image for ROBO with ROBO.
+[Phobos] Replacing image for BEEFK with HTNK.
+[Phobos] Replacing image for BEEFK with HTNK.
+[Phobos] Replacing image for BEEFK with HTNK.
+[Developer warning]Failed to parse INI file content: [SREF2]CameoPCX=.pcx (PCX file not found.)
+[Developer warning]Failed to parse INI file content: [SREF2]AltCameoPCX=.pcx (PCX file not found.)
+[Phobos] Failed to parse INI file content: [SREF2]CameoPCX=.pcx (PCX file not found.)
+[SIWIC] SREF2
+[Developer warning]Failed to parse INI file content: [GGIFIX]CameoPCX=gdgiicon.pcx (PCX file not found.)
+[Developer warning]Failed to parse INI file content: [GGIFIX]AltCameoPCX=gdgiuico.pcx (PCX file not found.)
+[Phobos] Failed to parse INI file content: [GGIFIX]CameoPCX=gdgiicon.pcx (PCX file not found.)
+[SIWIC] GGIFIX
+[Phobos] Failed to parse INI file content: [ASTARTE]PipWrap=red (Expected a valid number)
+[Phobos] Failed to parse INI file content: [ASTARTEX]PipWrap=red (Expected a valid number)
+[Developer warning]Failed to parse INI file content: [E2]Armor=garrison
+[Phobos] Replacing image for SDOG with DOG.
+[Developer warning]Failed to parse INI file content: [LUNR]Prerequisite=NAPILE
+[Phobos] Replacing image for LUNR with LUNR.
+[Developer warning]Failed to parse INI file content: [MOBSTER_1]CameoPCX=jam.pcx (PCX file not found.)
+[Developer warning]Failed to parse INI file content: [MOBSTER_1]AltCameoPCX=jam.pcx (PCX file not found.)
+[Phobos] Failed to parse INI file content: [MOBSTER_1]CameoPCX=jam.pcx (PCX file not found.)
+[SIWIC] MOBSTER_1
+[Developer warning]Failed to parse INI file content: [MOUSE]CameoPCX=.pcx (PCX file not found.)
+[Developer warning]Failed to parse INI file content: [MOUSE]AltCameoPCX=.pcx (PCX file not found.)
+[Phobos] Failed to parse INI file content: [MOUSE]CameoPCX=.pcx (PCX file not found.)
+[SIWIC] MOUSE
+[Developer warning]Failed to parse INI file content: [SCOIONX]Armor=white
+[Developer warning]Failed to parse INI file content: [MOBSTER_1]CameoPCX=jam.pcx (PCX file not found.)
+[Developer warning]Failed to parse INI file content: [MOBSTER_1]AltCameoPCX=jam.pcx (PCX file not found.)
+[Phobos] Failed to parse INI file content: [MOBSTER_1]CameoPCX=jam.pcx (PCX file not found.)
+[SIWIC] MOBSTER_1
+[Developer warning]Failed to parse INI file content: [MOBSTER_1]CameoPCX=jam.pcx (PCX file not found.)
+[Developer warning]Failed to parse INI file content: [MOBSTER_1]AltCameoPCX=jam.pcx (PCX file not found.)
+[Phobos] Failed to parse INI file content: [MOBSTER_1]CameoPCX=jam.pcx (PCX file not found.)
+[SIWIC] MOBSTER_1
+[Developer warning]Failed to parse INI file content: [MEDIC]AltCameoPCX=.pcx (PCX file not found.)
+[Developer warning]Failed to parse INI file content: [E2union]Armor=garrison
+[Phobos] Replacing image for CAML with JOSH.
+[Phobos] Replacing image for DNOB with DNOB.
+[Phobos] Failed to parse INI file content: [HUISDEN]ExtraWarheads=HUISD554
+[Phobos] Failed to parse INI file content: [HUISDCment]ExtraWarheads=HUISD554
+[Developer warning]Failed to parse INI file content: [105mmBishopSpeedE]Anim=VEMUZZLE
+[Developer warning]Failed to parse INI file content: [105mmBishopE]Anim=VEMUZZLE
+[Developer warning]Failed to parse INI file content: [NGEMPW]Anim=STDMUZZ
+[Developer warning]Failed to parse INI file content: [MammothMissileStrike]Anim=REDFIRE
+[Developer warning]Failed to parse INI file content: [MammothMissileStrikeE]Anim=REDFIRE
+[Developer warning]Failed to parse INI file content: [RaiderAttack]Anim=RAIDERKILL
+[Developer warning]Failed to parse INI file content: [RaiderAttackAA]Anim=RAIDERKILL
+[Phobos] Failed to parse INI file content: [VortexPayload]ExtraWarheads=GAMNUKE02
+[Phobos] Failed to parse INI file content: [ATFGDTBomber2]ExtraWarheads=ATFGDTBuildFixWH
+[Developer warning]Failed to parse INI file content: [Sapper3]IvanBomb.Warhead=Mechanical1
+[Developer warning]Failed to parse INI file content: [NeutronRifle]Beam.Color=130,200150 (Expected a valid R,G,B color)
+[Phobos] Failed to parse INI file content: [NeutronRifle]Beam.Color=130,200150 (Expected a valid R,G,B color)
+[Developer warning]Failed to parse INI file content: [Sapper1]IvanBomb.Warhead=Mechanical1
+[Developer warning]Failed to parse INI file content: [OnaSapper]IvanBomb.Warhead=TeamkllWH
+[Developer warning]Failed to parse INI file content: [ShockerSapper]IvanBomb.Warhead=TeamkllWH
+[Phobos] [Developer warning] [InvisibleHighLI] has Trajectory set together with ROT value other than 0. ROT has been set to 0.
+[Phobos] [Developer warning] [CorruptorMissileProj] has Trajectory set together with ROT value other than 0. ROT has been set to 0.
+[Phobos] [Developer warning] [FlyDragonMissileProj] has Trajectory set together with ROT value other than 0. ROT has been set to 0.
+[Phobos] [Developer warning] [PlotevmaMissileProj] has Trajectory set together with ROT value other than 0. ROT has been set to 0.
+[Phobos] Failed to parse INI file content: [HellArcShipCannonProj]SubjectToCliffs=uo (Expected a valid boolean value [1, true, yes, 0, false, no])
+[Phobos] Failed to parse INI file content: [ArmorMissileProj]Cluster=yes (Expected a valid number)
+[Phobos] [Developer warning] [PlotevmaMissileAAProj] has Trajectory set together with ROT value other than 0. ROT has been set to 0.
+[Phobos] [Developer warning] [EADERGMissileProj] has Trajectory set together with Vertical. Vertical has been set to false.
+[Developer warning]Failed to parse INI file content: [CRNUKEWH]AnimList=MININUKE - added 11/30
+[Phobos] Failed to parse INI file content: [ULLTBFlame3]Shield.ReplaceOnly=LLTTKShield (Expected a valid boolean value [1, true, yes, 0, false, no])
+[Developer warning]Failed to parse INI file content: [OverloadDisableWH]EMP.Sparkles=EMP_FX02
+[Developer warning]Failed to parse INI file content: [AsuraDeathWH]DamageAirThreshold=yes (Expected a valid number)
+[Developer warning]Failed to parse INI file content: [ACVGunWH]AnimList=PIFPIF
+[Developer warning]Failed to parse INI file content: [ScorpionChelaWH]AnimList=ACIDBOOM
+[Developer warning]Failed to parse INI file content: [CryoBeam2WH]InfDeathAnim=FREEZE
+[Phobos] Failed to parse INI file content: [ULLTBFlame220]Shield.ReplaceOnly=LLTTKShield02 (Expected a valid boolean value [1, true, yes, 0, false, no])
+[Phobos] Failed to parse INI file content: [ULLTBFlame]Shield.ReplaceOnly=PhaseShift,ImmolateShield2,ThorAddition,EnergyBarrier,IronParclose,godtankShield,BasaltShield,LLTTKShield02 (Expected a valid boolean value [1, true, yes, 0, false, no])
+[Developer warning]Failed to parse INI file content: [ScorpionChelaXEWH]AnimList=ACIDBOOM
+[Phobos] Failed to parse INI file content: [ULLTBSECD02Flame]Shield.ReplaceOnly=PhaseShift,ImmolateShield2,ThorAddition,EnergyBarrier,IronParclose,godtankShield,BasaltShield,LLTTKShield (Expected a valid boolean value [1, true, yes, 0, false, no])
+[Developer warning]Failed to parse INI file content: [ScorpionBombXEWH]AnimList=ACIDBOOM
+[Developer warning]Failed to parse INI file content: [105mmBishopSpeedE]Anim=VEMUZZLE
+[Developer warning]Failed to parse INI file content: [105mmBishopE]Anim=VEMUZZLE
+[Developer warning]Failed to parse INI file content: [NGEMPW]Anim=STDMUZZ
+[Developer warning]Failed to parse INI file content: [MammothMissileStrike]Anim=REDFIRE
+[Developer warning]Failed to parse INI file content: [MammothMissileStrikeE]Anim=REDFIRE
+[Developer warning]Failed to parse INI file content: [RaiderAttack]Anim=RAIDERKILL
+[Developer warning]Failed to parse INI file content: [RaiderAttackAA]Anim=RAIDERKILL
+[Phobos] Failed to parse INI file content: [VortexPayload]ExtraWarheads=GAMNUKE02
+[Phobos] Failed to parse INI file content: [ATFGDTBomber2]ExtraWarheads=ATFGDTBuildFixWH
+[Developer warning]Failed to parse INI file content: [Sapper3]IvanBomb.Warhead=Mechanical1
+[Developer warning]Failed to parse INI file content: [NeutronRifle]Beam.Color=130,200150 (Expected a valid R,G,B color)
+[Phobos] Failed to parse INI file content: [NeutronRifle]Beam.Color=130,200150 (Expected a valid R,G,B color)
+[Developer warning]Failed to parse INI file content: [Sapper1]IvanBomb.Warhead=Mechanical1
+[Developer warning]Failed to parse INI file content: [OnaSapper]IvanBomb.Warhead=TeamkllWH
+[Developer warning]Failed to parse INI file content: [ShockerSapper]IvanBomb.Warhead=TeamkllWH
+[SIWIC] Buff [ASDOWNUP] 的属性 [Active.Auto.CheckFail.Type] 的值 "Reset" 是无效的 , 此处使用默认值
+[Developer warning]Failed to parse INI file content: [CRNUKEWH]AnimList=MININUKE - added 11/30
+[Phobos] Failed to parse INI file content: [ULLTBFlame3]Shield.ReplaceOnly=LLTTKShield (Expected a valid boolean value [1, true, yes, 0, false, no])
+[Developer warning]Failed to parse INI file content: [OverloadDisableWH]EMP.Sparkles=EMP_FX02
+[Developer warning]Failed to parse INI file content: [AsuraDeathWH]DamageAirThreshold=yes (Expected a valid number)
+[Developer warning]Failed to parse INI file content: [ACVGunWH]AnimList=PIFPIF
+[Developer warning]Failed to parse INI file content: [ScorpionChelaWH]AnimList=ACIDBOOM
+[Developer warning]Failed to parse INI file content: [CryoBeam2WH]InfDeathAnim=FREEZE
+[Phobos] Failed to parse INI file content: [ULLTBFlame220]Shield.ReplaceOnly=LLTTKShield02 (Expected a valid boolean value [1, true, yes, 0, false, no])
+[Phobos] Failed to parse INI file content: [ULLTBFlame]Shield.ReplaceOnly=PhaseShift,ImmolateShield2,ThorAddition,EnergyBarrier,IronParclose,godtankShield,BasaltShield,LLTTKShield02 (Expected a valid boolean value [1, true, yes, 0, false, no])
+[Developer warning]Failed to parse INI file content: [ScorpionChelaXEWH]AnimList=ACIDBOOM
+[Phobos] Failed to parse INI file content: [ULLTBSECD02Flame]Shield.ReplaceOnly=PhaseShift,ImmolateShield2,ThorAddition,EnergyBarrier,IronParclose,godtankShield,BasaltShield,LLTTKShield (Expected a valid boolean value [1, true, yes, 0, false, no])
+[Developer warning]Failed to parse INI file content: [ScorpionBombXEWH]AnimList=ACIDBOOM
+Processing sides.
+[Phobos] Failed to parse INI file content: [FLYGONTrailUAV02]Color=280,150,80 (Expected a valid R,G,B color)
+[Phobos] Failed to parse INI file content: [FLAMEOYTrailUAV02]Color=280,150,80 (Expected a valid R,G,B color)
+[Phobos] Failed to parse INI file content: [FLAMEOYTrailUAV22]Color=280,150,80 (Expected a valid R,G,B color)
+[Phobos] Failed to parse INI file content: [HEADERTrailUAV02]Color=20,20,280 (Expected a valid R,G,B color)
+[Phobos] Failed to parse INI file content: [HEADERTrailUAV22]Color=20,20,280 (Expected a valid R,G,B color)
+[Phobos] Failed to parse INI file content: [ERDRLaser]Color=256,30,30 (Expected a valid R,G,B color)
+[Phobos] Failed to parse INI file content: [BlimpTrailUAV22]Color=280,150,80 (Expected a valid R,G,B color)
+[Phobos] Failed to parse INI file content: [ERDRLaser2]Color=286,10,10 (Expected a valid R,G,B color)
+[Phobos] Failed to parse INI file content: [ELINAMedLaser2]Color=200,40,286 (Expected a valid R,G,B color)
+[Phobos] Failed to parse INI file content: [ZEP2TrailUAV02]Color=280,150,80 (Expected a valid R,G,B color)
+Processing sides.
+[Phobos] Failed to parse INI file content: [FLYGONTrailUAV02]Color=280,150,80 (Expected a valid R,G,B color)
+[Phobos] Failed to parse INI file content: [FLAMEOYTrailUAV02]Color=280,150,80 (Expected a valid R,G,B color)
+[Phobos] Failed to parse INI file content: [FLAMEOYTrailUAV22]Color=280,150,80 (Expected a valid R,G,B color)
+[Phobos] Failed to parse INI file content: [HEADERTrailUAV02]Color=20,20,280 (Expected a valid R,G,B color)
+[Phobos] Failed to parse INI file content: [HEADERTrailUAV22]Color=20,20,280 (Expected a valid R,G,B color)
+[Phobos] Failed to parse INI file content: [ERDRLaser]Color=256,30,30 (Expected a valid R,G,B color)
+[Phobos] Failed to parse INI file content: [BlimpTrailUAV22]Color=280,150,80 (Expected a valid R,G,B color)
+[Phobos] Failed to parse INI file content: [ERDRLaser2]Color=286,10,10 (Expected a valid R,G,B color)
+[Phobos] Failed to parse INI file content: [ELINAMedLaser2]Color=200,40,286 (Expected a valid R,G,B color)
+[Phobos] Failed to parse INI file content: [ZEP2TrailUAV02]Color=280,150,80 (Expected a valid R,G,B color)
+Preparing Mixfiles for Side 01.
+     Initilizing SIDEC02MD.MIX
+     Initilizing SIDEC02.MIX
+     Initilizing SIDENC02.MIX
+RadarClass::Init_For_House()
+[Developer notice]Counter attempted to overflow (given count of 583 exceeds maximum allowed count of 512).
+[Developer notice]Counter attempted to overflow (given count of 732 exceeds maximum allowed count of 512).
+[Developer notice]Counter attempted to overflow (given count of 583 exceeds maximum allowed count of 512).
+[Developer notice]Counter attempted to overflow (given count of 732 exceeds maximum allowed count of 512).
+[Developer notice]Counter attempted to overflow (given count of 732 exceeds maximum allowed count of 512).
+[Developer notice]Counter attempted to overflow (given count of 583 exceeds maximum allowed count of 512).
+[Developer notice]Counter attempted to overflow (given count of 732 exceeds maximum allowed count of 512).
+[Developer notice]Counter attempted to overflow (given count of 583 exceeds maximum allowed count of 512).
+[Developer notice]Counter attempted to overflow (given count of 732 exceeds maximum allowed count of 512).
+[Developer notice]Counter attempted to overflow (given count of 732 exceeds maximum allowed count of 512).
+[Developer notice]Counter attempted to overflow (given count of 583 exceeds maximum allowed count of 512).
+[Developer notice]Counter attempted to overflow (given count of 732 exceeds maximum allowed count of 512).
+[Developer notice]Counter attempted to overflow (given count of 583 exceeds maximum allowed count of 512).
+[Developer notice]Counter attempted to overflow (given count of 732 exceeds maximum allowed count of 512).
+[Developer notice]Counter attempted to overflow (given count of 732 exceeds maximum allowed count of 512).
+[Developer notice]Counter attempted to overflow (given count of 583 exceeds maximum allowed count of 512).
+[Developer notice]Counter attempted to overflow (given count of 732 exceeds maximum allowed count of 512).
+[Developer notice]Counter attempted to overflow (given count of 583 exceeds maximum allowed count of 512).
+[Developer notice]Counter attempted to overflow (given count of 732 exceeds maximum allowed count of 512).
+[Developer notice]Counter attempted to overflow (given count of 732 exceeds maximum allowed count of 512).
+MapClass::Init_Clear entry
+MapClass::Init_Clear done
+RadarClass::Init_Clear
+RadarClass::Init_Clear done
+[Phobos] [Developer warning] Can not get waypoint 700 : [94, 99]!
+Loaded 185 isometric tiles consuming 1274 Kb
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[Phobos] Multiplayer start waypoint found at cell -9124,131
+[Phobos] Multiplayer start waypoint found at cell -9124,131
+Finished unit generation. Random number is 56297
+Converting 0 nodes.
+[Developer error][YDUM]SpeedType is invalid!
+[Developer error][TRTNK_1]SpeedType is invalid!
+[Developer error][TRTNK_2]SpeedType is invalid!
+[Developer error][LZCHK]Passengers=2 and SizeLimit=0!
+[Developer error][TENGOS]SpeedType is invalid!
+[Developer error][CAOS,]SpeedType is invalid!
+[Developer error][train1]SpeedType is invalid!
+[Developer error][train2]SpeedType is invalid!
+[Developer error][LZCHKunion]Passengers=2 and SizeLimit=0!
+[Developer error]ShadowIndex on [BoltZEP]'s image is 1, but the HVA only has 1 sections.
+[Developer error][VISC_LRG]SpeedType is invalid!
+[Developer error][VISC_SML]SpeedType is invalid!
+[Developer warning]Building Type [UFO] does not have a valid BuildCat set!
+It was reset to Infrastructure, but you should really specify it explicitly.
+[Developer error]Weapon[UltrasonicResonanceGunE] has no Warhead! This usually indicates one of two things:
+- The weapon was created too late and its rules weren't read (see WEEDGUY hack);
+- The weapon's name was misspelled.
+[Developer error]Weapon[UltrasonicResonanceGunE] has no Projectile! This usually indicates one of two things:
+- The weapon was created too late and its rules weren't read (see WEEDGUY hack);
+- The weapon's name was misspelled.
+[Developer error]Weapon[HEADERMissile03] has no Warhead! This usually indicates one of two things:
+- The weapon was created too late and its rules weren't read (see WEEDGUY hack);
+- The weapon's name was misspelled.
+[Developer error]Weapon[HEADERMissile03] has no Projectile! This usually indicates one of two things:
+- The weapon was created too late and its rules weren't read (see WEEDGUY hack);
+- The weapon's name was misspelled.
+[Developer error]Weapon[PEBTJab2] has no Warhead! This usually indicates one of two things:
+- The weapon was created too late and its rules weren't read (see WEEDGUY hack);
+- The weapon's name was misspelled.
+[Developer error]Weapon[PEBTJab2] has no Projectile! This usually indicates one of two things:
+- The weapon was created too late and its rules weren't read (see WEEDGUY hack);
+- The weapon's name was misspelled.
+[Developer error]Weapon[TentacleWeapon] has no Warhead! This usually indicates one of two things:
+- The weapon was created too late and its rules weren't read (see WEEDGUY hack);
+- The weapon's name was misspelled.
+[Developer error]Weapon[TentacleWeapon] has no Projectile! This usually indicates one of two things:
+- The weapon was created too late and its rules weren't read (see WEEDGUY hack);
+- The weapon's name was misspelled.
+[Developer warning]The [BuildingTypes] list contains more than 512 entries. This might result in unexpected behaviour and crashes.
+[Developer warning]The [VehicleTypes] list contains more than 512 entries. This might result in unexpected behaviour and crashes.
+MessageListClass::Init(Width: 1184)
+     Releasing NEUTRAL.MIX
+     Releasing NTRLMD.MIX
+SoundVolume = 0.300000
+VoiceVolume = 0.300000
+ScoreVolume = 0.300000
+ScoreRepeat is OFF
+ScoreShuffle is ON
+Theme::Stop(42) - Fading
+Entering Create_Connections
+IPX Manager: RetryDelta = 60
+MaxAhead is 24
+Tooltips are on.
+Capture_Mouse()
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Adding event DEPLOY
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Adding event PRODUCE
+Adding event PLACE
+Adding event PRODUCE
+Adding event PLACE
+Create_One_Of...
+Creating a new team named 'RUS T1 C 1'.
+Create_One_Of...
+Creating a new team named 'RUS T1 C 2'.
+Adding event PRODUCE
+Adding event PRODUCE
+Adding event PLACE
+Adding event PLACE
+Create_One_Of...
+Creating a new team named 'USA T1 A 1'.
+Create_One_Of...
+Creating a new team named 'USA T1 A 2'.
+Adding event PRODUCE
+Create_One_Of...
+Creating a new team named 'Power'.
+Create_One_Of...
+Creating a new team named 'Power'.
+Create_One_Of...
+Creating a new team named 'RUS T1 C 1'.
+Create_One_Of...
+Creating a new team named 'RUS T1 C 2'.
+Adding event PRODUCE
+Adding event PRODUCE
+Adding event PLACE
+Adding event PLACE
+Adding event PLACE
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Crate at 62,80 contains money
+Adding event PRODUCE
+Create_One_Of...
+Creating a new team named 'RUS T1 B 1'.
+Create_One_Of...
+Creating a new team named 'RUS T1 B 2'.
+Adding event PRODUCE
+Adding event PRODUCE
+Adding event PRODUCE
+Adding event PLACE
+Adding event PRODUCE
+Adding event PRODUCE
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Adding event PLACE
+Adding event PLACE
+Adding event PLACE
+Adding event PRODUCE
+Adding event PLACE
+Adding event PLACE
+Adding event PLACE
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Adding event PRODUCE
+Adding event PRODUCE
+Adding event PRODUCE
+Adding event PRODUCE
+Adding event PRODUCE
+Adding event PRODUCE
+Adding event PLACE
+Adding event PLACE
+Adding event PRODUCE
+Adding event PLACE
+Create_One_Of...
+Creating a new team named 'RUS T1 C 1'.
+Create_One_Of...
+Creating a new team named 'RUS T1 C 2'.
+Adding event PLACE
+Adding event PLACE
+Adding event PLACE
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Adding event PRODUCE
+Adding event PRODUCE
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Adding event PRODUCE
+Adding event PRODUCE
+Adding event PRODUCE
+Adding event PRODUCE
+Adding event PRODUCE
+Adding event PLACE
+Adding event PLACE
+Adding event PLACE
+Adding event PLACE
+Adding event PLACE
+Adding event PLACE
+Create_One_Of...
+Creating a new team named 'RUS T1 TK C 1'.
+Create_One_Of...
+Creating a new team named 'RUS T1 TK C 2'.
+Adding event PLACE
+Create_One_Of...
+Creating a new team named 'RUS T1 TK B 1'.
+Create_One_Of...
+Creating a new team named 'RUS T1 TK B 2'.
+Adding event PLACE
+Create_One_Of...
+Creating a new team named 'Power'.
+Create_One_Of...
+Creating a new team named 'Power'.
+Adding event PRODUCE
+Weapons factory bib clear - kicking out unit
+Adding event PLACE
+Weapons factory bib clear - kicking out unit
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Adding event PRODUCE
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Create_One_Of...
+Creating a new team named 'RUS T1 TK A 1'.
+Create_One_Of...
+Creating a new team named 'RUS T1 TK A 2'.
+Weapons factory bib clear - kicking out unit
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Weapons factory bib clear - kicking out unit
+Create_One_Of...
+Creating a new team named 'RUS T1 D 1'.
+Create_One_Of...
+Creating a new team named 'RUS T1 D 2'.
+Weapons factory clearing ITNK from bib
+Weapons factory bib clear - kicking out unit
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Adding event PLACE
+Adding event PRODUCE
+Create_One_Of...
+Creating a new team named 'RUS T1 TK D 1'.
+Create_One_Of...
+Creating a new team named 'RUS T1 TK D 2'.
+Adding event PRODUCE
+Weapons factory bib clear - kicking out unit
+Create_One_Of...
+Creating a new team named 'RUS T1 B 1'.
+Create_One_Of...
+Creating a new team named 'RUS T1 B 2'.
+Adding event PLACE
+Adding event PRODUCE
+Weapons factory bib clear - kicking out unit
+Adding event PLACE
+Weapons factory bib clear - kicking out unit
+Create_One_Of...
+Creating a new team named 'RUS T1 C 1'.
+Create_One_Of...
+Creating a new team named 'RUS T1 C 2'.
+Weapons factory bib clear - kicking out unit
+Create_One_Of...
+Creating a new team named 'ENT T2 D 1'.
+Create_One_Of...
+Creating a new team named 'ENT T2 D 2'.
+Adding event ARCHIVE
+Create_One_Of...
+Creating a new team named 'RUS T1 TK B 1'.
+Create_One_Of...
+Creating a new team named 'RUS T1 TK B 2'.
+Weapons factory bib clear - kicking out unit
+Adding event PLACE
+Weapons factory bib clear - kicking out unit
+Create_One_Of...
+Creating a new team named 'ENT T2 E 1'.
+Create_One_Of...
+Creating a new team named 'ENT T2 E 2'.
+Weapons factory bib clear - kicking out unit
+Adding event PLACE
+Radar: TacticalMap availability is on
+Radar: ACTIVATING
+Adding event PRODUCE
+Adding event PRODUCE
+Adding event PRODUCE
+Adding event PRODUCE
+Weapons factory bib clear - kicking out unit
+Create_One_Of...
+Creating a new team named 'Power'.
+Create_One_Of...
+Creating a new team named 'Power'.
+Adding event PLACE
+Adding event PLACE
+Weapons factory bib clear - kicking out unit
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Adding event PLACE
+Adding event PLACE
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Adding event PRODUCE
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Adding event PLACE
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Adding event PLACE
+Adding event PLACE
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Crate at 62,94 contains speed
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Create_One_Of...
+Creating a new team named 'USA W 1 1'.
+Create_One_Of...
+Creating a new team named 'USA W 1 1'.
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Weapons factory bib clear - kicking out unit
+Adding event PLACE
+Create_One_Of...
+Creating a new team named 'USA W 1 1'.
+Create_One_Of...
+Creating a new team named 'USA W 1 1'.
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Create_One_Of...
+Creating a new team named 'ENT T2 C 1'.
+Create_One_Of...
+Creating a new team named 'ENT T2 C 2'.
+Weapons factory bib clear - kicking out unit
+Adding event PLACE
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Adding event PLACE
+Adding event PLACE
+Weapons factory bib clear - kicking out unit
+Adding event PRODUCE
+[LAUNCH] PsychicRevealSpecial
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Adding event PRODUCE
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Adding event PLACE
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Create_One_Of...
+Creating a new team named 'RUS T1 TK A 1'.
+Create_One_Of...
+Creating a new team named 'RUS T1 TK A 2'.
+(0045022c) : Computer is abandoning production of Yuri Citadel Wall[GAFWLL]
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Adding event PLACE
+Adding event PLACE
+Weapons factory bib clear - kicking out unit
+Adding event PRODUCE
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Create_One_Of...
+Creating a new team named 'ENT T2 C 1'.
+Create_One_Of...
+Creating a new team named 'ENT T2 C 2'.
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Adding event PLACE
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Adding event PLACE
+Adding event PLACE
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Create_One_Of...
+Creating a new team named 'USA T1 A 1'.
+Create_One_Of...
+Creating a new team named 'USA T1 A 2'.
+Weapons factory bib clear - kicking out unit
+Create_One_Of...
+Creating a new team named 'ENT T2 E 1'.
+Create_One_Of...
+Creating a new team named 'ENT T2 E 2'.
+Adding event PLACE
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Adding event PRODUCE
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Adding event PLACE
+Adding event PRODUCE
+Adding event SUSPEND
+Adding event ABANDON
+(006abbda) : <human player> is abandoning production of Reverse Engineering Industrial Plant[NAINDPCN]
+Adding event PRODUCE
+Weapons factory bib clear - kicking out unit
+Create_One_Of...
+Creating a new team named 'RUS T1 TK C 1'.
+Create_One_Of...
+Creating a new team named 'RUS T1 TK C 2'.
+Adding event PLACE
+Adding event PRODUCE
+Weapons factory bib clear - kicking out unit
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[LAUNCH] PsychicRevealSpecial
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Weapons factory bib clear - kicking out unit
+Adding event PLACE
+Create_One_Of...
+Creating a new team named 'Power'.
+Create_One_Of...
+Creating a new team named 'Power'.
+Create_One_Of...
+Creating a new team named 'USA T3 C 1'.
+Create_One_Of...
+Creating a new team named 'USA T3 C 2'.
+Weapons factory bib clear - kicking out unit
+Adding event PRODUCE
+Adding event PLACE
+Adding event PLACE
+Adding event PLACE
+Adding event PLACE
+Weapons factory clearing MEDUSAVE from bib
+Weapons factory clearing MEDUSAVE from bib area
+Weapons factory clearing INIT from bib area
+Weapons factory clearing OUROS from bib area
+Weapons factory clearing MEDUSAVE from bib
+Weapons factory clearing MEDUSAVE from bib area
+Weapons factory clearing INIT from bib area
+Weapons factory clearing OUROS from bib area
+Weapons factory clearing MEDUSAVE from bib
+Weapons factory clearing OUROS from bib area
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Weapons factory clearing MEDUSAVE from bib
+Weapons factory clearing BERKER from bib area
+Weapons factory clearing OUROS from bib area
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Weapons factory clearing MEDUSAVE from bib
+Weapons factory clearing BERKER from bib area
+Weapons factory clearing OUROS from bib area
+Weapons factory clearing MEDUSAVE from bib
+Weapons factory clearing BERKER from bib area
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Create_One_Of...
+Creating a new team named 'ENT T3 F 1'.
+Create_One_Of...
+Creating a new team named 'ENT T3 F 2'.
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Create_One_Of...
+Creating a new team named 'USA T3 D 1'.
+Create_One_Of...
+Creating a new team named 'USA T3 D 2'.
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Weapons factory bib clear - kicking out unit
+Adding event PRODUCE
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[LAUNCH] WarChestSpecial
+Weapons factory bib clear - kicking out unit
+Adding event OPTIONS
+Paused ElapsedTimer = 16350
+Tooltips are off.
+Release_Mouse()
+Default
+Default
+Capture_Mouse()
+Resume ElapsedTimer = 16350
+Tooltips are on.
+Create_One_Of...
+Creating a new team named 'USA T1 A 1'.
+Create_One_Of...
+Creating a new team named 'USA T1 A 2'.
+Weapons factory bib clear - kicking out unit
+Adding event PLACE
+Adding event PRODUCE
+Adding event PRODUCE
+Adding event PRODUCE
+Adding event PRODUCE
+Adding event PRODUCE
+[LAUNCH] WarChestSpecial
+Adding event PLACE
+Weapons factory bib clear - kicking out unit
+Adding event SPECIAL_PLACE
+[LAUNCH] SpyPlaneSpecial
+Create_One_Of...
+Creating a new team named 'USA T3 G 1'.
+Create_One_Of...
+Creating a new team named 'USA T3 G 2'.
+[LAUNCH] PsychicRevealSpecial
+Weapons factory bib clear - kicking out unit
+Adding event PLACE
+Adding event PRODUCE
+Request to Begin_Production of 'Fly Dragon Fighter' was rejected. Factory was unable to create the requested object
+Adding event PRODUCE
+Weapons factory bib clear - kicking out unit
+[LAUNCH] BlackActionSpecial
+Adding event PLACE
+Weapons factory bib clear - kicking out unit
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Crate at 69,95 contains base healing
+Adding event PLACE
+Weapons factory clearing HARV from bib
+Weapons factory bib clear - kicking out unit
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Adding event PLACE
+Create_One_Of...
+Creating a new team named 'ENT T2 C 1'.
+Create_One_Of...
+Creating a new team named 'ENT T2 C 2'.
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Adding event PLACE
+Weapons factory bib clear - kicking out unit
+[LAUNCH] WarChestSpecial
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Adding event DEPLOY
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Adding event PLACE
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[LAUNCH] WarChestSpecial
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Adding event PLACE
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Adding event PLACE
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+[LAUNCH] PsychicRevealSpecial
+Weapons factory bib clear - kicking out unit
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Create_One_Of...
+Creating a new team named 'ENT T3 A 1'.
+Create_One_Of...
+Creating a new team named 'USA T3 A 2'.
+Adding event PLACE
+Adding event PRODUCE
+Weapons factory bib clear - kicking out unit
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Adding event PLACE
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Weapons factory bib clear - kicking out unit
+Adding event PLACE
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+[Phobos] CreateUnit: Using stored turret facing 108
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Adding event PLACE
+Weapons factory bib clear - kicking out unit
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[Phobos] CreateUnit: Using stored turret facing 131
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+AICapture: I think (Nothing Special) so I roll a 91 and decide (Go to Hunt) with a Iron Curtain Sapper.
+AICapture: Naw, let's put him in hunt.
+Weapons factory bib clear - kicking out unit
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Create_One_Of...
+Creating a new team named 'RUS T2 A 1'.
+Create_One_Of...
+Creating a new team named 'RUS T2 A 2'.
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Adding event PLACE
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Weapons factory bib clear - kicking out unit
+[LAUNCH] WarChestSpecial
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Adding event PLACE
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Adding event PLACE
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Create_One_Of...
+Creating a new team named 'USA T3 E 1'.
+Create_One_Of...
+Creating a new team named 'USA T3 E 2'.
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+[LAUNCH] BlackActionSpecial
+[LAUNCH] WarChestSpecial
+Weapons factory bib clear - kicking out unit
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Adding event PLACE
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+[LAUNCH] PsychicRevealSpecial
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Adding event PLACE
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Adding event PLACE
+Weapons factory clearing HARV from bib
+Weapons factory clearing CHIHNTK from bib area
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+[LAUNCH] ParaDropSpecial
+Weapons factory bib clear - kicking out unit
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Weapons factory bib clear - kicking out unit
+Adding event PLACE
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+[Phobos] CreateUnit: Using stored turret facing 127
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Create_One_Of...
+Creating a new team named 'ENT T3 H 1'.
+Create_One_Of...
+Creating a new team named 'ENT T3 H 2'.
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Create_One_Of...
+Creating a new team named 'USA F T2 A 1'.
+Create_One_Of...
+Creating a new team named 'USA F T2 A 2'.
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Creating survivor type 'Yuri Initiate' from building type 'Yuri Bio Reactor'
+Survivor unlimbo OK
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Adding event PLACE
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Weapons factory bib clear - kicking out unit
+Creating survivor type 'Yuri Initiate' from building type 'Yuri Bio Reactor'
+Survivor unlimbo OK
+[LAUNCH] WarChestSpecial
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Adding event PLACE
+[LAUNCH] WarChestSpecial
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Create_One_Of...
+Creating a new team named 'USA T3 B 1'.
+Create_One_Of...
+Creating a new team named 'USA T3 B 2'.
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Adding event DEPLOY
+Adding event DEPLOY
+Adding event DEPLOY
+Adding event DEPLOY
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+[LAUNCH] PsychicRevealSpecial
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Crate at 64,89 contains veterancy(TM)
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Adding event PLACE
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Create_One_Of...
+Creating a new team named 'USA W 1 1'.
+Create_One_Of...
+Creating a new team named 'USA W 1 1'.
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 53 65, 单位类型 PLOTER
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+[LAUNCH] ParaDropSpecial
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Adding event ARCHIVE
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Creating survivor type 'Yuri Initiate' from building type 'Yuri Bio Reactor'
+Survivor unlimbo OK
+Adding event PLACE
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Create_One_Of...
+Creating a new team named 'RUS T1 B 1'.
+Create_One_Of...
+Creating a new team named 'RUS T1 B 2'.
+Weapons factory bib clear - kicking out unit
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[LAUNCH] BlackActionSpecial
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Adding event PRODUCE
+Request to Begin_Production of 'Fly Dragon Fighter' was rejected. Factory was unable to create the requested object
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Adding event PLACE
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Adding event PRODUCE
+Adding event PRODUCE
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[LAUNCH] WarChestSpecial
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Crate at 81,47 contains 'reveal'
+Adding event PLACE
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Adding event PLACE
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Adding event PRODUCE
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Create_One_Of...
+Creating a new team named 'USA T3 G 1'.
+Create_One_Of...
+Creating a new team named 'USA T3 G 2'.
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[LAUNCH] WarChestSpecial
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Create_One_Of...
+Creating a new team named 'RUS T2 B 1'.
+Create_One_Of...
+Creating a new team named 'RUS T2 B 2'.
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Adding event PLACE
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Adding event PLACE
+[LAUNCH] PsychicRevealSpecial
+Adding event PLACE
+Weapons factory bib clear - kicking out unit
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+AICapture: I think (Nothing Special) so I roll a 2 and decide (Add To Team) with a Iron Curtain Sapper.
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+[LAUNCH] ParaDropSpecial
+Regular findpath failure: (80,64) to (75, 66)
+Regular findpath failure: (80,64) to (75, 66)
+Regular findpath failure: (80,64) to (84, 61)
+Regular findpath failure: (80,64) to (83, 56)
+Regular findpath failure: (80,64) to (82, 58)
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Regular findpath failure: (80,64) to (83, 56)
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Adding event PLACE
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Regular findpath failure: (74,64) to (77, 73)
+Regular findpath failure: (74,63) to (77, 73)
+AICapture: I think (Nothing Special) so I roll a 43 and decide (Add To Team) with a Iron Curtain Sapper.
+AICapture: Naw, let's put him in hunt.
+AICapture: I think (Nothing Special) so I roll a 83 and decide (Put in Bio Reactor) with a Iron Curtain Sapper.
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Regular findpath failure: (73,62) to (76, 69)
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Regular findpath failure: (74,64) to (77, 68)
+Regular findpath failure: (72,59) to (76, 69)
+Regular findpath failure: (82,54) to (77, 71)
+Regular findpath failure: (92,60) to (78, 72)
+Regular findpath failure: (81,50) to (77, 71)
+Regular findpath failure: (81,50) to (77, 71)
+Regular findpath failure: (80,54) to (76, 71)
+Regular findpath failure: (87,50) to (78, 71)
+Regular findpath failure: (87,50) to (78, 71)
+Regular findpath failure: (87,50) to (78, 71)
+Regular findpath failure: (82,54) to (77, 71)
+Regular findpath failure: (81,54) to (77, 71)
+Regular findpath failure: (81,49) to (77, 71)
+Regular findpath failure: (79,53) to (76, 71)
+Regular findpath failure: (72,59) to (76, 69)
+Regular findpath failure: (89,58) to (78, 72)
+Regular findpath failure: (89,58) to (78, 72)
+Regular findpath failure: (89,58) to (78, 72)
+Regular findpath failure: (89,58) to (78, 72)
+Regular findpath failure: (82,53) to (78, 72)
+Regular findpath failure: (89,58) to (78, 71)
+Regular findpath failure: (89,58) to (78, 71)
+Regular findpath failure: (89,58) to (78, 71)
+Regular findpath failure: (89,58) to (78, 71)
+Regular findpath failure: (89,58) to (78, 72)
+Regular findpath failure: (89,58) to (78, 72)
+Regular findpath failure: (89,58) to (78, 72)
+Regular findpath failure: (89,58) to (78, 72)
+Regular findpath failure: (83,51) to (77, 71)
+Regular findpath failure: (72,58) to (78, 72)
+Regular findpath failure: (72,59) to (76, 69)
+Regular findpath failure: (82,53) to (77, 71)
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Create_One_Of...
+Creating a new team named 'USA W 1 1'.
+Create_One_Of...
+Creating a new team named 'USA W 1 1'.
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Adding event PLACE
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Adding event PLACE
+Create_One_Of...
+Creating a new team named 'USA T3 G 1'.
+Create_One_Of...
+Creating a new team named 'USA T3 G 2'.
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Create_One_Of...
+Creating a new team named 'RUS T2 A 1'.
+Create_One_Of...
+Creating a new team named 'RUS T2 A 2'.
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Regular findpath failure: (89,58) to (75, 68)
+Regular findpath failure: (89,58) to (75, 68)
+Regular findpath failure: (89,58) to (75, 68)
+Regular findpath failure: (89,58) to (75, 68)
+Creating survivor type 'Yuri Initiate' from building type 'Yuri Bio Reactor'
+Survivor unlimbo OK
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+(0044ec0b) : Computer is abandoning production of Giant Squid[SQD]
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+[LAUNCH] WarChestSpecial
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Adding event PLACE
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+AICapture: I think (Nothing Special) so I roll a 7 and decide (Add To Team) with a Bubonic Emissary.
+AICapture: Naw, let's put him in hunt.
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Create_One_Of...
+Creating a new team named 'ENT T3 H 1'.
+Create_One_Of...
+Creating a new team named 'ENT T3 H 2'.
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[LAUNCH] BlackActionSpecial
+[LAUNCH] WarChestSpecial
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Crate at 71,34 contains veterancy(TM)
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[LAUNCH] PsychicRevealSpecial
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+(0045022c) : Computer is abandoning production of Yuri War Factory[YAWEAP]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Create_One_Of...
+Creating a new team named 'USA T3 B 1'.
+Create_One_Of...
+Creating a new team named 'USA T3 B 2'.
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Adding event PRODUCE
+Adding event PRODUCE
+Adding event PRODUCE
+AICapture: I think (Unit is Wounded) so I roll a 51 and decide (Put in Grinder) with a Mammoth Tank.
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Adding event PRODUCE
+Adding event PRODUCE
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Adding event PRODUCE
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Create_One_Of...
+Creating a new team named 'USA T3 C 1'.
+Create_One_Of...
+Creating a new team named 'USA T3 C 2'.
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Regular findpath failure: (73,64) to (72, 79)
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Regular findpath failure: (76,61) to (76, 69)
+Creating survivor type 'Yuri Initiate' from building type 'Yuri Bio Reactor'
+Survivor unlimbo OK
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[LAUNCH] ParaDropSpecial
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+AICapture: I think (Nothing Special) so I roll a 49 and decide (Add To Team) with a Yuri Boomer.
+AICapture: Naw, let's put him in hunt.
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Creating survivor type 'Yuri Initiate' from building type 'Yuri Bio Reactor'
+Survivor unlimbo OK
+Create_One_Of...
+Creating a new team named 'USA T1 A 1'.
+Create_One_Of...
+Creating a new team named 'USA T1 A 2'.
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Weapons factory clearing MIND from bib
+Weapons factory clearing MAMMOTH from bib area
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Weapons factory clearing MIND from bib
+Weapons factory clearing MAMMOTH from bib area
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Adding event PLACE
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Regular findpath failure: (85,57) to (83, 58)
+Regular findpath failure: (85,57) to (83, 58)
+Regular findpath failure: (85,57) to (77, 73)
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Regular findpath failure: (85,57) to (82, 54)
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Regular findpath failure: (85,57) to (82, 54)
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Regular findpath failure: (85,57) to (83, 56)
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Regular findpath failure: (85,57) to (83, 59)
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Regular findpath failure: (85,57) to (76, 72)
+Regular findpath failure: (85,57) to (83, 55)
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Regular findpath failure: (85,57) to (83, 56)
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Regular findpath failure: (85,57) to (83, 58)
+Adding event PLACE
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Creating survivor type 'Yuri Initiate' from building type 'Yuri Cloning Vats'
+Survivor unlimbo OK
+Regular findpath failure: (78,64) to (80, 63)
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Regular findpath failure: (85,57) to (83, 57)
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Regular findpath failure: (85,57) to (83, 58)
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Regular findpath failure: (85,57) to (82, 60)
+Regular findpath failure: (85,57) to (83, 55)
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Regular findpath failure: (85,57) to (77, 73)
+Regular findpath failure: (85,57) to (82, 60)
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Regular findpath failure: (85,57) to (82, 60)
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Regular findpath failure: (85,57) to (81, 60)
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Regular findpath failure: (85,57) to (80, 59)
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Regular findpath failure: (85,57) to (81, 59)
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Regular findpath failure: (85,57) to (82, 60)
+Adding event PLACE
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Regular findpath failure: (85,57) to (82, 60)
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Regular findpath failure: (85,57) to (82, 61)
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+(0045022c) : Computer is abandoning production of Yuri War Factory[YAWEAP]
+Regular findpath failure: (85,57) to (81, 62)
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Regular findpath failure: (85,57) to (81, 60)
+Regular findpath failure: (85,57) to (83, 59)
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Regular findpath failure: (85,57) to (75, 72)
+Regular findpath failure: (85,57) to (81, 62)
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Regular findpath failure: (85,57) to (80, 61)
+Regular findpath failure: (85,57) to (81, 60)
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Regular findpath failure: (85,57) to (81, 60)
+Create_One_Of...
+Creating a new team named 'USA F T2 A 1'.
+Create_One_Of...
+Creating a new team named 'USA F T2 A 2'.
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Regular findpath failure: (85,57) to (81, 60)
+Weapons factory bib clear - kicking out unit
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Weapons factory bib clear - kicking out unit
+[LAUNCH] WarChestSpecial
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[Phobos] CreateUnit: Using stored turret facing 136
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Regular findpath failure: (85,57) to (75, 72)
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Regular findpath failure: (85,57) to (83, 57)
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Regular findpath failure: (82,56) to (85, 57)
+Regular findpath failure: (82,56) to (85, 57)
+Warning.  A* without HS: (82,56) to (85, 57)
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+AICapture: I think (Unit is Wounded) so I roll a 65 and decide (Put in Bio Reactor) with a Mental Disintegrator.
+AICapture: Naw, let's put him in hunt.
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Regular findpath failure: (82,56) to (85, 57)
+Regular findpath failure: (82,56) to (85, 57)
+Warning.  A* without HS: (82,56) to (85, 57)
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Adding event PLACE
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+AICapture: I think (Unit is Wounded) so I roll a 97 and decide (Go to Hunt) with a Mammoth Tank.
+AICapture: Naw, let's put him in hunt.
+Creating survivor type 'Yuri Initiate' from building type 'Yuri Bio Reactor'
+Survivor unlimbo OK
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[LAUNCH] WarChestSpecial
+Adding event PLACE
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Regular findpath failure: (79,50) to (85, 57)
+Regular findpath failure: (79,50) to (85, 57)
+Regular findpath failure: (79,50) to (85, 57)
+Create_One_Of...
+Creating a new team named 'RUS T1 D 1'.
+Create_One_Of...
+Creating a new team named 'RUS T1 D 2'.
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Creating survivor type 'Yuri Initiate' from building type 'Yuri Bio Reactor'
+Survivor unlimbo OK
+Regular findpath failure: (78,64) to (79, 62)
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Create_One_Of...
+Creating a new team named 'USA W 1 1'.
+Create_One_Of...
+Creating a new team named 'USA W 1 1'.
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+AICapture: I think (Nothing Special) so I roll a 26 and decide (Add To Team) with a Awaker.
+AICapture: Naw, let's put him in hunt.
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+[LAUNCH] PsychicRevealSpecial
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Adding event PLACE
+Regular findpath failure: (79,50) to (85, 57)
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Regular findpath failure: (78,55) to (85, 57)
+Regular findpath failure: (78,55) to (85, 57)
+Regular findpath failure: (78,55) to (85, 57)
+Regular findpath failure: (78,55) to (85, 57)
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Create_One_Of...
+Creating a new team named 'ENT T2 D 1'.
+Create_One_Of...
+Creating a new team named 'ENT T2 D 2'.
+Weapons factory bib clear - kicking out unit
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Weapons factory bib clear - kicking out unit
+AICapture: I think (Unit is Wounded) so I roll a 35 and decide (Put in Grinder) with a Mammoth Tank.
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+(0044ec0b) : Computer is abandoning production of Master Mind[MIND]
+Creating survivor type 'Yuri Initiate' from building type 'Yuri War Factory'
+Survivor unlimbo OK
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Create_One_Of...
+Creating a new team named 'RUS T2 B 1'.
+Create_One_Of...
+Creating a new team named 'RUS T2 B 2'.
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+AICapture: I think (Unit is Wounded) so I roll a 41 and decide (Put in Grinder) with a Mammoth Tank.
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Create_One_Of...
+Creating a new team named 'USA F T2 A 1'.
+Create_One_Of...
+Creating a new team named 'ENT F T2 A 2'.
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Regular findpath failure: (82,56) to (85, 57)
+Regular findpath failure: (82,56) to (85, 57)
+Warning.  A* without HS: (82,56) to (85, 57)
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+[LAUNCH] ParaDropSpecial
+(0044ec0b) : Computer is abandoning production of Giant Squid[SQD]
+Adding event PLACE
+AICapture: I think (Nothing Special) so I roll a 38 and decide (Add To Team) with a Iron Curtain Sapper.
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 56 87, 单位类型 EPPLANE
+AICapture: I think (Nothing Special) so I roll a 76 and decide (Put in Grinder) with a Mental Disintegrator.
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Weapons factory bib clear - kicking out unit
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Creating survivor type 'Yuri Initiate' from building type 'Yuri Bio Reactor'
+Survivor unlimbo OK
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Adding event PLACE
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Weapons factory bib clear - kicking out unit
+AICapture: I think (Unit is Wounded) so I roll a 96 and decide (Go to Hunt) with a Mammoth Tank.
+AICapture: Naw, let's put him in hunt.
+Creating survivor type 'Yuri Initiate' from building type 'Yuri Bio Reactor'
+Survivor unlimbo OK
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Create_One_Of...
+Creating a new team named 'ENT T3 H 1'.
+Create_One_Of...
+Creating a new team named 'ENT T3 H 2'.
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+(0044ec0b) : Computer is abandoning production of Medusa Assault Tank[MEDUSAVE]
+Creating survivor type 'Yuri Initiate' from building type 'Yuri War Factory'
+Survivor unlimbo OK
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Weapons factory bib clear - kicking out unit
+[LAUNCH] BlackActionSpecial
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+AICapture: I think (Nothing Special) so I roll a 14 and decide (Add To Team) with a Mental Disintegrator.
+AICapture: Naw, let's put him in hunt.
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Creating survivor type 'Yuri Initiate' from building type 'Yuri Bio Reactor'
+Survivor unlimbo OK
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Regular findpath failure: (88,59) to (80, 49)
+Regular findpath failure: (88,59) to (80, 49)
+Regular findpath failure: (88,59) to (80, 49)
+Regular findpath failure: (88,59) to (83, 52)
+Regular findpath failure: (88,59) to (83, 52)
+Regular findpath failure: (88,59) to (83, 52)
+Regular findpath failure: (88,59) to (82, 54)
+Regular findpath failure: (88,59) to (82, 54)
+Regular findpath failure: (88,59) to (82, 54)
+Regular findpath failure: (88,59) to (83, 52)
+Regular findpath failure: (88,59) to (83, 52)
+Regular findpath failure: (88,59) to (83, 52)
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Regular findpath failure: (88,59) to (82, 49)
+Regular findpath failure: (88,59) to (82, 49)
+Regular findpath failure: (88,59) to (82, 49)
+Regular findpath failure: (88,59) to (79, 53)
+Regular findpath failure: (88,59) to (79, 53)
+Regular findpath failure: (88,59) to (79, 53)
+Regular findpath failure: (88,59) to (83, 53)
+Regular findpath failure: (88,59) to (83, 53)
+Regular findpath failure: (88,59) to (83, 53)
+Regular findpath failure: (88,59) to (82, 53)
+Regular findpath failure: (88,59) to (82, 53)
+Regular findpath failure: (88,59) to (82, 53)
+Regular findpath failure: (88,59) to (80, 51)
+Regular findpath failure: (88,59) to (80, 51)
+Regular findpath failure: (88,59) to (80, 51)
+Regular findpath failure: (88,59) to (83, 53)
+Regular findpath failure: (88,59) to (83, 53)
+Regular findpath failure: (88,59) to (83, 53)
+Regular findpath failure: (88,59) to (83, 52)
+Regular findpath failure: (88,59) to (83, 52)
+Regular findpath failure: (88,59) to (83, 52)
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Regular findpath failure: (91,60) to (85, 61)
+Regular findpath failure: (91,60) to (81, 50)
+Regular findpath failure: (91,60) to (81, 50)
+Regular findpath failure: (91,60) to (85, 57)
+Regular findpath failure: (91,60) to (87, 51)
+Regular findpath failure: (91,60) to (87, 51)
+Regular findpath failure: (91,60) to (83, 54)
+Regular findpath failure: (91,60) to (83, 54)
+Regular findpath failure: (91,60) to (83, 54)
+Regular findpath failure: (91,60) to (83, 54)
+Regular findpath failure: (91,60) to (87, 50)
+Regular findpath failure: (91,60) to (87, 50)
+Regular findpath failure: (91,60) to (83, 50)
+Regular findpath failure: (91,60) to (83, 50)
+Regular findpath failure: (91,60) to (83, 53)
+Regular findpath failure: (91,60) to (83, 53)
+Regular findpath failure: (91,60) to (86, 49)
+Regular findpath failure: (91,60) to (86, 49)
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Regular findpath failure: (91,60) to (83, 53)
+Regular findpath failure: (91,60) to (83, 53)
+AICapture: I think (Unit is Wounded) so I roll a 22 and decide (Put in Grinder) with a Mammoth Tank.
+Regular findpath failure: (91,60) to (85, 61)
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Adding event PLACE
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+AICapture: I think (Unit is Wounded) so I roll a 46 and decide (Put in Grinder) with a Mental Disintegrator.
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Regular findpath failure: (88,59) to (79, 53)
+Regular findpath failure: (88,59) to (79, 53)
+Regular findpath failure: (88,59) to (79, 53)
+Regular findpath failure: (88,59) to (81, 53)
+Regular findpath failure: (88,59) to (81, 53)
+Regular findpath failure: (88,59) to (81, 53)
+Regular findpath failure: (88,59) to (79, 52)
+Regular findpath failure: (88,59) to (79, 52)
+Regular findpath failure: (88,59) to (79, 52)
+Regular findpath failure: (88,59) to (83, 51)
+Regular findpath failure: (88,59) to (83, 51)
+Regular findpath failure: (88,59) to (83, 51)
+Regular findpath failure: (88,59) to (83, 50)
+Regular findpath failure: (88,59) to (83, 50)
+Regular findpath failure: (88,59) to (83, 50)
+Regular findpath failure: (88,59) to (82, 53)
+Regular findpath failure: (88,59) to (82, 53)
+Regular findpath failure: (88,59) to (82, 53)
+Regular findpath failure: (88,59) to (80, 55)
+Regular findpath failure: (88,59) to (80, 55)
+Regular findpath failure: (88,59) to (80, 55)
+Regular findpath failure: (88,59) to (83, 52)
+Regular findpath failure: (88,59) to (83, 52)
+Regular findpath failure: (88,59) to (83, 52)
+Regular findpath failure: (88,59) to (83, 49)
+Regular findpath failure: (88,59) to (83, 49)
+Regular findpath failure: (88,59) to (83, 49)
+Regular findpath failure: (88,59) to (88, 51)
+Regular findpath failure: (88,59) to (88, 51)
+Regular findpath failure: (88,59) to (86, 51)
+Regular findpath failure: (88,59) to (86, 51)
+Regular findpath failure: (88,59) to (86, 51)
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Regular findpath failure: (88,59) to (85, 62)
+Regular findpath failure: (88,59) to (85, 62)
+Regular findpath failure: (88,59) to (84, 61)
+Regular findpath failure: (88,59) to (84, 61)
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Regular findpath failure: (88,59) to (83, 57)
+Regular findpath failure: (88,59) to (83, 57)
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Regular findpath failure: (88,59) to (85, 61)
+Regular findpath failure: (88,59) to (85, 61)
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Weapons factory clearing MEDUSAVE from bib
+Weapons factory clearing MEDUSAVE from bib
+Regular findpath failure: (82,56) to (85, 57)
+Regular findpath failure: (82,56) to (85, 57)
+Warning.  A* without HS: (82,56) to (85, 57)
+Weapons factory clearing MEDUSAVE from bib
+Weapons factory clearing MEDUSAVE from bib
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[LAUNCH] WarChestSpecial
+Weapons factory clearing MEDUSAVE from bib
+Weapons factory clearing MEDUSAVE from bib
+Weapons factory clearing MEDUSAVE from bib
+Weapons factory clearing MEDUSAVE from bib
+Weapons factory clearing MEDUSAVE from bib
+Weapons factory clearing MEDUSAVE from bib
+Adding event PLACE
+Weapons factory clearing MEDUSAVE from bib
+Weapons factory clearing MEDUSAVE from bib
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Weapons factory clearing MEDUSAVE from bib
+Create_One_Of...
+Creating a new team named 'RUS T2 A 1'.
+Create_One_Of...
+Creating a new team named 'RUS T2 A 2'.
+Weapons factory clearing MEDUSAVE from bib
+Weapons factory clearing MEDUSAVE from bib
+Weapons factory bib clear - kicking out unit
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Creating survivor type 'Yuri Initiate' from building type 'Yuri Bio Reactor'
+Survivor unlimbo OK
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Create_One_Of...
+Creating a new team named 'ENT T2 E 1'.
+Create_One_Of...
+Creating a new team named 'ENT T2 E 2'.
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Creating survivor type 'Yuri Initiate' from building type 'Yuri Bio Reactor'
+Survivor unlimbo OK
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Weapons factory bib clear - kicking out unit
+AICapture: I think (Nothing Special) so I roll a 45 and decide (Add To Team) with a Medusa Assault Tank.
+AICapture: Naw, let's put him in hunt.
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Create_One_Of...
+Creating a new team named 'Power'.
+Create_One_Of...
+Creating a new team named 'Power'.
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Regular findpath failure: (89,60) to (82, 62)
+Regular findpath failure: (89,60) to (80, 54)
+Regular findpath failure: (89,60) to (80, 54)
+Regular findpath failure: (89,60) to (80, 54)
+Regular findpath failure: (89,60) to (83, 53)
+Regular findpath failure: (89,60) to (83, 53)
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Regular findpath failure: (89,60) to (83, 53)
+Regular findpath failure: (89,60) to (83, 53)
+Regular findpath failure: (89,60) to (79, 52)
+Regular findpath failure: (89,60) to (79, 52)
+Regular findpath failure: (89,60) to (80, 54)
+Regular findpath failure: (89,60) to (80, 54)
+Regular findpath failure: (89,60) to (83, 54)
+Regular findpath failure: (89,60) to (83, 54)
+Regular findpath failure: (89,60) to (80, 50)
+Regular findpath failure: (89,60) to (80, 50)
+Regular findpath failure: (89,60) to (83, 53)
+Regular findpath failure: (89,60) to (83, 53)
+Regular findpath failure: (89,60) to (83, 53)
+Regular findpath failure: (89,60) to (83, 53)
+Regular findpath failure: (89,60) to (83, 50)
+Regular findpath failure: (89,60) to (83, 50)
+Regular findpath failure: (89,60) to (85, 61)
+Regular findpath failure: (89,60) to (82, 61)
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Regular findpath failure: (89,60) to (85, 57)
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Regular findpath failure: (89,60) to (85, 61)
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Regular findpath failure: (89,60) to (85, 61)
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Create_One_Of...
+Creating a new team named 'ENT T2 E 1'.
+Create_One_Of...
+Creating a new team named 'ENT T2 E 2'.
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Regular findpath failure: (89,60) to (85, 61)
+Creating survivor type 'Yuri Initiate' from building type 'Ackville Airforce Command Headquarters'
+Survivor unlimbo OK
+[LAUNCH] WarChestSpecial
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Regular findpath failure: (89,60) to (83, 60)
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+AICapture: I think (Nothing Special) so I roll a 10 and decide (Add To Team) with a Ground-Drilling Vehicle.
+AICapture: Naw, let's put him in hunt.
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Adding event PLACE
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Create_One_Of...
+Creating a new team named 'RUS T1 TK A 1'.
+Create_One_Of...
+Creating a new team named 'RUS T1 TK A 2'.
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+(0044ec0b) : Computer is abandoning production of Awaker[AWAKER]
+Creating survivor type 'Yuri Initiate' from building type 'Yuri Barracks'
+Survivor unlimbo OK
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Regular findpath failure: (82,56) to (85, 57)
+Regular findpath failure: (82,56) to (85, 57)
+Warning.  A* without HS: (82,56) to (85, 57)
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+(0044ec0b) : Computer is abandoning production of Awaker[AWAKER]
+Creating survivor type 'Yuri Initiate' from building type 'Yuri Barracks'
+Survivor unlimbo OK
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[LAUNCH] PsychicRevealSpecial
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Creating survivor type 'Yuri Initiate' from building type 'Ackville Airforce Command Headquarters'
+Survivor unlimbo OK
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+(0044ec0b) : Computer is abandoning production of Gattling Tank[YTNK]
+Creating survivor type 'Yuri Initiate' from building type 'Yuri War Factory'
+Survivor unlimbo OK
+Adding event PLACE
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+AICapture: I think (Nothing Special) so I roll a 43 and decide (Add To Team) with a Mental Disintegrator.
+AICapture: Naw, let's put him in hunt.
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Creating survivor type 'Yuri Initiate' from building type 'Yuri Bio Reactor'
+Survivor unlimbo OK
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Creating survivor type 'Yuri Initiate' from building type 'Yuri Bio Reactor'
+Survivor unlimbo OK
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0044ec0b) : Computer is abandoning production of Awaker[AWAKER]
+Creating survivor type 'Yuri Initiate' from building type 'Yuri Barracks'
+Survivor unlimbo OK
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+AICapture: I think (Unit is Wounded) so I roll a 40 and decide (Put in Grinder) with a Mental Disintegrator.
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Creating survivor type 'Yuri Initiate' from building type 'Yuri Bio Reactor'
+Survivor unlimbo OK
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Adding event PLACE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Adding event IDLE
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0044ec0b) : Computer is abandoning production of Yuri Bio Reactor[YAPOWR]
+Creating survivor type 'Yuri Initiate' from building type 'Yuri Construction Yard'
+Survivor unlimbo OK
+Regular findpath failure: (86,53) to (87, 51)
+Creating survivor type 'Engineer' from building type 'Yuri Construction Yard'
+Survivor unlimbo OK
+Regular findpath failure: (87,53) to (86, 51)
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Creating survivor type 'Yuri Initiate' from building type 'Ackville Ore Refinery'
+Survivor unlimbo OK
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Adding event PLACE
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Creating survivor type 'Yuri Initiate' from building type 'Yuri Bio Reactor'
+Survivor unlimbo OK
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Creating survivor type 'Yuri Initiate' from building type 'Yuri Bio Reactor'
+Survivor unlimbo OK
+[LAUNCH] WarChestSpecial
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Creating survivor type 'Yuri Initiate' from building type 'Yuri Psychic Sensor'
+Survivor unlimbo OK
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+AICapture: I think (Nothing Special) so I roll a 68 and decide (Add To Team) with a Gattling Tank.
+AICapture: Naw, let's put him in hunt.
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Creating survivor type 'Yuri Initiate' from building type 'Yuri Battle Lab'
+Survivor unlimbo OK
+Regular findpath failure: (93,57) to (92, 55)
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Creating survivor type 'Yuri Initiate' from building type 'Yuri Bio Reactor'
+Survivor unlimbo OK
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Creating survivor type 'Yuri Initiate' from building type 'Yuri Grinder'
+Survivor unlimbo OK
+Adding event PLACE
+MPlayer_Defeated: frame 45432, house id 1, MapIsClear set to true
+MPlayer_Defeated() - Opponent Computer has been defeated
+MPlayer_Defeated() - Alive = 1, Humans = 1
+Saw game completion due to player defeat
+MPlayer_Defeated() - All remaining players are allied
+MPlayer_Defeated() - Flag_To_Win
+Frame 45432, BorrowedTime == 90
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Tooltips are off.
+Sending game results.  SawCompletion=1
+LOADED NTRLMD.MIXLOADED NEUTRAL.MIX
+Release_Mouse()
+a1234567: Winner
+ Scheme: 9
+ Lost = 102
+ Kills = 637
+ Built = 106
+ Score = 846739
+Default
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Default
+Tooltips are on.
+     Releasing NEUTRAL.MIX
+     Releasing NTRLMD.MIX
+LOADED NTRLMD.MIXLOADED NEUTRAL.MIX
+Game loop finished. Average FPS = 59
+     Releasing NEUTRAL.MIX
+     Releasing NTRLMD.MIX
+Closing log file on request 111
