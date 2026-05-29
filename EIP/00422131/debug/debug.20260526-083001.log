@@ -1,0 +1,375 @@
+Initialized Ares version: 20.333.289
+Ares requires a CPU with SSE support. Available.
+Set Process Affinity: 1 (1)
+Optimizing list of CD drives for NoCD mode.
+[Phobos] Initialized version: Special merge Build #45+3_3
+[Phobos] Modules presumably injected by Syringe:
+Module cncnet5.dll  base address : 0x6BBC0000.
+Module Ares.dll  base address : 0x68CF0000.
+Module Phobos.dll  base address : 0x68BB0000.
+Module SIWinterIsComing.dll  base address : 0x68A10000.
+Module Phobos.dll  base address : 0x689E0000.
+Other modules:
+Module "AcGenral.dll"  base address : 0x68EE0000.
+Module msvcrt.dll  base address : 0x768A0000.
+Module sechost.dll.mui  base address : 0x75720000.
+Module Win32u.DLL  base address : 0x76D70000.
+Module gdi32  base address : 0x76560000.
+Module gdi32  base address : 0x767B0000.
+Module msvcp_win.dll  base address : 0x77720000.
+Module ucrtbase.dll  base address : 0x76350000.
+Module OLEAUT32.DLL  base address : 0x76CD0000.
+Module SAMCLI.DLL  base address : 0x74B60000.
+Module VERSION.DLL  base address : 0x751C0000.
+Module security.dll  base address : 0x74C30000.
+Module SRVCLI.DLL  base address : 0x73FA0000.
+Module NETUTILS.DLL  base address : 0x74B80000.
+Module imm32  base address : 0x75460000.
+Module ddraw.dll  base address : 0x68E90000.
+Module resampledmo.dll  base address : 0x68DF0000.
+Module WINMMbase.DLL.MUI  base address : 0x68DD0000.
+Module msdmo.dll  base address : 0x6F290000.
+Module DBGHELP.DLL  base address : 0x70250000.
+Module DBGCORE.DLL  base address : 0x70ED0000.
+Module mscoree.dll  base address : 0x72E70000.
+Module msvcp140.dll  base address : 0x72ED0000.
+Module vcruntime140.dll  base address : 0x72F40000.
+[Phobos] Detected Ares 3.0.
+Checking available disk space
+Using GetDiskFreeSpaceEx
+Free disk space is 42638 Mb
+Init Encryption Keys.
+Init_Keys - declarations
+Init_Keys - Load
+Init_Keys - Init fast key
+ EXPANDMG99.MIX EXPANDMG93.MIX EXPANDMG92.MIX EXPANDMG69.MIX EXPANDMG68.MIX EXPANDMG67.MIX EXPANDMG66.MIX EXPANDMG65.MIX EXPANDMG64.MIX EXPANDMG63.MIX EXPANDMG62.MIX EXPANDMG61.MIX EXPANDMG60.MIX EXPANDMG20.MIX EXPANDMG06.MIX EXPANDMG04.MIX EXPANDMG03.MIX CACHE.MIX CACHE.MIX CACHE.MIX LOCAL.MIXMaxLabelLen = 31
+Language: US
+[Phobos] Applying AppIcon from "RESOURCES/CLIENTICON.ICO"
+Focus_Restore()
+Focus_Restore(): _MouseCaptured = false
+Focus gained
+Default
+Prep direct draw.
+Prep direct draw.
+SetDisplayMode: 1920x1080x16
+Checking hardware region fill capability...OK
+Checking overlapped blit capability...Failed!
+Display mode set
+DSurface::Create_Primary
+DSurface::AllowStretchBlits = true
+DSurface::AllowHWFill = true
+DSurface::Create_Primary - Creating surface
+CreateSurface OK
+DSurface::Create_Primary done
+Allocating new surfaces
+CompositeSurface (1752x1080) VRAM ENABLE_3D
+TileSurface (1752x1080) VRAM ENABLE_3D
+SidebarSurface (168x1080) VRAM
+HiddenSurface (1920x1080) VRAM
+AlternateSurface (1920x1080) VRAM
+Calc_Confining_Rect(0,0,1920,1080)
+Profile: CPU:26 (2421Mhz Pentium III)
+Profile: RAM:10 (2048Mb)
+Profile: VRAM:9 (16Mb)
+Profile: VRAM speed:5 (0 blits per second)
+Overall performance profile = 5
+Main_Game
+Init Game
+Bootstrap.....LOADED NTRLMD.MIXLOADED NEUTRAL.MIX
+event mempool size = 192000
+ ...OK
+Init Mouse
+Init CDROM
+Calling Force_CD_Available
+Init Secondary Mixfiles....
+ CONQMD.MIX CONQUER.MIX CAMEOMD.MIX CAMEO.MIX mapsmd03.mixMULTIMD.MIX THEME.MIX movmd03.mix ...OK
+Init Campaigns
+Init Heaps
+Init Threads
+Reading Game Settings
+-------- Loading RA2MD.INI settings --------
+GameSpeed = 1
+Difficulty = 1
+CampDifficulty = 0
+ScrollMethod = 0
+ScrollRate = 0
+AutoScroll is ON
+DetailLevel = 2
+SideBar on RIGHT
+Sidebar Text is ON
+ActionLines are ON
+ShowHidden is ON
+ToolTips are ON
+Resolution = 1920 X 1080
+StretchMovies is OFF
+AllowHiRes is OFF
+SoundVolume = 0.500000
+VoiceVolume = 0.500000
+ScoreVolume = 0.400000
+ScoreRepeat is OFF
+ScoreShuffle is ON
+Emulated sound card latency default = 9
+--------- Loading Ares global settings -----------
+QuickExit is OFF
+AllowMultiEngineer is OFF
+CampaignList is OFF
+ShowDebugCampaigns is OFF
+Color count is 16
+Mod is The Moment of Genesis (1.0.0) with FABCD527
+--------- Complete -------------------------------
+Init Anim System
+Init Color Remap Tables
+Creating TacticalMap
+Reading SOUNDMD.INI
+Reading EVAMD.INI
+Reading THEMEMD.INI
+Reading MOVIEMD.INI
+Init Bulk Data
+RadarClass::One_Time()
+Set_View_Dimensions(0,0,1752,1048)
+Deleting ZBuffer
+Allocating ZBuffer (1752x1048)
+Deleting ABuffer
+Allocating ABuffer (1752x1048)
+MessageListClass::Init(Width: 1738)
+MessageListClass::Set_Width(1744)
+Set_View_Dimensions(exit)
+Checking available disk space
+Using GetDiskFreeSpaceEx
+Free disk space is 42638 Mb
+Session one time init. UniqueID is 3f89f5bd
+Init Rules
+[Developer warning]An INI section inherits from section 'DisplaySD', which doesn't exist or has not been parsed yet.
+Init random number
+Seed is 001504cc
+Init Commands
+Game Init Completed.
+ExceptionReturnStack = 0019D478
+ExceptionReturnAddress = 0048CDA8
+Init random number
+Seed is 001504eb
+WinsockInterface constructed
+WinsockInterface init.
+About to call WSAStartup
+Winsock initialised OK
+Winsock version is 1.1
+Found protocol UDP/IPv6, max frame size is 65527
+Found protocol UDP/IP, max frame size is 65527
+Found protocol UDP/IP, max frame size is 65527
+Found protocol UDP/IP, max frame size is 65527
+Found protocol Vmbus, max frame size is 0
+Found protocol afunix, max frame size is 0
+About to open primary UDP socket
+About to bind the UDP socket to port 0
+Socket option SO_RCVBUF set OK
+Socket option SO_SNDBUF set OK
+Primary UDP Socket init complete
+IPX Manager: RetryDelta = 60
+MaxAhead is 15
+**** IPXManagerClass::Init ***
+About to open primary UDP socket
+About to bind the UDP socket to port 1234
+Socket option SO_RCVBUF set OK
+Socket option SO_SNDBUF set OK
+Primary UDP Socket init complete
+About to query the host name
+About to call gethostbyname
+Found local address: 192.168.19.103
+About to open alternate UDP socket
+About to bind the UDP socket
+Socket option SO_RCVBUF set OK
+Socket option SO_SNDBUF set OK
+Alternate UDP Socket init complete
+FD_WRITE - No OutBuffers left - nothing to do
+FD_WRITE - No AltOutBuffers left - nothing to do
+Processing sides.
+Side 0: GDI 
+  Americans
+  Entente
+Side 1: Nod 
+  Russia
+  China
+  ASEAN
+Side 2: ThirdSide 
+  Confusion
+  Defense
+  Spread
+Side 3: TraceRL 
+  Rylade
+Side 4: Civilian 
+  Neutral
+Side 5: Mutant 
+  Special
+
+LOADING GAME [SAVE73A5.SAV]
+Converting 0 nodes.
+About to load the game
+Map.Init_Clear()
+MapClass::Init_Clear entry
+MapClass::Init_Clear done
+RadarClass::Init_Clear
+RadarClass::Init_Clear done
+Logic.Init()
+CurrentObjects.Clear()
+Scen->Clear_All_Waypoints()
+Init_Campaigns()
+Scenario Load: ElapsedTimer = 86124
+Preparing Mixfiles for Side 01.
+     Initilizing SIDEC02MD.MIX
+     Initilizing SIDEC02.MIX
+     Initilizing SIDENC02.MIX
+RadarClass::Init_For_House()
+Allocating new surfaces
+Deleting AlternateSurface
+Deleting HiddenSurface
+Deleting CompositeSurface
+Deleting TileSurface
+Deleting SidebarSurface
+CompositeSurface (1752x1080) VRAM ENABLE_3D
+TileSurface (1752x1080) VRAM ENABLE_3D
+SidebarSurface (168x1080) VRAM
+HiddenSurface (1920x1080) VRAM
+AlternateSurface (1920x1080) VRAM
+Set_View_Dimensions(0,0,1752,1048)
+Deleting ZBuffer
+Allocating ZBuffer (1752x1048)
+Deleting ABuffer
+Allocating ABuffer (1752x1048)
+MessageListClass::Init(Width: 1738)
+MessageListClass::Set_Width(1744)
+Set_View_Dimensions(exit)
+Init theater URBAN
+[SIWIC] 开始从存档读取 [Empty] 类型的原型
+Loaded 239 isometric tiles consuming 1315 Kb
+[Phobos] Replacing image for BEEFK with HTNK.
+[Phobos] Replacing image for BEEFK with HTNK.
+[Phobos] Replacing image for ROBO with ROBO.
+[Phobos] Replacing image for ROBO with ROBO.
+[Phobos] Replacing image for BEEFK with HTNK.
+[Phobos] Replacing image for BEEFK with HTNK.
+[Phobos] Replacing image for BEEFK with HTNK.
+[Phobos] Replacing image for SDOG with DOG.
+[Phobos] Replacing image for LUNR with LUNR.
+[Phobos] Replacing image for CAML with JOSH.
+[Phobos] Replacing image for DNOB with DNOB.
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Loading global Ares data
+Finished loading the game
+Converting 69723 nodes.
+[Phobos] Recalculated 6 extra palettes across 143 color schemes (total: 858).
+     Releasing NEUTRAL.MIX
+     Releasing NTRLMD.MIX
+LOADING GAME [Saved Games\SAVE73A5.SAV] - Complete
+
+Entering Create_Connections
+IPX Manager: RetryDelta = 60
+MaxAhead is 24
+Tooltips are on.
+Capture_Mouse()
+[Developer warning]An INI section inherits from section 'DisplaySD', which doesn't exist or has not been parsed yet.
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[LAUNCH] TKDONSpecial
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Create_One_Of...
+Creating a new team named 'USA F T2 A 1'.
+Create_One_Of...
+Creating a new team named 'USA F T2 A 2'.
+[LAUNCH] IceBoom04Special
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Paused ElapsedTimer = 558688
+Tooltips are off.
+Release_Mouse()
+Default
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Default
+Default
+Default
+Adding event EXIT
+Capture_Mouse()
+Resume ElapsedTimer = 558688
+Tooltips are on.
+Sending game results.  SawCompletion=1
+Processing EXIT event on frame 392449
+LOADED NTRLMD.MIXLOADED NEUTRAL.MIX
+Tooltips are off.
+Release_Mouse()
+Theme::Stop(16) - Fading
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Disconnect_Gracefully
+     Releasing NEUTRAL.MIX
+     Releasing NTRLMD.MIX
+LOADED NTRLMD.MIXLOADED NEUTRAL.MIX
+Game loop finished. Average FPS = 36
+     Releasing NEUTRAL.MIX
+     Releasing NTRLMD.MIX
+Closing log file on request 111

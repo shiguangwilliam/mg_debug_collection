@@ -1,0 +1,4191 @@
+Initialized Ares version: 20.333.289
+Ares requires a CPU with SSE support. Available.
+Set Process Affinity: 1 (1)
+Optimizing list of CD drives for NoCD mode.
+[Phobos] Initialized version: Special merge Build #45+3_3
+[Phobos] Modules presumably injected by Syringe:
+Module cncnet5.dll  base address : 0x6BBC0000.
+Module Ares.dll  base address : 0x684C0000.
+Module Phobos.dll  base address : 0x68380000.
+Module SIWinterIsComing.dll  base address : 0x61440000.
+Module Phobos.dll  base address : 0x68A30000.
+Other modules:
+Module "AcGenral.dll"  base address : 0x68E80000.
+Module msvcrt.dll  base address : 0x77290000.
+Module sechost.dll.mui  base address : 0x76680000.
+Module Win32u.DLL  base address : 0x75590000.
+Module gdi32  base address : 0x76010000.
+Module gdi32  base address : 0x755B0000.
+Module msvcp_win.dll  base address : 0x75990000.
+Module ucrtbase.dll  base address : 0x75A10000.
+Module OLEAUT32.DLL  base address : 0x76040000.
+Module SAMCLI.DLL  base address : 0x74720000.
+Module VERSION.DLL  base address : 0x74DA0000.
+Module security.dll  base address : 0x747F0000.
+Module SRVCLI.DLL  base address : 0x73B70000.
+Module NETUTILS.DLL  base address : 0x74740000.
+Module imm32  base address : 0x75B30000.
+Module ddraw.dll  base address : 0x68E30000.
+Module resampledmo.dll  base address : 0x68A60000.
+Module WINMMbase.DLL.MUI  base address : 0x6EB90000.
+Module msdmo.dll  base address : 0x6EB80000.
+Module DBGHELP.DLL  base address : 0x71B50000.
+Module DBGCORE.DLL  base address : 0x726D0000.
+Module mscoree.dll  base address : 0x70330000.
+Module msvcp140.dll  base address : 0x72880000.
+Module vcruntime140.dll  base address : 0x728F0000.
+[Phobos] Detected Ares 3.0.
+Checking available disk space
+Using GetDiskFreeSpaceEx
+Free disk space is 42662 Mb
+Init Encryption Keys.
+Init_Keys - declarations
+Init_Keys - Load
+Init_Keys - Init fast key
+ EXPANDMG99.MIX EXPANDMG93.MIX EXPANDMG92.MIX EXPANDMG69.MIX EXPANDMG68.MIX EXPANDMG67.MIX EXPANDMG66.MIX EXPANDMG65.MIX EXPANDMG64.MIX EXPANDMG63.MIX EXPANDMG62.MIX EXPANDMG61.MIX EXPANDMG60.MIX EXPANDMG20.MIX EXPANDMG06.MIX EXPANDMG04.MIX EXPANDMG03.MIX CACHE.MIX CACHE.MIX CACHE.MIX LOCAL.MIXMaxLabelLen = 31
+Language: US
+[Phobos] Applying AppIcon from "RESOURCES/CLIENTICON.ICO"
+Focus_Restore()
+Focus_Restore(): _MouseCaptured = false
+Focus gained
+Default
+Prep direct draw.
+Prep direct draw.
+SetDisplayMode: 1920x1080x16
+Checking hardware region fill capability...OK
+Checking overlapped blit capability...Failed!
+Display mode set
+DSurface::Create_Primary
+DSurface::AllowStretchBlits = true
+DSurface::AllowHWFill = true
+DSurface::Create_Primary - Creating surface
+CreateSurface OK
+DSurface::Create_Primary done
+Allocating new surfaces
+CompositeSurface (1752x1080) VRAM ENABLE_3D
+TileSurface (1752x1080) VRAM ENABLE_3D
+SidebarSurface (168x1080) VRAM
+HiddenSurface (1920x1080) VRAM
+AlternateSurface (1920x1080) VRAM
+Calc_Confining_Rect(0,0,1920,1080)
+Profile: CPU:26 (2419Mhz Pentium III)
+Profile: RAM:10 (2048Mb)
+Profile: VRAM:9 (16Mb)
+Profile: VRAM speed:5 (0 blits per second)
+Overall performance profile = 5
+Main_Game
+Init Game
+Bootstrap.....LOADED NTRLMD.MIXLOADED NEUTRAL.MIX
+event mempool size = 192000
+ ...OK
+Init Mouse
+Init CDROM
+Calling Force_CD_Available
+Init Secondary Mixfiles....
+ CONQMD.MIX CONQUER.MIX CAMEOMD.MIX CAMEO.MIX mapsmd03.mixMULTIMD.MIX THEME.MIX movmd03.mix ...OK
+Init Campaigns
+Init Heaps
+Init Threads
+Reading Game Settings
+-------- Loading RA2MD.INI settings --------
+GameSpeed = 1
+Difficulty = 1
+CampDifficulty = 0
+ScrollMethod = 0
+ScrollRate = 0
+AutoScroll is ON
+DetailLevel = 2
+SideBar on RIGHT
+Sidebar Text is ON
+ActionLines are ON
+ShowHidden is ON
+ToolTips are ON
+Resolution = 1920 X 1080
+StretchMovies is OFF
+AllowHiRes is OFF
+SoundVolume = 0.500000
+VoiceVolume = 0.500000
+ScoreVolume = 0.400000
+ScoreRepeat is OFF
+ScoreShuffle is ON
+Emulated sound card latency default = 9
+--------- Loading Ares global settings -----------
+QuickExit is OFF
+AllowMultiEngineer is OFF
+CampaignList is OFF
+ShowDebugCampaigns is OFF
+Color count is 16
+Mod is The Moment of Genesis (1.0.0) with FABCD527
+--------- Complete -------------------------------
+Init Anim System
+Init Color Remap Tables
+Creating TacticalMap
+Reading SOUNDMD.INI
+Reading EVAMD.INI
+Reading THEMEMD.INI
+Reading MOVIEMD.INI
+Init Bulk Data
+RadarClass::One_Time()
+Set_View_Dimensions(0,0,1752,1048)
+Deleting ZBuffer
+Allocating ZBuffer (1752x1048)
+Deleting ABuffer
+Allocating ABuffer (1752x1048)
+MessageListClass::Init(Width: 1738)
+MessageListClass::Set_Width(1744)
+Set_View_Dimensions(exit)
+Checking available disk space
+Using GetDiskFreeSpaceEx
+Free disk space is 42662 Mb
+Session one time init. UniqueID is df8a2357
+Init Rules
+[Developer warning]An INI section inherits from section 'DisplaySD', which doesn't exist or has not been parsed yet.
+Init random number
+Seed is 0181ab23
+Init Commands
+Game Init Completed.
+ExceptionReturnStack = 0019D478
+ExceptionReturnAddress = 0048CDA8
+Init random number
+Seed is 0181ab43
+WinsockInterface constructed
+WinsockInterface init.
+About to call WSAStartup
+Winsock initialised OK
+Winsock version is 1.1
+Found protocol UDP/IPv6, max frame size is 65527
+Found protocol UDP/IP, max frame size is 65527
+Found protocol UDP/IP, max frame size is 65527
+Found protocol UDP/IP, max frame size is 65527
+Found protocol Vmbus, max frame size is 0
+Found protocol afunix, max frame size is 0
+About to open primary UDP socket
+About to bind the UDP socket to port 0
+Socket option SO_RCVBUF set OK
+Socket option SO_SNDBUF set OK
+Primary UDP Socket init complete
+IPX Manager: RetryDelta = 60
+MaxAhead is 15
+**** IPXManagerClass::Init ***
+About to open primary UDP socket
+About to bind the UDP socket to port 1234
+Socket option SO_RCVBUF set OK
+Socket option SO_SNDBUF set OK
+Primary UDP Socket init complete
+About to query the host name
+About to call gethostbyname
+Found local address: 192.168.19.103
+About to open alternate UDP socket
+About to bind the UDP socket
+Socket option SO_RCVBUF set OK
+Socket option SO_SNDBUF set OK
+Alternate UDP Socket init complete
+FD_WRITE - No OutBuffers left - nothing to do
+FD_WRITE - No AltOutBuffers left - nothing to do
+Processing sides.
+Side 0: GDI 
+  Americans
+  Entente
+Side 1: Nod 
+  Russia
+  China
+  ASEAN
+Side 2: ThirdSide 
+  Confusion
+  Defense
+  Spread
+Side 3: TraceRL 
+  Rylade
+Side 4: Civilian 
+  Neutral
+Side 5: Mutant 
+  Special
+
+LOADING GAME [SAVE7508.SAV]
+Converting 0 nodes.
+About to load the game
+Map.Init_Clear()
+MapClass::Init_Clear entry
+MapClass::Init_Clear done
+RadarClass::Init_Clear
+RadarClass::Init_Clear done
+Logic.Init()
+CurrentObjects.Clear()
+Scen->Clear_All_Waypoints()
+Init_Campaigns()
+Scenario Load: ElapsedTimer = 1579742
+Preparing Mixfiles for Side 01.
+     Initilizing SIDEC02MD.MIX
+     Initilizing SIDEC02.MIX
+     Initilizing SIDENC02.MIX
+RadarClass::Init_For_House()
+Allocating new surfaces
+Deleting AlternateSurface
+Deleting HiddenSurface
+Deleting CompositeSurface
+Deleting TileSurface
+Deleting SidebarSurface
+CompositeSurface (1752x1080) VRAM ENABLE_3D
+TileSurface (1752x1080) VRAM ENABLE_3D
+SidebarSurface (168x1080) VRAM
+HiddenSurface (1920x1080) VRAM
+AlternateSurface (1920x1080) VRAM
+Set_View_Dimensions(0,0,1752,1048)
+Deleting ZBuffer
+Allocating ZBuffer (1752x1048)
+Deleting ABuffer
+Allocating ABuffer (1752x1048)
+MessageListClass::Init(Width: 1738)
+MessageListClass::Set_Width(1744)
+Set_View_Dimensions(exit)
+Init theater URBAN
+[SIWIC] 开始从存档读取 [Empty] 类型的原型
+Loaded 239 isometric tiles consuming 1315 Kb
+[Phobos] Replacing image for BEEFK with HTNK.
+[Phobos] Replacing image for BEEFK with HTNK.
+[Phobos] Replacing image for ROBO with ROBO.
+[Phobos] Replacing image for ROBO with ROBO.
+[Phobos] Replacing image for BEEFK with HTNK.
+[Phobos] Replacing image for BEEFK with HTNK.
+[Phobos] Replacing image for BEEFK with HTNK.
+[Phobos] Replacing image for SDOG with DOG.
+[Phobos] Replacing image for LUNR with LUNR.
+[Phobos] Replacing image for CAML with JOSH.
+[Phobos] Replacing image for DNOB with DNOB.
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Loading global Ares data
+Finished loading the game
+Converting 65581 nodes.
+[Phobos] Recalculated 6 extra palettes across 143 color schemes (total: 858).
+     Releasing NEUTRAL.MIX
+     Releasing NTRLMD.MIX
+LOADING GAME [Saved Games\SAVE7508.SAV] - Complete
+
+Entering Create_Connections
+IPX Manager: RetryDelta = 60
+MaxAhead is 24
+Tooltips are on.
+Capture_Mouse()
+[Developer warning]An INI section inherits from section 'DisplaySD', which doesn't exist or has not been parsed yet.
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] ChristmasGift1Special
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 138 239, 单位类型 CORTER_A
+[LAUNCH] ChristmasGift2Special
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 160 228, 单位类型 CORTER_A
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Paused ElapsedTimer = 356759
+Tooltips are off.
+Release_Mouse()
+Default
+Default
+Checking available disk space
+Using GetDiskFreeSpaceEx
+Free disk space is 42662 Mb
+Default
+Default
+Default
+Default
+Capture_Mouse()
+Resume ElapsedTimer = 356759
+Tooltips are on.
+[LAUNCH] ChristmasGift1Special
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Weapons factory bib clear - kicking out unit
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] ChristmasGift1Special
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Create_One_Of...
+Creating a new team named 'USA T1 A 1'.
+Create_One_Of...
+Creating a new team named 'USA T1 A 2'.
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+[LAUNCH] PsychicRevealSpecial
+[LAUNCH] ChristmasGift1Special
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] ChristmasGift2Special
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Weapons factory bib clear - kicking out unit
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] IceBoom04Special
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 163 190, 单位类型 APACHE
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 161 189, 单位类型 APACHE
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 161 189, 单位类型 APACHE
+[LAUNCH] WarChestSpecial
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] ParaDropSpecial
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 166 201, 单位类型 CORTER_A
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] SpySatelliteSpecial
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[LAUNCH] WarChestSpecial
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] SpyPlaneSpecial
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Create_One_Of...
+Creating a new team named 'USA T1 C 1'.
+Create_One_Of...
+Creating a new team named 'USA T1 C 2'.
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] ParaDropSpecial
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Weapons factory bib clear - kicking out unit
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 161 196, 单位类型 ALPLANE
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[LAUNCH] ParaDropSpecial
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Weapons factory bib clear - kicking out unit
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[LAUNCH] SpySatelliteSpecial
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+[LAUNCH] WarChestSpecial
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] ParaDropSpecial
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Weapons factory bib clear - kicking out unit
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] WarChestSpecial
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[LAUNCH] TKDONSpecial
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Weapons factory bib clear - kicking out unit
+Create_One_Of...
+Creating a new team named 'ENT T3 H 1'.
+Create_One_Of...
+Creating a new team named 'ENT T3 H 2'.
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Weapons factory bib clear - kicking out unit
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Weapons factory bib clear - kicking out unit
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 170 201, 单位类型 FREEDOM
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 168 202, 单位类型 FREEDOM
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 164 200, 单位类型 FREEDOM
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 163 201, 单位类型 FREEDOM
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 133 159, 单位类型 ALPLANE
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Weapons factory bib clear - kicking out unit
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Weapons factory bib clear - kicking out unit
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Create_One_Of...
+Creating a new team named 'ENT T4 B 1'.
+Create_One_Of...
+Creating a new team named 'ENT T4 B 2'.
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] TKDONSpecial
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] IceBoom04Special
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Weapons factory bib clear - kicking out unit
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 162 188, 单位类型 APACHE
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 163 190, 单位类型 APACHE
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Weapons factory bib clear - kicking out unit
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Weapons factory bib clear - kicking out unit
+[LAUNCH] WarChestSpecial
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Create_One_Of...
+Creating a new team named 'USA T4 C 1'.
+Create_One_Of...
+Creating a new team named 'USA T4 C 2'.
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Weapons factory bib clear - kicking out unit
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Weapons factory bib clear - kicking out unit
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] HarvestSpecial
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[LAUNCH] PsychicRevealSpecial
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Weapons factory bib clear - kicking out unit
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] Harvest2Special
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Weapons factory bib clear - kicking out unit
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] Harvest1Special
+[LAUNCH] BlackActionSpecial
+[LAUNCH] WarChestSpecial
+[LAUNCH] ParaDropSpecial
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 159 186, 单位类型 APACHE
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 160 186, 单位类型 APACHE
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 161 186, 单位类型 APACHE
+Create_One_Of...
+Creating a new team named 'USA T1 A 1'.
+Create_One_Of...
+Creating a new team named 'USA T1 A 2'.
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 161 186, 单位类型 APACHE
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 175 209, 单位类型 ALPLANE
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Weapons factory bib clear - kicking out unit
+[LAUNCH] SpySatelliteSpecial
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] WarChestSpecial
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] SpyPlaneSpecial
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] Harvest2Special
+Weapons factory bib clear - kicking out unit
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] Harvest1Special
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] ParaDropSpecial
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 161 188, 单位类型 APACHE
+Weapons factory bib clear - kicking out unit
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 161 188, 单位类型 APACHE
+[LAUNCH] HullBlackSpecial
+[LAUNCH] HullBlackGlory
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 98 211, 单位类型 SUPLANE
+[LAUNCH] ParaDropSpecial
+[LAUNCH] HullBlackcial
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] HullBlackcial
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Weapons factory bib clear - kicking out unit
+[LAUNCH] SpySatelliteSpecial
+[LAUNCH] SovietGlorySpecial
+[LAUNCH] WarChestSpecial
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[LAUNCH] LightningGuideSpecial
+[LAUNCH] MalignantPulseSpecial
+Create_One_Of...
+Creating a new team named 'ENT T3 H 1'.
+Create_One_Of...
+Creating a new team named 'ENT T3 H 2'.
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 129 153, 单位类型 FINBER8
+[LAUNCH] HullBlackcial
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] HonorSymbol2Special
+Weapons factory bib clear - kicking out unit
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] ParaDropSpecial
+[LAUNCH] HonorSymbol1Special
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Warning.  A* without HS: (90,106) to (89, 106)
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+[LAUNCH] HonorSymbol2Special
+[LAUNCH] HonorSymbol1Special
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 98 219, 单位类型 FLYGON_A
+[LAUNCH] WarChestSpecial
+Weapons factory bib clear - kicking out unit
+[LAUNCH] IceBoom04Special
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[LAUNCH] HullBlackcial
+[LAUNCH] HonorSymbol2Special
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] HonorSymbol1Special
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 170 200, 单位类型 FREEDOM
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 168 202, 单位类型 FREEDOM
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 133 243, 单位类型 FLYGON_A
+Warning.  A* without HS: (90,106) to (89, 106)
+[LAUNCH] HullBlackcial
+Weapons factory bib clear - kicking out unit
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 113 197, 单位类型 FINBER8
+Adding event SPECIAL_PLACE
+[LAUNCH] SpySatelliteSpecial
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 165 199, 单位类型 FREEDOM
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 164 200, 单位类型 FREEDOM
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Weapons factory bib clear - kicking out unit
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Adding event SPECIAL_PLACE
+[LAUNCH] SpyPlaneSpecial
+[LAUNCH] HullBlackcial
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 150 165, 单位类型 ALPLANE
+Warning.  A* without HS: (129,66) to (130, 65)
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Create_One_Of...
+Creating a new team named 'ENT T3 F 1'.
+Create_One_Of...
+Creating a new team named 'ENT T3 F 2'.
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Weapons factory bib clear - kicking out unit
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+[LAUNCH] HullBlackcial
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Warning.  A* without HS: (90,106) to (89, 106)
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 106 198, 单位类型 FLYGON_A
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[LAUNCH] HullBlackcial
+Warning.  A* without HS: (129,76) to (130, 76)
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Weapons factory bib clear - kicking out unit
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+[LAUNCH] TKDONSpecial
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Warning.  A* without HS: (90,106) to (89, 106)
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Weapons factory bib clear - kicking out unit
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+[Phobos] CreateUnit: Using stored turret facing 160
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Create_One_Of...
+Creating a new team named 'USA W 1 1'.
+Create_One_Of...
+Creating a new team named 'USA W 1 1'.
+Weapons factory bib clear - kicking out unit
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[LAUNCH] ChristmasSongSpecial
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Weapons factory bib clear - kicking out unit
+[LAUNCH] WarChestSpecial
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Weapons factory bib clear - kicking out unit
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] ChristmasGift2Special
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] ChristmasGift2Special
+A USA T4 C 1 Team has chosen ( 152, 200) for its GatherAtEnemy cell.
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Weapons factory bib clear - kicking out unit
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] TKDONSpecial
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] ChristmasGift2Special
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Weapons factory bib clear - kicking out unit
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] ChristmasGift2Special
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Weapons factory bib clear - kicking out unit
+Create_One_Of...
+Creating a new team named 'ENT T3 A 1'.
+Create_One_Of...
+Creating a new team named 'USA T3 A 2'.
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 139 241, 单位类型 FREEDOM_A
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] PsychicRevealSpecial
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 163 192, 单位类型 APACHE
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 163 192, 单位类型 APACHE
+[LAUNCH] ChristmasGift2Special
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 163 192, 单位类型 APACHE
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 163 192, 单位类型 APACHE
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Weapons factory bib clear - kicking out unit
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] IceBoom04Special
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] WarChestSpecial
+Weapons factory bib clear - kicking out unit
+[LAUNCH] ParaDropSpecial
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 147 240, 单位类型 ALPLANE
+Weapons factory bib clear - kicking out unit
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] SpySatelliteSpecial
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[LAUNCH] WarChestSpecial
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] SpyPlaneSpecial
+Weapons factory bib clear - kicking out unit
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Weapons factory bib clear - kicking out unit
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+[LAUNCH] ParaDropSpecial
+A USA T4 C 1 Team has chosen ( 152, 201) for its GatherAtEnemy cell.
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Weapons factory bib clear - kicking out unit
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] ParaDropSpecial
+A USA T4 C 1 Team has chosen ( 152, 200) for its GatherAtEnemy cell.
+Weapons factory bib clear - kicking out unit
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+A USA T4 C 1 Team has chosen ( 152, 201) for its GatherAtEnemy cell.
+[LAUNCH] SpySatelliteSpecial
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+[LAUNCH] WarChestSpecial
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Weapons factory bib clear - kicking out unit
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+A USA T4 C 1 Team has chosen ( 152, 200) for its GatherAtEnemy cell.
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[LAUNCH] ParaDropSpecial
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[LAUNCH] WarChestSpecial
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+A USA T4 C 1 Team has chosen ( 152, 201) for its GatherAtEnemy cell.
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Weapons factory bib clear - kicking out unit
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Create_One_Of...
+Creating a new team named 'ENT T4 B 1'.
+Create_One_Of...
+Creating a new team named 'ENT T4 B 2'.
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+A USA T4 C 1 Team has chosen ( 152, 200) for its GatherAtEnemy cell.
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Weapons factory bib clear - kicking out unit
+A USA T4 C 1 Team has chosen ( 152, 201) for its GatherAtEnemy cell.
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Weapons factory bib clear - kicking out unit
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+A USA T4 C 1 Team has chosen ( 152, 200) for its GatherAtEnemy cell.
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Weapons factory bib clear - kicking out unit
+A USA T4 C 1 Team has chosen ( 152, 201) for its GatherAtEnemy cell.
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] BlackActionSpecial
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+A USA T4 C 1 Team has chosen ( 152, 200) for its GatherAtEnemy cell.
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Regular findpath failure: (121,165) to (105, 160)
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Weapons factory bib clear - kicking out unit
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+A USA T4 C 1 Team has chosen ( 152, 201) for its GatherAtEnemy cell.
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Create_One_Of...
+Creating a new team named 'USA T1 C 1'.
+Create_One_Of...
+Creating a new team named 'USA T1 C 2'.
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+A USA T4 C 1 Team has chosen ( 152, 200) for its GatherAtEnemy cell.
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+A USA T4 C 1 Team has chosen ( 152, 201) for its GatherAtEnemy cell.
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Weapons factory bib clear - kicking out unit
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+[LAUNCH] IceBoom04Special
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+A USA T4 C 1 Team has chosen ( 152, 200) for its GatherAtEnemy cell.
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Weapons factory bib clear - kicking out unit
+[LAUNCH] LightningGuideSpecial
+[LAUNCH] MalignantPulseSpecial
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] WarChestSpecial
+A USA T4 C 1 Team has chosen ( 154, 202) for its GatherAtEnemy cell.
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+A USA T4 C 1 Team has chosen ( 153, 202) for its GatherAtEnemy cell.
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Create_One_Of...
+Creating a new team named 'ENT T3 E 1'.
+Create_One_Of...
+Creating a new team named 'ENT T3 E 2'.
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Weapons factory bib clear - kicking out unit
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+A USA T4 C 1 Team has chosen ( 155, 202) for its GatherAtEnemy cell.
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[LAUNCH] TKDONSpecial
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+A USA T4 C 1 Team has chosen ( 154, 202) for its GatherAtEnemy cell.
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] HarvestSpecial
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[LAUNCH] PsychicRevealSpecial
+A USA T4 C 1 Team has chosen ( 153, 202) for its GatherAtEnemy cell.
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Weapons factory bib clear - kicking out unit
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+[LAUNCH] Harvest1Special
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] Harvest2Special
+A USA T4 C 1 Team has chosen ( 155, 202) for its GatherAtEnemy cell.
+Weapons factory bib clear - kicking out unit
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[Phobos] CreateUnit: Using stored turret facing 160
+[LAUNCH] WarChestSpecial
+[LAUNCH] Harvest1Special
+[LAUNCH] Harvest2Special
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[LAUNCH] ParaDropSpecial
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+A USA T4 C 1 Team has chosen ( 154, 202) for its GatherAtEnemy cell.
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[LAUNCH] Harvest1Special
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 163 190, 单位类型 APACHE
+Weapons factory bib clear - kicking out unit
+Create_One_Of...
+Creating a new team named 'USA T1 C 1'.
+Create_One_Of...
+Creating a new team named 'USA T1 C 2'.
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 150 242, 单位类型 ALPLANE
+[LAUNCH] Harvest1Special
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 163 190, 单位类型 APACHE
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+A USA T4 C 1 Team has chosen ( 153, 202) for its GatherAtEnemy cell.
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] SpySatelliteSpecial
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Weapons factory bib clear - kicking out unit
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] WarChestSpecial
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+[LAUNCH] SpyPlaneSpecial
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+[Phobos] CreateUnit: Using stored turret facing 163
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Warning.  A* without HS: (139,74) to (140, 73)
+A USA T4 C 1 Team has chosen ( 155, 202) for its GatherAtEnemy cell.
+[LAUNCH] TKDONSpecial
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+[Phobos] CreateUnit: Using stored turret facing 163
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+A USA T4 C 1 Team has chosen ( 152, 200) for its GatherAtEnemy cell.
+[LAUNCH] ParaDropSpecial
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Weapons factory bib clear - kicking out unit
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+A USA T4 C 1 Team has chosen ( 152, 201) for its GatherAtEnemy cell.
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 128 235, 单位类型 SUPLANE
+[LAUNCH] ParaDropSpecial
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Weapons factory bib clear - kicking out unit
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+A USA T4 C 1 Team has chosen ( 152, 200) for its GatherAtEnemy cell.
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+[LAUNCH] SpySatelliteSpecial
+[LAUNCH] SovietGlorySpecial
+[LAUNCH] WarChestSpecial
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Create_One_Of...
+Creating a new team named 'USA T1 C 1'.
+Create_One_Of...
+Creating a new team named 'USA T1 C 2'.
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Weapons factory bib clear - kicking out unit
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+A USA T4 C 1 Team has chosen ( 152, 201) for its GatherAtEnemy cell.
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[LAUNCH] HonorSymbol2Special
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] ParaDropSpecial
+[LAUNCH] HonorSymbol1Special
+Weapons factory bib clear - kicking out unit
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+A USA T4 C 1 Team has chosen ( 152, 200) for its GatherAtEnemy cell.
+[LAUNCH] HonorSymbol2Special
+[LAUNCH] WarChestSpecial
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] HonorSymbol1Special
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Weapons factory bib clear - kicking out unit
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+A USA T4 C 1 Team has chosen ( 152, 201) for its GatherAtEnemy cell.
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 96 205, 单位类型 FLYGON_A
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 123 234, 单位类型 FLYGON_A
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[LAUNCH] HonorSymbol2Special
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] IceBoom04Special
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[LAUNCH] HonorSymbol1Special
+Weapons factory bib clear - kicking out unit
+[LAUNCH] HonorSymbol2Special
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+A USA T4 C 1 Team has chosen ( 152, 200) for its GatherAtEnemy cell.
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] HonorSymbol1Special
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] HonorSymbol1Special
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Weapons factory bib clear - kicking out unit
+A USA T4 C 1 Team has chosen ( 152, 201) for its GatherAtEnemy cell.
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 113 231, 单位类型 FLYGON_A
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Create_One_Of...
+Creating a new team named 'USA F T2 A 1'.
+Create_One_Of...
+Creating a new team named 'USA F T2 A 2'.
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+A USA T4 C 1 Team has chosen ( 152, 200) for its GatherAtEnemy cell.
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 100 202, 单位类型 FLYGON_A
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+A USA T4 C 1 Team has chosen ( 152, 201) for its GatherAtEnemy cell.
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+A USA T4 C 1 Team has chosen ( 152, 200) for its GatherAtEnemy cell.
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 158 186, 单位类型 CORTER
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 157 187, 单位类型 CORTER
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 158 186, 单位类型 CORTER
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 157 187, 单位类型 CORTER
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+A USA T4 C 1 Team has chosen ( 152, 201) for its GatherAtEnemy cell.
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] HullBlackSpecial
+[LAUNCH] HullBlackGlory
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+A USA T4 C 1 Team has chosen ( 152, 200) for its GatherAtEnemy cell.
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+[LAUNCH] HullBlackcial
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Create_One_Of...
+Creating a new team named 'ENT T4 B 1'.
+Create_One_Of...
+Creating a new team named 'ENT T4 B 2'.
+[LAUNCH] HullBlackcial
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+A USA T4 C 1 Team has chosen ( 152, 201) for its GatherAtEnemy cell.
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] HullBlackcial
+[LAUNCH] ChristmasSongSpecial
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+A USA T4 C 1 Team has chosen ( 152, 200) for its GatherAtEnemy cell.
+[LAUNCH] WarChestSpecial
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Weapons factory bib clear - kicking out unit
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+A USA T4 C 1 Team has chosen ( 152, 201) for its GatherAtEnemy cell.
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] HullBlackcial
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Weapons factory bib clear - kicking out unit
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] ChristmasGift2Special
+A USA T4 C 1 Team has chosen ( 152, 200) for its GatherAtEnemy cell.
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] HullBlackcial
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Weapons factory bib clear - kicking out unit
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 176 210, 单位类型 FREEDOM_A
+[LAUNCH] ChristmasGift1Special
+A USA T4 C 1 Team has chosen ( 152, 201) for its GatherAtEnemy cell.
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[LAUNCH] ChristmasGift1Special
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 156 238, 单位类型 CORTER_A
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Create_One_Of...
+Creating a new team named 'USA W 1 1'.
+Create_One_Of...
+Creating a new team named 'USA W 1 1'.
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+[LAUNCH] PsychicRevealSpecial
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Weapons factory bib clear - kicking out unit
+[LAUNCH] HullBlackcial
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Adding event ARCHIVE
+Adding event ARCHIVE
+Adding event ARCHIVE
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[LAUNCH] BlackActionSpecial
+[LAUNCH] WarChestSpecial
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+[LAUNCH] HullBlackcial
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[LAUNCH] ParaDropSpecial
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Warning.  A* without HS: (90,106) to (89, 106)
+[Phobos] CreateUnit: Using stored turret facing 163
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Weapons factory bib clear - kicking out unit
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[LAUNCH] SpySatelliteSpecial
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[LAUNCH] HullBlackcial
+[LAUNCH] IceBoom04Special
+[LAUNCH] WarChestSpecial
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] SpyPlaneSpecial
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] TKDONSpecial
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[Phobos] CreateUnit: Using stored turret facing 163
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Create_One_Of...
+Creating a new team named 'ENT T3 A 1'.
+Create_One_Of...
+Creating a new team named 'USA T3 A 2'.
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] ParaDropSpecial
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] ParaDropSpecial
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 128 156, 单位类型 EPPLANE
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] SpySatelliteSpecial
+[LAUNCH] WarChestSpecial
+[LAUNCH] LightningGuideSpecial
+[LAUNCH] MalignantPulseSpecial
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Warning.  A* without HS: (90,106) to (89, 106)
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+[LAUNCH] ParaDropSpecial
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] WarChestSpecial
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] TKDONSpecial
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Create_One_Of...
+Creating a new team named 'ENT T1 TK A 1'.
+Create_One_Of...
+Creating a new team named 'ENT T1 TK A 2'.
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 120 153, 单位类型 EPPLANE
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Weapons factory bib clear - kicking out unit
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Weapons factory bib clear - kicking out unit
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 151 179, 单位类型 ALPLANE
+Weapons factory bib clear - kicking out unit
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Weapons factory bib clear - kicking out unit
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Weapons factory bib clear - kicking out unit
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Create_One_Of...
+Creating a new team named 'USA T1 B 1'.
+Create_One_Of...
+Creating a new team named 'USA T1 B 2'.
+Weapons factory bib clear - kicking out unit
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Weapons factory bib clear - kicking out unit
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Weapons factory bib clear - kicking out unit
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Weapons factory bib clear - kicking out unit
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] IceBoom04Special
+[LAUNCH] WarChestSpecial
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Weapons factory bib clear - kicking out unit
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Weapons factory bib clear - kicking out unit
+Create_One_Of...
+Creating a new team named 'USA T1 A 1'.
+Create_One_Of...
+Creating a new team named 'USA T1 A 2'.
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Weapons factory bib clear - kicking out unit
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Weapons factory bib clear - kicking out unit
+[LAUNCH] HarvestSpecial
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] PsychicRevealSpecial
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[LAUNCH] Harvest2Special
+Weapons factory bib clear - kicking out unit
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] WarChestSpecial
+Weapons factory bib clear - kicking out unit
+[LAUNCH] ParaDropSpecial
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] Harvest2Special
+Create_One_Of...
+Creating a new team named 'USA T1 C 1'.
+Create_One_Of...
+Creating a new team named 'USA T1 C 2'.
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] Harvest1Special
+[LAUNCH] Harvest1Special
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Weapons factory bib clear - kicking out unit
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+[LAUNCH] SpySatelliteSpecial
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 173 205, 单位类型 ALPLANE
+[LAUNCH] Harvest1Special
+[LAUNCH] Harvest2Special
+[LAUNCH] WarChestSpecial
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[LAUNCH] SpyPlaneSpecial
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Weapons factory bib clear - kicking out unit
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Weapons factory bib clear - kicking out unit
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] ParaDropSpecial
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 114 152, 单位类型 PLOTER8
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 122 223, 单位类型 SUPLANE
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Weapons factory bib clear - kicking out unit
+[LAUNCH] ParaDropSpecial
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 129 160, 单位类型 PLOTER8
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 130 158, 单位类型 PLOTER8
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] SpySatelliteSpecial
+Weapons factory bib clear - kicking out unit
+[LAUNCH] SovietGlorySpecial
+[LAUNCH] WarChestSpecial
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Create_One_Of...
+Creating a new team named 'USA F T2 A 1'.
+Create_One_Of...
+Creating a new team named 'USA F T2 A 2'.
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+[LAUNCH] HonorSymbol1Special
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[LAUNCH] ParaDropSpecial
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 111 149, 单位类型 FINBER8
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[LAUNCH] WarChestSpecial
+Weapons factory bib clear - kicking out unit
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] HonorSymbol1Special
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] TKDONSpecial
+[LAUNCH] HonorSymbol1Special
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 171 201, 单位类型 CORTER
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[LAUNCH] HonorSymbol1Special
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 168 204, 单位类型 CORTER
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Weapons factory bib clear - kicking out unit
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 167 205, 单位类型 CORTER
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 159 188, 单位类型 CORTER
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 159 188, 单位类型 CORTER
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 159 187, 单位类型 CORTER
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 159 188, 单位类型 CORTER
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 165 207, 单位类型 CORTER
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] HonorSymbol1Special
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Weapons factory bib clear - kicking out unit
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+[LAUNCH] HonorSymbol2Special
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] IceBoom04Special
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Weapons factory bib clear - kicking out unit
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Create_One_Of...
+Creating a new team named 'USA T1 C 1'.
+Create_One_Of...
+Creating a new team named 'USA T1 C 2'.
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[LAUNCH] BlackActionSpecial
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 132 160, 单位类型 ALPLANE
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Weapons factory bib clear - kicking out unit
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Weapons factory bib clear - kicking out unit
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+[LAUNCH] TKDONSpecial
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Weapons factory bib clear - kicking out unit
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Create_One_Of...
+Creating a new team named 'ENT T3 H 1'.
+Create_One_Of...
+Creating a new team named 'ENT T3 H 2'.
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Weapons factory bib clear - kicking out unit
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] ChristmasSongSpecial
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+[LAUNCH] LightningGuideSpecial
+[LAUNCH] MalignantPulseSpecial
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] WarChestSpecial
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Weapons factory bib clear - kicking out unit
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] ChristmasGift2Special
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 169 201, 单位类型 FREEDOM
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 167 203, 单位类型 FREEDOM
+Weapons factory bib clear - kicking out unit
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 165 199, 单位类型 FREEDOM
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 164 200, 单位类型 FREEDOM
+[LAUNCH] ChristmasGift1Special
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Weapons factory bib clear - kicking out unit
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Create_One_Of...
+Creating a new team named 'ENT T4 B 1'.
+Create_One_Of...
+Creating a new team named 'ENT T4 B 2'.
+Weapons factory bib clear - kicking out unit
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] PsychicRevealSpecial
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 163 201, 单位类型 CORTER_A
+Weapons factory bib clear - kicking out unit
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+[LAUNCH] WarChestSpecial
+Weapons factory bib clear - kicking out unit
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 161 197, 单位类型 FREEDOM_A
+[LAUNCH] ParaDropSpecial
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Weapons factory bib clear - kicking out unit
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] SpySatelliteSpecial
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] WarChestSpecial
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 170 202, 单位类型 ALPLANE
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[LAUNCH] SpyPlaneSpecial
+Weapons factory bib clear - kicking out unit
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] IceBoom04Special
+[LAUNCH] HullBlackSpecial
+[LAUNCH] HullBlackGlory
+Weapons factory bib clear - kicking out unit
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Create_One_Of...
+Creating a new team named 'USA T1 C 1'.
+Create_One_Of...
+Creating a new team named 'USA T1 C 2'.
+[LAUNCH] ParaDropSpecial
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 159 186, 单位类型 APACHE
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 161 187, 单位类型 APACHE
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 160 187, 单位类型 APACHE
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 161 187, 单位类型 APACHE
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 110 225, 单位类型 SUPLANE
+Weapons factory bib clear - kicking out unit
+[LAUNCH] HullBlackcial
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] ParaDropSpecial
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Warning.  A* without HS: (90,106) to (89, 106)
+Weapons factory bib clear - kicking out unit
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] SpySatelliteSpecial
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+[LAUNCH] WarChestSpecial
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Weapons factory bib clear - kicking out unit
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Adding event DEPLOY
+Adding event DEPLOY
+Adding event DEPLOY
+Adding event DEPLOY
+Adding event DEPLOY
+Adding event DEPLOY
+Adding event DEPLOY
+Adding event DEPLOY
+Adding event DEPLOY
+Adding event DEPLOY
+Adding event DEPLOY
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+[LAUNCH] ParaDropSpecial
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Weapons factory bib clear - kicking out unit
+[LAUNCH] HullBlackcial
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+[LAUNCH] WarChestSpecial
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Adding event DEPLOY
+Adding event DEPLOY
+Adding event DEPLOY
+Adding event DEPLOY
+Adding event DEPLOY
+Adding event DEPLOY
+Adding event DEPLOY
+Adding event DEPLOY
+Adding event DEPLOY
+Adding event DEPLOY
+Adding event DEPLOY
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+[LAUNCH] HullBlackcial
+Warning.  A* without HS: (90,106) to (89, 106)
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Weapons factory bib clear - kicking out unit
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 115 151, 单位类型 EPPLANE
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Create_One_Of...
+Creating a new team named 'USA T1 B 1'.
+Create_One_Of...
+Creating a new team named 'USA T1 B 2'.
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Weapons factory bib clear - kicking out unit
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Weapons factory bib clear - kicking out unit
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] HullBlackcial
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] HullBlackcial
+Weapons factory bib clear - kicking out unit
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] HullBlackcial
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[Phobos] CreateUnit: Using stored turret facing 156
+Create_One_Of...
+Creating a new team named 'USA T1 C 1'.
+Create_One_Of...
+Creating a new team named 'USA T1 C 2'.
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+[LAUNCH] TKDONSpecial
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Warning.  A* without HS: (90,106) to (89, 106)
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] WarChestSpecial
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Create_One_Of...
+Creating a new team named 'ENT T3 E 1'.
+Create_One_Of...
+Creating a new team named 'ENT T3 E 2'.
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] IceBoom04Special
+Weapons factory bib clear - kicking out unit
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] TKDONSpecial
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Weapons factory bib clear - kicking out unit
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] HarvestSpecial
+[LAUNCH] PsychicRevealSpecial
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Weapons factory bib clear - kicking out unit
+[LAUNCH] Harvest1Special
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Weapons factory bib clear - kicking out unit
+[LAUNCH] Harvest1Special
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] BlackActionSpecial
+[LAUNCH] WarChestSpecial
+[LAUNCH] Harvest2Special
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] ParaDropSpecial
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 161 190, 单位类型 APACHE
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Create_One_Of...
+Creating a new team named 'USA T1 B 1'.
+Create_One_Of...
+Creating a new team named 'USA T1 B 2'.
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Weapons factory bib clear - kicking out unit
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 142 240, 单位类型 ALPLANE
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 105 150, 单位类型 PLOTER8
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 160 190, 单位类型 APACHE
+[LAUNCH] Harvest2Special
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] SpySatelliteSpecial
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] Harvest1Special
+[LAUNCH] WarChestSpecial
+[LAUNCH] SpyPlaneSpecial
+[LAUNCH] Harvest1Special
+Weapons factory bib clear - kicking out unit
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] Harvest1Special
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 130 159, 单位类型 PLOTER8
+Weapons factory bib clear - kicking out unit
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] ParaDropSpecial
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 95 157, 单位类型 PLOTER8
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 98 211, 单位类型 SUPLANE
+[LAUNCH] ParaDropSpecial
+Weapons factory bib clear - kicking out unit
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 124 155, 单位类型 PLOTER8
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 118 154, 单位类型 PLOTER8
+[LAUNCH] SpySatelliteSpecial
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] SovietGlorySpecial
+[LAUNCH] WarChestSpecial
+Weapons factory bib clear - kicking out unit
+[LAUNCH] LightningGuideSpecial
+[LAUNCH] MalignantPulseSpecial
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 116 151, 单位类型 FINBER8
+Create_One_Of...
+Creating a new team named 'USA T1 B 1'.
+Create_One_Of...
+Creating a new team named 'USA T1 B 2'.
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 104 149, 单位类型 FINBER8
+[LAUNCH] HonorSymbol1Special
+[LAUNCH] HonorSymbol2Special
+Weapons factory bib clear - kicking out unit
+[LAUNCH] HonorSymbol1Special
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] ParaDropSpecial
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 112 231, 单位类型 FLYGON_A
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] HonorSymbol1Special
+[LAUNCH] HonorSymbol2Special
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] WarChestSpecial
+[LAUNCH] HonorSymbol1Special
+Weapons factory bib clear - kicking out unit
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 113 150, 单位类型 EPPLANE
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 128 239, 单位类型 FLYGON_A
+[LAUNCH] HonorSymbol1Special
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] HonorSymbol2Special
+Weapons factory bib clear - kicking out unit
+[LAUNCH] HonorSymbol1Special
+[LAUNCH] HonorSymbol1Special
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] HonorSymbol1Special
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 123 235, 单位类型 FLYGON_A
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 112 231, 单位类型 FLYGON_A
+Weapons factory bib clear - kicking out unit
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 109 226, 单位类型 FLYGON_A
+[LAUNCH] HonorSymbol1Special
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Weapons factory bib clear - kicking out unit
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Create_One_Of...
+Creating a new team named 'ENT T1 TK C 1'.
+Create_One_Of...
+Creating a new team named 'ENT T1 TK C 2'.
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 103 199, 单位类型 FLYGON_A
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 106 198, 单位类型 FLYGON_A
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[LAUNCH] IceBoom04Special
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Weapons factory bib clear - kicking out unit
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 159 187, 单位类型 APACHE
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Weapons factory bib clear - kicking out unit
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 104 198, 单位类型 FLYGON_A
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Weapons factory bib clear - kicking out unit
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 102 200, 单位类型 FLYGON_A
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Weapons factory bib clear - kicking out unit
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Create_One_Of...
+Creating a new team named 'USA T1 C 1'.
+Create_One_Of...
+Creating a new team named 'USA T1 C 2'.
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Weapons factory bib clear - kicking out unit
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] ChristmasSongSpecial
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+[LAUNCH] WarChestSpecial
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] ChristmasGift2Special
+Weapons factory bib clear - kicking out unit
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] ChristmasGift1Special
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Weapons factory bib clear - kicking out unit
+[LAUNCH] ChristmasGift2Special
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+[LAUNCH] TKDONSpecial
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+[LAUNCH] ChristmasGift1Special
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[LAUNCH] ChristmasGift2Special
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Weapons factory bib clear - kicking out unit
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 157 230, 单位类型 FREEDOM_A
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Create_One_Of...
+Creating a new team named 'ENT T4 B 1'.
+Create_One_Of...
+Creating a new team named 'ENT T4 B 2'.
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+[LAUNCH] PsychicRevealSpecial
+[LAUNCH] ChristmasGift1Special
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 155 237, 单位类型 CORTER_A
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Weapons factory bib clear - kicking out unit
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 162 200, 单位类型 CORTER_A
+[LAUNCH] WarChestSpecial
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] ParaDropSpecial
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Weapons factory bib clear - kicking out unit
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 174 214, 单位类型 ALPLANE
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Paused ElapsedTimer = 401211
+Tooltips are off.
+Release_Mouse()
+Default
+Default
+Checking available disk space
+Using GetDiskFreeSpaceEx
+Free disk space is 42662 Mb
+Default
+
+SAVING GAME [SAVE7508.SAV - su lian 1v4 liang ke ji]
+About to save the game
+Scenario Save: ElapsedTimer = -1
+[SIWIC] 开始向存档保存 [Empty] 类型的原型
+Saving global Ares data
+Finished saving the game
+SAVING GAME [Saved Games\SAVE7508.SAV] - Complete
+
+Default
+Default
+Default
+Default
+Default
+Default
+Default
+Capture_Mouse()
+Resume ElapsedTimer = 401211
+Tooltips are on.
+[LAUNCH] SpySatelliteSpecial
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] WarChestSpecial
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] SpyPlaneSpecial
+Weapons factory bib clear - kicking out unit
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] TKDONSpecial
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Create_One_Of...
+Creating a new team named 'ENT T3 C 1'.
+Create_One_Of...
+Creating a new team named 'ENT T3 C 2'.
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Weapons factory bib clear - kicking out unit
+[LAUNCH] ParaDropSpecial
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Paused ElapsedTimer = 401688
+Tooltips are off.
+Release_Mouse()
+Default
+Default
+Capture_Mouse()
+Resume ElapsedTimer = 401688
+Tooltips are on.
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] ParaDropSpecial
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Paused ElapsedTimer = 401912
+Tooltips are off.
+Release_Mouse()
+Default
+Default
+Checking available disk space
+Using GetDiskFreeSpaceEx
+Free disk space is 42662 Mb
+Default
+
+SAVING GAME [SAVE7508.SAV - su lian 1v4 liang ke ji]
+About to save the game
+Scenario Save: ElapsedTimer = -1
+[SIWIC] 开始向存档保存 [Empty] 类型的原型
+Saving global Ares data
+Finished saving the game
+SAVING GAME [Saved Games\SAVE7508.SAV] - Complete
+
+Default
+Default
+Default
+Default
+Default
+Default
+Default
+Capture_Mouse()
+Resume ElapsedTimer = 401912
+Tooltips are on.
+Weapons factory bib clear - kicking out unit
+[LAUNCH] IceBoom04Special
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] SpySatelliteSpecial
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+[LAUNCH] WarChestSpecial
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Weapons factory bib clear - kicking out unit
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 107 199, 单位类型 SUPLANE
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+[LAUNCH] ParaDropSpecial
+Weapons factory bib clear - kicking out unit
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Paused ElapsedTimer = 402584
+Tooltips are off.
+Release_Mouse()
+Default
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Default
+Default
+Default
+Adding event EXIT
+Capture_Mouse()
+Resume ElapsedTimer = 402584
+Tooltips are on.
+Sending game results.  SawCompletion=1
+Processing EXIT event on frame 293780
+LOADED NTRLMD.MIXLOADED NEUTRAL.MIX
+Tooltips are off.
+Release_Mouse()
+Theme::Stop(18) - Fading
+Disconnect_Gracefully
+     Releasing NEUTRAL.MIX
+     Releasing NTRLMD.MIX
+LOADED NTRLMD.MIXLOADED NEUTRAL.MIX
+Game loop finished. Average FPS = 39
+     Releasing NEUTRAL.MIX
+     Releasing NTRLMD.MIX
+Closing log file on request 111

@@ -1,0 +1,1281 @@
+Initialized Ares version: 20.333.289
+Ares requires a CPU with SSE support. Available.
+Set Process Affinity: 1 (1)
+Optimizing list of CD drives for NoCD mode.
+[Phobos] Initialized version: Special merge Build #45+3_3
+[Phobos] Modules presumably injected by Syringe:
+Module cncnet5.dll  base address : 0x6BBC0000.
+Module Ares.dll  base address : 0x68F50000.
+Module Phobos.dll  base address : 0x68E10000.
+Module SIWinterIsComing.dll  base address : 0x687C0000.
+Module Phobos.dll  base address : 0x68DE0000.
+Other modules:
+Module "AcGenral.dll"  base address : 0x691F0000.
+Module msvcrt.dll  base address : 0x76890000.
+Module sechost.dll.mui  base address : 0x76BD0000.
+Module Win32u.DLL  base address : 0x75FC0000.
+Module gdi32  base address : 0x75730000.
+Module gdi32  base address : 0x759C0000.
+Module msvcp_win.dll  base address : 0x76C90000.
+Module ucrtbase.dll  base address : 0x758A0000.
+Module OLEAUT32.DLL  base address : 0x75C90000.
+Module SAMCLI.DLL  base address : 0x74DE0000.
+Module VERSION.DLL  base address : 0x75490000.
+Module security.dll  base address : 0x74ED0000.
+Module SRVCLI.DLL  base address : 0x74210000.
+Module NETUTILS.DLL  base address : 0x74E00000.
+Module imm32  base address : 0x76C60000.
+Module ddraw.dll  base address : 0x69180000.
+Module resampledmo.dll  base address : 0x69060000.
+Module WINMMbase.DLL.MUI  base address : 0x69040000.
+Module msdmo.dll  base address : 0x69030000.
+Module DBGHELP.DLL  base address : 0x733F0000.
+Module DBGCORE.DLL  base address : 0x71D50000.
+Module mscoree.dll  base address : 0x707D0000.
+Module msvcp140.dll  base address : 0x72A30000.
+Module vcruntime140.dll  base address : 0x72A10000.
+[Phobos] Detected Ares 3.0.
+Checking available disk space
+Using GetDiskFreeSpaceEx
+Free disk space is 42614 Mb
+Init Encryption Keys.
+Init_Keys - declarations
+Init_Keys - Load
+Init_Keys - Init fast key
+ EXPANDMG99.MIX EXPANDMG93.MIX EXPANDMG92.MIX EXPANDMG69.MIX EXPANDMG68.MIX EXPANDMG67.MIX EXPANDMG66.MIX EXPANDMG65.MIX EXPANDMG64.MIX EXPANDMG63.MIX EXPANDMG62.MIX EXPANDMG61.MIX EXPANDMG60.MIX EXPANDMG20.MIX EXPANDMG06.MIX EXPANDMG04.MIX EXPANDMG03.MIX CACHE.MIX CACHE.MIX CACHE.MIX LOCAL.MIXMaxLabelLen = 31
+Language: US
+[Phobos] Applying AppIcon from "RESOURCES/CLIENTICON.ICO"
+Focus_Restore()
+Focus_Restore(): _MouseCaptured = false
+Focus gained
+Default
+Prep direct draw.
+Prep direct draw.
+SetDisplayMode: 1920x1080x16
+Checking hardware region fill capability...OK
+Checking overlapped blit capability...Failed!
+Display mode set
+DSurface::Create_Primary
+DSurface::AllowStretchBlits = true
+DSurface::AllowHWFill = true
+DSurface::Create_Primary - Creating surface
+CreateSurface OK
+DSurface::Create_Primary done
+Allocating new surfaces
+CompositeSurface (1752x1080) VRAM ENABLE_3D
+TileSurface (1752x1080) VRAM ENABLE_3D
+SidebarSurface (168x1080) VRAM
+HiddenSurface (1920x1080) VRAM
+AlternateSurface (1920x1080) VRAM
+Calc_Confining_Rect(0,0,1920,1080)
+Profile: CPU:26 (2419Mhz Pentium III)
+Profile: RAM:10 (2048Mb)
+Profile: VRAM:9 (16Mb)
+Profile: VRAM speed:5 (0 blits per second)
+Overall performance profile = 5
+Main_Game
+Init Game
+Bootstrap.....LOADED NTRLMD.MIXLOADED NEUTRAL.MIX
+event mempool size = 192000
+ ...OK
+Init Mouse
+Init CDROM
+Calling Force_CD_Available
+Init Secondary Mixfiles....
+ CONQMD.MIX CONQUER.MIX CAMEOMD.MIX CAMEO.MIX mapsmd03.mixMULTIMD.MIX THEME.MIX movmd03.mix ...OK
+Init Campaigns
+Init Heaps
+Init Threads
+Reading Game Settings
+-------- Loading RA2MD.INI settings --------
+GameSpeed = 1
+Difficulty = 1
+CampDifficulty = 0
+ScrollMethod = 0
+ScrollRate = 0
+AutoScroll is ON
+DetailLevel = 2
+SideBar on RIGHT
+Sidebar Text is ON
+ActionLines are ON
+ShowHidden is ON
+ToolTips are ON
+Resolution = 1920 X 1080
+StretchMovies is OFF
+AllowHiRes is OFF
+SoundVolume = 0.500000
+VoiceVolume = 0.500000
+ScoreVolume = 0.400000
+ScoreRepeat is OFF
+ScoreShuffle is ON
+Emulated sound card latency default = 9
+--------- Loading Ares global settings -----------
+QuickExit is OFF
+AllowMultiEngineer is OFF
+CampaignList is OFF
+ShowDebugCampaigns is OFF
+Color count is 16
+Mod is The Moment of Genesis (1.0.0) with FABCD527
+--------- Complete -------------------------------
+Init Anim System
+Init Color Remap Tables
+Creating TacticalMap
+Reading SOUNDMD.INI
+Reading EVAMD.INI
+Reading THEMEMD.INI
+Reading MOVIEMD.INI
+Init Bulk Data
+RadarClass::One_Time()
+Set_View_Dimensions(0,0,1752,1048)
+Deleting ZBuffer
+Allocating ZBuffer (1752x1048)
+Deleting ABuffer
+Allocating ABuffer (1752x1048)
+MessageListClass::Init(Width: 1738)
+MessageListClass::Set_Width(1744)
+Set_View_Dimensions(exit)
+Checking available disk space
+Using GetDiskFreeSpaceEx
+Free disk space is 42614 Mb
+Session one time init. UniqueID is 62e9f9de
+Init Rules
+[Developer warning]An INI section inherits from section 'DisplaySD', which doesn't exist or has not been parsed yet.
+Init random number
+Seed is 00363e1b
+Init Commands
+Game Init Completed.
+ExceptionReturnStack = 0019D478
+ExceptionReturnAddress = 0048CDA8
+Init random number
+Seed is 00363e2b
+WinsockInterface constructed
+WinsockInterface init.
+About to call WSAStartup
+Winsock initialised OK
+Winsock version is 1.1
+Found protocol UDP/IPv6, max frame size is 65527
+Found protocol UDP/IP, max frame size is 65527
+Found protocol UDP/IP, max frame size is 65527
+Found protocol UDP/IP, max frame size is 65527
+Found protocol Vmbus, max frame size is 0
+Found protocol afunix, max frame size is 0
+About to open primary UDP socket
+About to bind the UDP socket to port 0
+Socket option SO_RCVBUF set OK
+Socket option SO_SNDBUF set OK
+Primary UDP Socket init complete
+IPX Manager: RetryDelta = 60
+MaxAhead is 15
+**** IPXManagerClass::Init ***
+About to open primary UDP socket
+About to bind the UDP socket to port 1234
+Socket option SO_RCVBUF set OK
+Socket option SO_SNDBUF set OK
+Primary UDP Socket init complete
+About to query the host name
+About to call gethostbyname
+Found local address: 192.168.19.103
+About to open alternate UDP socket
+About to bind the UDP socket
+Socket option SO_RCVBUF set OK
+Socket option SO_SNDBUF set OK
+Alternate UDP Socket init complete
+FD_WRITE - No OutBuffers left - nothing to do
+FD_WRITE - No AltOutBuffers left - nothing to do
+Processing sides.
+Side 0: GDI 
+  Americans
+  Entente
+Side 1: Nod 
+  Russia
+  China
+  ASEAN
+Side 2: ThirdSide 
+  Confusion
+  Defense
+  Spread
+Side 3: TraceRL 
+  Rylade
+Side 4: Civilian 
+  Neutral
+Side 5: Mutant 
+  Special
+
+LOADING GAME [SAVE37F9.SAV]
+Converting 0 nodes.
+About to load the game
+Map.Init_Clear()
+MapClass::Init_Clear entry
+MapClass::Init_Clear done
+RadarClass::Init_Clear
+RadarClass::Init_Clear done
+Logic.Init()
+CurrentObjects.Clear()
+Scen->Clear_All_Waypoints()
+Init_Campaigns()
+Scenario Load: ElapsedTimer = 222210
+Preparing Mixfiles for Side 01.
+     Initilizing SIDEC02MD.MIX
+     Initilizing SIDEC02.MIX
+     Initilizing SIDENC02.MIX
+RadarClass::Init_For_House()
+Allocating new surfaces
+Deleting AlternateSurface
+Deleting HiddenSurface
+Deleting CompositeSurface
+Deleting TileSurface
+Deleting SidebarSurface
+CompositeSurface (1752x1080) VRAM ENABLE_3D
+TileSurface (1752x1080) VRAM ENABLE_3D
+SidebarSurface (168x1080) VRAM
+HiddenSurface (1920x1080) VRAM
+AlternateSurface (1920x1080) VRAM
+Set_View_Dimensions(0,0,1752,1048)
+Deleting ZBuffer
+Allocating ZBuffer (1752x1048)
+Deleting ABuffer
+Allocating ABuffer (1752x1048)
+MessageListClass::Init(Width: 1738)
+MessageListClass::Set_Width(1744)
+Set_View_Dimensions(exit)
+Init theater URBAN
+[SIWIC] 开始从存档读取 [Empty] 类型的原型
+Loaded 240 isometric tiles consuming 1345 Kb
+[Phobos] Replacing image for BEEFK with HTNK.
+[Phobos] Replacing image for BEEFK with HTNK.
+[Phobos] Replacing image for ROBO with ROBO.
+[Phobos] Replacing image for ROBO with ROBO.
+[Phobos] Replacing image for BEEFK with HTNK.
+[Phobos] Replacing image for BEEFK with HTNK.
+[Phobos] Replacing image for BEEFK with HTNK.
+[Phobos] Replacing image for SDOG with DOG.
+[Phobos] Replacing image for LUNR with LUNR.
+[Phobos] Replacing image for CAML with JOSH.
+[Phobos] Replacing image for DNOB with DNOB.
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Loading global Ares data
+Finished loading the game
+Converting 72424 nodes.
+[Developer fatal]Pointer 30F77E08 could not be remapped from 28410C80!
+[Developer fatal]Pointer 30F77E10 could not be remapped from 28410C40!
+[Phobos] Recalculated 6 extra palettes across 143 color schemes (total: 858).
+     Releasing NEUTRAL.MIX
+     Releasing NTRLMD.MIX
+LOADING GAME [Saved Games\SAVE37F9.SAV] - Complete
+
+Entering Create_Connections
+IPX Manager: RetryDelta = 60
+MaxAhead is 24
+Tooltips are on.
+Capture_Mouse()
+[Developer warning]An INI section inherits from section 'DisplaySD', which doesn't exist or has not been parsed yet.
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[LAUNCH] ChristmasSongSpecial
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Create_One_Of...
+Creating a new team named 'Power'.
+Create_One_Of...
+Creating a new team named 'Power'.
+[LAUNCH] IceBoom04Special
+[LAUNCH] WarChestSpecial
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] LightningGuideSpecial
+[LAUNCH] MalignantPulseSpecial
+[LAUNCH] ChristmasGift1Special
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Adding event PRODUCE
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+[LAUNCH] ChristmasGift2Special
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+(0044ec0b) : Computer is abandoning production of BiBian Guard Tank[BIBIAN]
+Creating survivor type 'Conscript' from building type 'Soviet War Factory'
+Survivor unlimbo OK
+Creating survivor type 'Conscript' from building type 'Soviet War Factory'
+Survivor unlimbo OK
+Creating survivor type 'Conscript' from building type 'Soviet War Factory'
+Survivor unlimbo OK
+Creating survivor type 'Conscript' from building type 'Soviet War Factory'
+Survivor unlimbo OK
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 183 220, 单位类型 FREEDOM_A
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 103 138, 单位类型 DISK
+[LAUNCH] ChristmasGift1Special
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Adding event PLACE
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 105 138, 单位类型 DISK
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 104 140, 单位类型 DISK
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 105 140, 单位类型 DISK
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[LAUNCH] ChristmasGift1Special
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Weapons factory bib clear - kicking out unit
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[Phobos] CreateUnit: Using stored turret facing 224
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Adding event PRODUCE
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 185 218, 单位类型 CORTER_A
+[LAUNCH] ChristmasGift2Special
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+[LAUNCH] ChristmasGift2Special
+Weapons factory bib clear - kicking out unit
+Adding event PLACE
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Weapons factory bib clear - kicking out unit
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[LAUNCH] ChristmasGift1Special
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+(0044ec0b) : Computer is abandoning production of Lushu Tank[CTNK]
+Creating survivor type 'Conscript' from building type 'Soviet War Factory'
+Creating survivor type 'Conscript' from building type 'Soviet War Factory'
+Survivor unlimbo OK
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 162 197, 单位类型 CORTER_A
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[LAUNCH] ChristmasGift2Special
+Create_One_Of...
+Creating a new team named 'USA T1 A 1'.
+Create_One_Of...
+Creating a new team named 'USA T1 A 2'.
+[Phobos] CreateUnit: Using stored turret facing 7
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[LAUNCH] PsychicRevealSpecial
+Weapons factory bib clear - kicking out unit
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Adding event SELL
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Adding event SELL
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Create_One_Of...
+Creating a new team named 'ENT T3 A 1'.
+Create_One_Of...
+Creating a new team named 'USA T3 A 2'.
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Weapons factory bib clear - kicking out unit
+Adding event PRODUCE
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[LAUNCH] ParaDropSpecial
+(0044ec0b) : Computer is abandoning production of Lushu Tank[CTNK]
+Creating survivor type 'Conscript' from building type 'Soviet War Factory'
+Survivor unlimbo OK
+Creating survivor type 'Conscript' from building type 'Soviet War Factory'
+Survivor unlimbo OK
+Creating survivor type 'Conscript' from building type 'Soviet War Factory'
+Survivor unlimbo OK
+Creating survivor type 'Conscript' from building type 'Soviet War Factory'
+Survivor unlimbo OK
+Regular findpath failure: (105,173) to (106, 175)
+Warning.  A* without HS: (105,173) to (106, 175)
+[Phobos] CreateUnit: Using stored turret facing 64
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[Phobos] CreateUnit: Using stored turret facing 155
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+[LAUNCH] HarvestSpecial
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Weapons factory bib clear - kicking out unit
+[LAUNCH] SpySatelliteSpecial
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[LAUNCH] WarChestSpecial
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[LAUNCH] SpyPlaneSpecial
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+[LAUNCH] Harvest1Special
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[LAUNCH] Harvest2Special
+Weapons factory bib clear - kicking out unit
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] Harvest1Special
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Weapons factory bib clear - kicking out unit
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+[LAUNCH] Harvest1Special
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Weapons factory bib clear - kicking out unit
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Creating survivor type 'GI' from building type 'Allied Power Plant'
+Survivor unlimbo OK
+Weapons factory bib clear - kicking out unit
+[LAUNCH] ParaDropSpecial
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[LAUNCH] Harvest1Special
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Adding event PLACE
+[LAUNCH] WarChestSpecial
+(0044ec0b) : Computer is abandoning production of BiBian Guard Tank[BIBIAN]
+Creating survivor type 'Conscript' from building type 'Soviet War Factory'
+Survivor unlimbo OK
+Creating survivor type 'Conscript' from building type 'Soviet War Factory'
+Survivor unlimbo OK
+Regular findpath failure: (104,173) to (102, 175)
+Creating survivor type 'Conscript' from building type 'Soviet War Factory'
+Survivor unlimbo OK
+Creating survivor type 'Conscript' from building type 'Soviet War Factory'
+Survivor unlimbo OK
+Adding event PLACE
+[LAUNCH] Harvest2Special
+Weapons factory bib clear - kicking out unit
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 175 208, 单位类型 ALPLANE
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 98 154, 单位类型 PLOTER8
+[LAUNCH] Harvest1Special
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 99 207, 单位类型 SUPLANE
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Adding event PRODUCE
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[LAUNCH] Harvest2Special
+[LAUNCH] Harvest1Special
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] Harvest1Special
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+[LAUNCH] Harvest2Special
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[LAUNCH] SpySatelliteSpecial
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[LAUNCH] WarChestSpecial
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Adding event PLACE
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Adding event PLACE
+Adding event PLACE
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+[LAUNCH] ParaDropSpecial
+Adding event PLACE
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Adding event PLACE
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Weapons factory bib clear - kicking out unit
+Adding event PRODUCE
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 100 143, 单位类型 PLOTER8
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+Sound frame size = 43008 bytes
+Sound buffer size = 172032 bytes
+[LAUNCH] WarChestSpecial
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Weapons factory bib clear - kicking out unit
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 129 157, 单位类型 PLOTER8
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Adding event PLACE
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+[Phobos] CreateUnit: Using stored turret facing 160
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Create_One_Of...
+Creating a new team named 'USA T1 B 1'.
+Create_One_Of...
+Creating a new team named 'USA T1 B 2'.
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Weapons factory bib clear - kicking out unit
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Weapons factory bib clear - kicking out unit
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+(0044ec0b) : Computer is abandoning production of Lushu Tank[CTNK]
+Creating survivor type 'Conscript' from building type 'Soviet War Factory'
+Survivor unlimbo OK
+Creating survivor type 'Conscript' from building type 'Soviet War Factory'
+Survivor unlimbo OK
+Regular findpath failure: (104,173) to (102, 171)
+Creating survivor type 'Conscript' from building type 'Soviet War Factory'
+Survivor unlimbo OK
+Creating survivor type 'Conscript' from building type 'Soviet War Factory'
+Survivor unlimbo OK
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Create_One_Of...
+Creating a new team named 'RUS T1 C 1'.
+Create_One_Of...
+Creating a new team named 'RUS T1 C 2'.
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[LAUNCH] TKDONSpecial
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 123 150, 单位类型 FINBER8
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 105 139, 单位类型 FINBER8
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 23552 bytes
+Sound buffer size = 94208 bytes
+[Phobos] CreateUnit: Using stored turret facing 161
+Paused ElapsedTimer = 684569
+Tooltips are off.
+Release_Mouse()
+Default
+Default
+Checking available disk space
+Using GetDiskFreeSpaceEx
+Free disk space is 42614 Mb
+Default
+
+SAVING GAME [SAVE32EB.SAV - About to save the game
+Scenario Save: ElapsedTimer = -1
+[SIWIC] 开始向存档保存 [Empty] 类型的原型
+Saving global Ares data
+Finished saving the game
+SAVING GAME [Saved Games\SAVE32EB.SAV] - Complete
+
+Default
+Default
+Default
+Default
+Default
+Default
+Default
+Default
+
+LOADING GAME [SAVE32EB.SAV]
+Converting 0 nodes.
+About to load the game
+(0044ec0b) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+(0044ec0b) : Computer is abandoning production of Pacificator Siege Vehicle[PACTOR]
+(0044ec0b) : Computer is abandoning production of BiBian Guard Tank[BIBIAN]
+(0044ec0b) : Computer is abandoning production of Yuri Initiate[INIT]
+[Phobos] Recalculated 6 extra palettes across 143 color schemes (total: 858).
+Map.Init_Clear()
+MapClass::Init_Clear entry
+MapClass::Init_Clear done
+RadarClass::Init_Clear
+RadarClass::Init_Clear done
+Logic.Init()
+CurrentObjects.Clear()
+Scen->Clear_All_Waypoints()
+Init_Campaigns()
+Scenario Load: ElapsedTimer = 227627
+Preparing Mixfiles for Side 01.
+     Releasing SIDEC02.MIX
+     Releasing SIDENC02.MIX
+     Initilizing SIDEC02MD.MIX
+     Initilizing SIDEC02.MIX
+     Initilizing SIDENC02.MIX
+RadarClass::Init_For_House()
+Allocating new surfaces
+Deleting AlternateSurface
+Deleting HiddenSurface
+Deleting CompositeSurface
+Deleting TileSurface
+Deleting SidebarSurface
+CompositeSurface (1752x1080) VRAM ENABLE_3D
+TileSurface (1752x1080) VRAM ENABLE_3D
+SidebarSurface (168x1080) VRAM
+HiddenSurface (1920x1080) VRAM
+AlternateSurface (1920x1080) VRAM
+Set_View_Dimensions(0,0,1752,1048)
+Deleting ZBuffer
+Allocating ZBuffer (1752x1048)
+Deleting ABuffer
+Allocating ABuffer (1752x1048)
+MessageListClass::Init(Width: 1738)
+MessageListClass::Set_Width(1744)
+Set_View_Dimensions(exit)
+Init theater URBAN
+[SIWIC] 开始从存档读取 [Empty] 类型的原型
+Loaded 240 isometric tiles consuming 1345 Kb
+[Phobos] Replacing image for BEEFK with HTNK.
+[Phobos] Replacing image for BEEFK with HTNK.
+[Phobos] Replacing image for ROBO with ROBO.
+[Phobos] Replacing image for ROBO with ROBO.
+[Phobos] Replacing image for BEEFK with HTNK.
+[Phobos] Replacing image for BEEFK with HTNK.
+[Phobos] Replacing image for BEEFK with HTNK.
+[Phobos] Replacing image for SDOG with DOG.
+[Phobos] Replacing image for LUNR with LUNR.
+[Phobos] Replacing image for CAML with JOSH.
+[Phobos] Replacing image for DNOB with DNOB.
+Loading global Ares data
+Finished loading the game
+Converting 73373 nodes.
+[Developer fatal]Pointer 00EB6970 could not be remapped from 39C00010!
+[Developer fatal]Pointer 00EB6978 could not be remapped from 39C00C90!
+[Phobos] Recalculated 6 extra palettes across 143 color schemes (total: 858).
+LOADING GAME [Saved Games\SAVE32EB.SAV] - Complete
+
+Default
+Default
+Default
+Default
+Default
+Capture_Mouse()
+Resume ElapsedTimer = 684658
+Tooltips are on.
+[Developer warning]An INI section inherits from section 'DisplaySD', which doesn't exist or has not been parsed yet.
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+[LAUNCH] ParaDropSpecial
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Weapons factory bib clear - kicking out unit
+[LAUNCH] IceBoom04Special
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+[SIWIC] 从格子中移除单位时未找到单位 , 格子位置 165 205, 单位类型 ALPLANE
+Paused ElapsedTimer = 684997
+Tooltips are off.
+Release_Mouse()
+Default
+Default
+Capture_Mouse()
+Resume ElapsedTimer = 684997
+Tooltips are on.
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Weapons factory bib clear - kicking out unit
+Weapons factory bib clear - kicking out unit
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+(0044ec0b) : Computer is abandoning production of BiBian Guard Tank[BIBIAN]
+Creating survivor type 'Conscript' from building type 'Soviet War Factory'
+Survivor unlimbo OK
+Creating survivor type 'Conscript' from building type 'Soviet War Factory'
+Survivor unlimbo OK
+Creating survivor type 'Conscript' from building type 'Soviet War Factory'
+Survivor unlimbo OK
+Creating survivor type 'Conscript' from building type 'Soviet War Factory'
+Survivor unlimbo OK
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Weapons factory bib clear - kicking out unit
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+(0045022c) : Computer is abandoning production of Allied Lightning Guide Tower[GALGTR]
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Sound frame size = 21504 bytes
+Sound buffer size = 86016 bytes
+Paused ElapsedTimer = 685614
+Tooltips are off.
+Release_Mouse()
+Default
+Default
+Default
+Default
+Adding event EXIT
+Capture_Mouse()
+Resume ElapsedTimer = 685614
+Tooltips are on.
+Sending game results.  SawCompletion=1
+Processing EXIT event on frame 481938
+Sound frame size = 11264 bytes
+Sound buffer size = 45056 bytes
+LOADED NTRLMD.MIXLOADED NEUTRAL.MIX
+Tooltips are off.
+Release_Mouse()
+Theme::Stop(17) - Fading
+Disconnect_Gracefully
+     Releasing NEUTRAL.MIX
+     Releasing NTRLMD.MIX
+LOADED NTRLMD.MIXLOADED NEUTRAL.MIX
+Game loop finished. Average FPS = 32
+     Releasing NEUTRAL.MIX
+     Releasing NTRLMD.MIX
+Closing log file on request 111
